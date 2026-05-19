@@ -27,11 +27,15 @@ Tato kapitola pokrývá:
 
 ### § 396 — Volba systému
 
-> (1) Systém vnitřní struktury společnosti, ve kterém se zřizuje **představenstvo a dozorčí rada**, je systém **dualistický**.
-> 
-> (2) Systém vnitřní struktury společnosti, ve kterém se zřizuje **správní rada**, je systém **monistický**.
-> 
-> (3) V pochybnostech platí, že je zvolen **dualistický systém**.
+<details><summary>📜 <b>Text § 396</b></summary>
+
+> (1) Systém vnitřní struktury společnosti, ve kterém se zřizuje představenstvo a dozorčí rada, je systém dualistický.
+>
+> (2) Systém vnitřní struktury společnosti, ve kterém se zřizuje správní rada, je systém monistický.
+>
+> (3) V pochybnostech platí, že je zvolen dualistický systém.
+
+</details>
 
 **Výklad:**
 
@@ -53,6 +57,20 @@ V praxi je změna systému spíše vzácná (často je spojena s **přípravou I
 ### Pododdíl 1 — Představenstvo (§ 435—445)
 
 #### § 435 — Postavení představenstva
+
+<details><summary>📜 <b>Text § 435</b></summary>
+
+> (1) Statutárním orgánem společnosti je představenstvo.
+>
+> (2) Představenstvu přísluší obchodní vedení společnosti.
+>
+> (3) Představenstvo se řídí zásadami a pokyny schválenými valnou hromadou, pokud jsou v souladu s právními předpisy a stanovami. Nikdo však není oprávněn udělovat představenstvu pokyny týkající se obchodního vedení; tím není dotčen § 51 odst. 2.
+>
+> (4) Představenstvo zajišťuje řádné vedení účetnictví, předkládá valné hromadě ke schválení řádnou, mimořádnou, konsolidovanou, případně mezitímní účetní závěrku a v souladu se stanovami také návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhradu ztráty.
+>
+> (5) Představenstvo společnosti, která nezpracovává výroční zprávu podle jiného právního předpisu, vyhotoví zprávu o podnikatelské činnosti a o stavu jejího majetku, v níž zhodnotí stav majetku a podnikatelskou činnost společnosti v účetním období, za něž se sestavuje účetní závěrka, a předpokládaný další vývoj podnikatelské činnosti společnosti. Zpráva o podnikatelské činnosti a o stavu jejího majetku se uloží do sbírky listin ve lhůtě pro uložení účetní závěrky sestavené za účetní období, za něž se zpráva sestavuje.
+
+</details>
 
 **Výklad:**
 
@@ -79,6 +97,20 @@ V praxi je změna systému spíše vzácná (často je spojena s **přípravou I
 
 #### § 436—437 — Uveřejňování závěrky
 
+<details><summary>📜 <b>Text §§ 436—437</b></summary>
+
+**§ 436**
+
+> (1) Účetní závěrku uveřejní představenstvo na internetových stránkách společnosti alespoň po dobu 30 dnů přede dnem konání valné hromady a po dobu 30 dnů od schválení nebo neschválení účetní závěrky.
+>
+> (2) Společně s účetní závěrkou uveřejní představenstvo výroční zprávu zpracovanou podle právních předpisů upravujících účetnictví. Nezpracovává-li se výroční zpráva, uveřejní představenstvo společně s účetní závěrkou zprávu o podnikatelské činnosti společnosti a o stavu jejího majetku.
+
+**§ 437**
+
+> Stanovy mohou určit jiný způsob, jakým představenstvo může své povinnosti podle [[#§ 436|§ 436]] splnit, pokud takový postup nebude omezovat právo akcionářů na požadované informace.
+
+</details>
+
 **§ 436 odst. 1 — povinné uveřejnění**:
 - **Účetní závěrka** + výroční zpráva (či zpráva o podnikatelské činnosti) **na internetových stránkách**;
 - **Min. 30 dnů před VH** + **30 dnů po schválení/neschválení**.
@@ -86,6 +118,24 @@ V praxi je změna systému spíše vzácná (často je spojena s **přípravou I
 **§ 437 — alternativní postup**: Stanovy mohou určit jiný způsob, pokud **neomezuje právo na informace** akcionářů.
 
 #### § 438—438a — Volba a odvolání
+
+<details><summary>📜 <b>Text §§ 438—438a</b></summary>
+
+**§ 438**
+
+> (1) Členy představenstva volí a odvolává valná hromada, ledaže stanovy určí, že tato působnost náleží dozorčí radě.
+>
+> (2) V případě, že volí členy představenstva dozorčí rada, schválí také smlouvy o výkonu funkce s jednotlivými členy představenstva.
+>
+> (3) Smlouva o výkonu funkce schválená dozorčí radou podle odstavce 2 se může odchýlit od stanov za podmínek v nich určených.
+
+**§ 438a**
+
+> (1) Stanovy mohou určit, že s akcií je spojeno právo jmenovat jednoho nebo více členů představenstva a takto jmenovaného člena odvolat. Celkový počet takto jmenovaných členů nesmí být větší než počet členů představenstva volených valnou hromadou nebo, určí-li tak stanovy, počet členů představenstva volených dozorčí radou. Ustanovení § 448b odst. 2 až 6 se použijí obdobně.
+>
+> (2) Určují-li stanovy, že členy představenstva volí a odvolává dozorčí rada, rozumí se pro účely odstavce 1 valnou hromadou dozorčí rada.
+
+</details>
 
 **§ 438 odst. 1 — orgán volby**:
 - **Default**: VH;
@@ -103,6 +153,14 @@ Stanovy mohou určit, že s **konkrétní akcií** je spojeno právo **jmenovat 
 
 #### § 439 — Velikost a funkční období
 
+<details><summary>📜 <b>Text § 439</b></summary>
+
+> (1) Neurčí-li stanovy jinak, má představenstvo 3 členy.
+>
+> (2) Neobsahují-li stanovy nebo smlouva o výkonu funkce délku funkčního období, platí, že činí 3 roky.
+
+</details>
+
 **§ 439 odst. 1 — výchozí velikost**: **3 členové** (default).
 
 **§ 439 odst. 2 — funkční období**: **3 roky** (default).
@@ -113,6 +171,16 @@ Stanovy mohou určit jinak — typicky:
 - **Funkční období**: 4—5 let (delší kontinuita) nebo **2 roky** (kratší u některých regulovaných odvětví).
 
 #### § 440 — Rozhodování
+
+<details><summary>📜 <b>Text § 440</b></summary>
+
+> (1) Představenstvo rozhoduje většinou hlasů přítomných členů, ledaže stanovy určí vyšší počet. Každý člen představenstva má 1 hlas.
+>
+> (2) O průběhu jednání představenstva a o jeho rozhodnutích se pořizují zápisy podepsané předsedajícím a zapisovatelem; přílohou zápisu je seznam přítomných.
+>
+> (3) V zápisu se jmenovitě uvedou členové představenstva, kteří hlasovali proti jednotlivým rozhodnutím nebo se zdrželi hlasování; u neuvedených členů se má za to, že hlasovali pro přijetí rozhodnutí.
+
+</details>
 
 **Výklad:**
 
@@ -127,6 +195,18 @@ Stanovy mohou určit jinak — typicky:
 **Praktický význam zápisu**: Klíčové pro **odpovědnost** členů představenstva. Pokud člen nesouhlasil s rozhodnutím, **musí to být v zápisu jmenovitě** — jinak se domněnka aplikuje proti němu (= odpovídá za rozhodnutí).
 
 #### § 441 — Zákaz konkurence
+
+<details><summary>📜 <b>Text § 441</b></summary>
+
+> (1) Člen představenstva nesmí podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob, ani zprostředkovávat obchody společnosti pro jiného.
+>
+> (2) Člen představenstva nesmí být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným předmětem činnosti nebo osobou v obdobném postavení, ledaže se jedná o koncern.
+>
+> (3) Člen představenstva se nesmí účastnit na podnikání jiné obchodní korporace jako společník s neomezeným ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+>
+> (4) Stanovy mohou upravit zákaz konkurence odchylně od odstavců 1 až 3.
+
+</details>
 
 **Výklad:**
 
@@ -143,6 +223,26 @@ Stanovy mohou určit jinak — typicky:
 **Sankce**: § 5 ZOK — **vydání prospěchu** + § 51—53 ZOK (péče řádného hospodáře).
 
 #### § 443—445 — Zánik funkce, substituce, kooptace
+
+<details><summary>📜 <b>Text §§ 443—445</b></summary>
+
+**§ 443**
+
+> (1) V případě smrti člena představenstva, odstoupení z funkce, odvolání anebo jiného ukončení jeho funkce anebo v případě zániku právnické osoby, která je členem představenstva, bez právního nástupce zvolí příslušný orgán do 2 měsíců nového člena představenstva. Nebude-li z důvodů uvedených ve větě první představenstvo schopno plnit své funkce, jmenuje chybějící členy soud na návrh osoby, která na tom má právní zájem, a to na dobu, než bude řádně zvolen chybějící člen nebo členové, jinak může soud společnost i bez návrhu zrušit a nařídit její likvidaci.
+>
+> (2) Funkce člena představenstva zaniká také, je-li za něj zvolen nový člen.
+
+**§ 444**
+
+> (1) Stanovy mohou určit, že představenstvo, jehož počet členů neklesl pod polovinu, může jmenovat náhradní členy do příštího zasedání orgánu, který je oprávněn členy jmenovat. Doba výkonu funkce náhradního člena představenstva se nezapočítává do doby výkonu funkce člena představenstva, neurčují-li stanovy něco jiného.
+>
+> (2) Stanovy také mohou určit volbu náhradníků, kteří nastupují na uvolněné místo člena představenstva podle stanoveného pořadí.
+
+**§ 445**
+
+> Zanikne-li právnická osoba, která je členem představenstva, s právním nástupcem, stává se členem představenstva její právní nástupce, ledaže stanovy určí jinak.
+
+</details>
 
 **§ 443 odst. 1 — substituce při zániku funkce**:
 - **2 měsíce** od zániku → příslušný orgán (VH nebo DR) **zvolí náhradníka**;
@@ -162,6 +262,28 @@ Stanovy mohou určit jinak — typicky:
 ### Pododdíl 2 — Dozorčí rada (§ 446—455)
 
 #### § 446—447 — Postavení a působnost
+
+<details><summary>📜 <b>Text §§ 446—447</b></summary>
+
+**§ 446**
+
+> (1) Dozorčí rada dohlíží na výkon působnosti představenstva a na činnost společnosti.
+>
+> (2) Dozorčí rada se řídí zásadami schválenými valnou hromadou, ledaže jsou v rozporu s tímto zákonem nebo stanovami. Porušení těchto zásad nemá účinky vůči třetím osobám.
+>
+> (3) Nikdo není oprávněn udělovat dozorčí radě pokyny týkající se její zákonné povinnosti kontroly působnosti představenstva.
+
+**§ 447**
+
+> (1) Dozorčí rada je oprávněna nahlížet do všech dokladů a záznamů týkajících se činnosti společnosti a kontrolovat, zda jsou účetní zápisy vedeny řádně a v souladu se skutečností a zda se podnikatelská či jiná činnost společnosti děje v souladu s právními předpisy a stanovami.
+>
+> (2) Oprávnění podle odstavce 1 mohou členové dozorčí rady využívat jen na základě rozhodnutí dozorčí rady, ledaže dozorčí rada není schopna plnit své funkce.
+>
+> (3) Dozorčí rada přezkoumává řádnou, mimořádnou, konsolidovanou, popřípadě také mezitímní účetní závěrku a návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo na úhradu ztráty a předkládá svá vyjádření valné hromadě.
+>
+> (4) Dozorčí rada určí svého člena, který zastupuje společnost v řízení před soudy a jinými orgány proti členu představenstva.
+
+</details>
 
 **§ 446 odst. 1 — kontrolní role**:
 
@@ -193,6 +315,18 @@ Analogie autonomie obchodního vedení (§ 435 odst. 3) pro DR — chrání **ne
 
 #### § 448 — Velikost, volba a funkční období
 
+<details><summary>📜 <b>Text § 448</b></summary>
+
+> (1) Neurčí-li stanovy jinak, má dozorčí rada tři členy. Počet členů dozorčí rady musí být dělitelný třemi, jde-li o společnost, v níž zaměstnanci volí jednu třetinu členů dozorčí rady.
+>
+> (2) Členy dozorčí rady volí a odvolává valná hromada, nestanoví-li zákon jinak. Má-li společnost v první den účetního období, v němž má být do funkce ustanoven člen dozorčí rady, více než 500 zaměstnanců v pracovním poměru, volí jednu třetinu členů dozorčí rady zaměstnanci společnosti. Stanovy mohou určit vyšší počet členů dozorčí rady volených zaměstnanci, avšak tento počet nesmí být větší, než počet členů volených valnou hromadou; mohou rovněž určit, že zaměstnanci volí část členů dozorčí rady i při menším počtu zaměstnanců společnosti.
+>
+> (3) Neobsahují-li stanovy nebo smlouva o výkonu funkce délku funkčního období, platí, že činí 3 roky.
+>
+> (4) Člen dozorčí rady nesmí být současně členem představenstva nebo jinou osobou oprávněnou podle zápisu v obchodním rejstříku jednat za společnost.
+
+</details>
+
 **§ 448 odst. 1 — velikost**:
 - **Default**: 3 členové;
 - Pokud zaměstnanci volí 1/3 členů — **počet členů musí být dělitelný 3** (např. 3, 6, 9).
@@ -214,6 +348,26 @@ Analogie autonomie obchodního vedení (§ 435 odst. 3) pro DR — chrání **ne
 Klíčové **separace** kontroly od řízení.
 
 #### § 448a — Člen DR volený zaměstnanci
+
+<details><summary>📜 <b>Text § 448a</b></summary>
+
+> (1) Člena dozorčí rady voleného zaměstnanci mají právo volit a odvolat pouze zaměstnanci, kteří jsou v době volby nebo odvolání v pracovním poměru ke společnosti.
+>
+> (2) Stanoví-li to volební řád, zaměstnanci volí a odvolávají člena dozorčí rady prostřednictvím volitelů. Volební obvody vytváří a zrušuje představenstvo podle pravidel určených ve volebním řádu. Volební řád určí způsob zařazování zaměstnanců do jednotlivých volebních obvodů; každý zaměstnanec se zařazuje právě do jednoho volebního obvodu. Při volbě volitelů se postupuje obdobně podle odstavců 4 až 7. Volitelem může být jen zaměstnanec, který je v pracovním poměru ke společnosti. Funkce volitele zaniká také, je-li na jeho místo zvolen nový volitel, nebo jeho odstoupením z funkce. Odstoupením zaniká funkce volitele uplynutím 2 měsíců ode dne doručení odstoupení společnosti, ledaže volební řád určí jiný okamžik zániku funkce.
+>
+> (3) Členem dozorčí rady voleným zaměstnanci může být pouze zaměstnanec, který je v pracovním poměru ke společnosti, ledaže stanovy určí, že členu dozorčí rady volenému zaměstnanci nezaniká funkce skončením pracovního poměru ke společnosti, pokud odešel do důchodu; odchylné ujednání stanov nemá právní účinky.
+>
+> (4) Návrh na volbu nebo odvolání člena dozorčí rady voleného zaměstnanci je oprávněno podat představenstvo, odborová organizace nebo rada zaměstnanců anebo společně alespoň 10 % zaměstnanců v pracovním poměru ke společnosti.
+>
+> (5) K platnosti volby nebo odvolání členů dozorčí rady volených zaměstnanci se vyžaduje, aby hlasování bylo tajné a aby se voleb zúčastnila alespoň třetina oprávněných voličů nebo zvolených volitelů. Zvolen je kandidát s nejvyšším počtem odevzdaných hlasů; volební řád může určit vyšší většinu hlasů. Člen dozorčí rady zvolený zaměstnanci je odvolán, hlasovala-li pro jeho odvolání alespoň polovina oprávněných voličů nebo zvolených volitelů, nestanoví-li volební řád pro odvolání jinou většinu.
+>
+> (6) Volba a odvolání členů dozorčí rady volených zaměstnanci nebo voliteli se řídí volebním řádem, který připraví a schválí představenstvo po projednání s odborovou organizací a radou zaměstnanců, působí-li ve společnosti.
+>
+> (7) Volby nebo odvolání členů dozorčí rady volených zaměstnanci organizuje představenstvo po projednání s odborovou organizací a radou zaměstnanců, působí-li ve společnosti, tak, aby se jich mohl účastnit co nejvyšší počet voličů.
+>
+> (8) Člen představenstva, dozorčí rady, likvidátor, odborová organizace nebo rada zaměstnanců, které byly oprávněné podat návrh podle odstavce 4, anebo společně alespoň 10 % zaměstnanců v pracovním poměru ke společnosti se mohou z důvodů podle [[#§ 428|§ 428]] dovolávat neplatnosti volby nebo odvolání člena dozorčí rady voleného zaměstnanci podle ustanovení [[občanského zákoníku|občanského zákoníku]] o neplatnosti rozhodnutí orgánu spolku. Ustanovení § 429 odst. 2 se použije obdobně.
+
+</details>
 
 **Výklad:**
 
@@ -243,6 +397,22 @@ Klíčové **separace** kontroly od řízení.
 
 #### § 448b — Člen DR jmenovaný akcionářem
 
+<details><summary>📜 <b>Text § 448b</b></summary>
+
+> (1) Stanovy mohou určit, že s akcií je spojeno právo jmenovat jednoho nebo více členů dozorčí rady a takto jmenovaného člena odvolat. Celkový počet takto jmenovaných členů nesmí být větší než počet členů dozorčí rady volených valnou hromadou.
+>
+> (2) Jmenování a odvolání člena dozorčí rady podle odstavce 1 vyžaduje písemnou formu s úředně ověřeným podpisem; jmenování a odvolání je vůči společnosti účinné doručením. Akcionář při výkonu práva podle odstavce 1 doloží společnosti, že je oprávněn toto právo vykonat.
+>
+> (3) Nejmenuje-li akcionář člena dozorčí rady do 1 měsíce ode dne, kdy mohl právo podle odstavce 1 vykonat, může dozorčí rada, jejíž počet členů neklesl pod polovinu, jmenovat náhradního člena do doby, než akcionář toto právo vykoná.
+>
+> (4) Člena dozorčí rady jmenovaného podle odstavce 1 nebo [[#§ 3|3]] může valná hromada odvolat pouze tehdy, pokud právo podle odstavce 1 zanikne nebo je-li pro to dán závažný důvod spočívající ve výkonu funkce jmenovaného člena dozorčí rady, zejména porušil-li závažně nebo opakovaně své povinnosti.
+>
+> (5) Na dovolání se neplatnosti jmenování nebo odvolání člena dozorčí rady jmenovaného podle odstavce 1 nebo [[#§ 3|3]] se použijí [[#§ 428|§ 428]] a § 429 odst. 2 obdobně.
+>
+> (6) K rozhodnutí o změně stanov, které umožní vydat akcii s právem podle odstavce 1, je třeba alespoň tříčtvrtinové většiny hlasů všech akcionářů každého druhu akcií.
+
+</details>
+
 **Výklad:**
 
 **Analog § 438a** (představenstvo) — stanovy mohou určit, že **s akcií je spojeno právo jmenovat člena DR**.
@@ -262,6 +432,24 @@ Klíčové **separace** kontroly od řízení.
 
 #### § 449—450 — Účast na VH, rozhodování, zápis
 
+<details><summary>📜 <b>Text §§ 449—450</b></summary>
+
+**§ 449**
+
+> (1) Členové dozorčí rady se zúčastňují valné hromady a pověřený člen dozorčí rady ji seznamuje s výsledky činnosti dozorčí rady. Členům dozorčí rady musí být uděleno slovo, kdykoliv o to požádají.
+>
+> (2) Dozorčí rada rozhoduje většinou přítomných členů, ledaže stanovy určí vyšší počet. Každý člen dozorčí rady má 1 hlas.
+
+**§ 450**
+
+> (1) O průběhu jednání dozorčí rady a o jejích rozhodnutích se pořizuje zápis podepsaný předsedajícím; přílohou zápisu je seznam přítomných.
+>
+> (2) V zápisu se jmenovitě uvedou členové dozorčí rady, kteří hlasovali proti přijetí jednotlivých rozhodnutí nebo se zdrželi hlasování; u neuvedených členů se má za to, že hlasovali pro přijetí rozhodnutí.
+>
+> (3) V zápise se uvedou také stanoviska menšiny členů, jestliže o to požádají.
+
+</details>
+
 **§ 449 odst. 1 — účast DR na VH**:
 - **Vždy se účastní**;
 - **Pověřený člen** seznamuje VH s výsledky činnosti DR;
@@ -277,6 +465,38 @@ Klíčové **separace** kontroly od řízení.
 
 #### § 451—455 — Zákaz konkurence, substituce
 
+<details><summary>📜 <b>Text §§ 451—455</b></summary>
+
+**§ 451**
+
+> (1) Člen dozorčí rady nesmí podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob, ani zprostředkovávat obchody společnosti pro jiného.
+>
+> (2) Člen dozorčí rady nesmí být členem statutárního orgánu jiné právnické osoby se stejným nebo s obdobným předmětem činnosti nebo osobou v obdobném postavení, ledaže jde o koncern.
+>
+> (3) Člen dozorčí rady se nesmí účastnit na podnikání jiné obchodní korporace jako společník s neomezeným ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+>
+> (4) Stanovy mohou upravit zákaz konkurence odchylně od odstavců 1 až 3.
+
+**§ 452** — *[text nenalezen]*
+
+**§ 453**
+
+> (1) V případě smrti člena dozorčí rady, odstoupení z funkce, odvolání anebo jiného ukončení jeho funkce anebo v případě zániku právnické osoby, která je členem dozorčí rady, bez právního nástupce zvolí příslušný orgán do 2 měsíců nového člena dozorčí rady. Nebude-li z tohoto důvodu dozorčí rada schopna plnit své funkce, jmenuje chybějící členy soud na návrh osoby, která na tom má právní zájem, a to na dobu, než bude řádně zvolen chybějící člen nebo členové, jinak může soud společnost i bez návrhu zrušit a nařídit její likvidaci.
+>
+> (2) Funkce člena dozorčí rady zaniká také, je-li za něj zvolen nebo jmenován nový člen.
+
+**§ 454**
+
+> (1) Stanovy mohou určit, že dozorčí rada, jejíž počet členů neklesl pod polovinu, může jmenovat náhradní členy do příštího zasedání valné hromady. Doba výkonu funkce náhradního člena dozorčí rady se nezapočítává do doby výkonu funkce člena dozorčí rady, neurčují-li stanovy něco jiného.
+>
+> (2) Stanovy mohou také určit volbu náhradníků, kteří nastupují na uvolněné místo člena dozorčí rady podle stanoveného pořadí.
+
+**§ 455**
+
+> Zanikne-li právnická osoba, která je členem dozorčí rady, s právním nástupcem, stává se členem dozorčí rady její právní nástupce, ledaže stanovy určí jinak.
+
+</details>
+
 **§ 451 — zákaz konkurence**: Analog § 441 (představenstvo), § 199 (jednatel s.r.o.).
 
 **§ 453—454 — substituce a kooptace**: Analog § 443—444 (představenstvo).
@@ -288,6 +508,28 @@ Klíčové **separace** kontroly od řízení.
 ## Oddíl 4 — Monistický systém (§ 456—463)
 
 ### § 456 — Postavení správní rady
+
+<details><summary>📜 <b>Text § 456</b></summary>
+
+> (1) Statutárním orgánem společnosti je správní rada.
+>
+> (2) Správní radě přísluší obchodní vedení a dohled nad činností společnosti.
+>
+> (3) Správní rada se řídí zásadami a pokyny schválenými valnou hromadou, pokud jsou v souladu s právními předpisy a stanovami. Nikdo však není oprávněn udělovat správní radě pokyny týkající se obchodního vedení nebo dohledu nad činností společnosti; tím není dotčen § 51 odst. 2.
+>
+> (4) Působností správní rady určovat základní zaměření obchodního vedení a základní zaměření dohledu nad činností společnosti nelze pověřit osoby odlišné od členů správní rady; tuto působnost nelze ani rozdělit mezi členy správní rady podle určitých oborů podle [[občanského zákoníku|občanského zákoníku]].
+>
+> (5) Správní rada zajišťuje řádné vedení účetnictví, předkládá valné hromadě ke schválení řádnou, mimořádnou, konsolidovanou, případně mezitímní účetní závěrku a v souladu se stanovami také návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhradu ztráty.
+>
+> (6) Správní rada společnosti, která nezpracovává výroční zprávu podle jiného právního předpisu, vyhotoví zprávu o podnikatelské činnosti a o stavu jejího majetku, v níž zhodnotí stav majetku a podnikatelskou činnost společnosti v účetním období, za něž se sestavuje účetní závěrka, a předpokládaný další vývoj podnikatelské činnosti společnosti. Zpráva o podnikatelské činnosti a o stavu jejího majetku se uloží do sbírky listin ve lhůtě pro uložení účetní závěrky sestavené za účetní období, za něž se zpráva sestavuje.
+>
+> (7) Účetní závěrku uveřejní správní rada na internetových stránkách společnosti alespoň po dobu 30 dnů přede dnem konání valné hromady a po dobu 30 dnů od schválení nebo neschválení účetní závěrky.
+>
+> (8) Společně s účetní závěrkou uveřejní správní rada také výroční zprávu zpracovanou podle právních předpisů upravujících účetnictví, zpracovává-li se. Nezpracovává-li se výroční zpráva, uveřejní správní rada společně s účetní závěrkou zprávu o podnikatelské činnosti společnosti a o stavu jejího majetku.
+>
+> (9) Stanovy mohou určit jiný způsob, jakým správní rada může své povinnosti podle odstavců 7 a [[#§ 8|8]] splnit, pokud takový postup nebude omezovat právo akcionářů na požadované informace.
+
+</details>
 
 **Výklad:**
 
@@ -320,6 +562,32 @@ Dvojnásobná autonomie — i kontrola je nezávislá od VH (analogie § 446 ods
 
 ### § 457—459 — Velikost, volba, zákaz konkurence
 
+<details><summary>📜 <b>Text §§ 457—459</b></summary>
+
+**§ 457**
+
+> (1) Neurčí-li stanovy jinak, má správní rada 3 členy.
+>
+> (2) Neobsahují-li stanovy nebo smlouva o výkonu funkce délku funkčního období, platí, že činí 3 roky.
+
+**§ 458**
+
+> (1) Členy správní rady volí a odvolává valná hromada, ledaže stanovy určí, že právo jmenovat jednoho nebo více členů správní rady a takto jmenovaného člena odvolat je spojeno s akcií; v takovém případě se [[#§ 448b|§ 448b]] použije obdobně.
+>
+> (2) Na člena správní rady se použijí ustanovení § 54 až 57 o střetu zájmů člena kontrolního orgánu.
+
+**§ 459**
+
+> (1) Člen správní rady nesmí podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob, ani zprostředkovávat obchody společnosti pro jiného.
+>
+> (2) Člen správní rady nesmí být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným předmětem činnosti nebo osobou v obdobném postavení, ledaže se jedná o koncern.
+>
+> (3) Člen správní rady se nesmí účastnit na podnikání jiné obchodní korporace jako společník s neomezeným ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+>
+> (4) Stanovy mohou upravit zákaz konkurence odchylně od odstavců 1 až 3.
+
+</details>
+
 **§ 457 — velikost a funkční období**:
 - **Default**: 3 členové;
 - **Funkční období**: 3 roky.
@@ -333,6 +601,34 @@ Dvojnásobná autonomie — i kontrola je nezávislá od VH (analogie § 446 ods
 **§ 459 — zákaz konkurence**: Analog § 441 / § 451.
 
 ### § 460—463 — Substituce, rozhodování
+
+<details><summary>📜 <b>Text §§ 460—463</b></summary>
+
+**§ 460**
+
+> (1) V případě smrti člena správní rady, odstoupení z funkce, odvolání anebo jiného ukončení jeho funkce anebo v případě zániku právnické osoby, která je členem správní rady, bez právního nástupce zvolí valná hromada do 2 měsíců nového člena správní rady. Nebude-li z uvedených důvodů správní rada schopna plnit své funkce, jmenuje chybějící členy soud na návrh osoby, která na tom má právní zájem, a to na dobu, než bude řádně zvolen chybějící člen nebo členové, jinak může soud společnost i bez návrhu zrušit a nařídit její likvidaci.
+>
+> (2) Funkce člena správní rady zaniká také, je-li za něj zvolen nový člen.
+>
+> (3) Stanovy mohou určit, že správní rada, jejíž počet členů neklesl pod polovinu, může jmenovat náhradní členy do příštího zasedání valné hromady. Doba výkonu funkce náhradního člena správní rady se nezapočítává do doby výkonu funkce člena správní rady, neurčují-li stanovy něco jiného.
+>
+> (4) Stanovy mohou také určit volbu náhradníků, kteří nastupují na uvolněné místo člena správní rady podle stanoveného pořadí.
+>
+> (5) Zanikne-li právnická osoba, která je členem správní rady, s právním nástupcem, stává se členem správní rady její právní nástupce, ledaže stanovy určí jinak.
+
+**§ 461**
+
+> (1) Správní rada rozhoduje většinou hlasů přítomných členů, ledaže stanovy určí vyšší počet. Každý člen správní rady má 1 hlas.
+>
+> (2) O průběhu jednání správní rady a o jejích rozhodnutích se pořizují zápisy podepsané předsedajícím a zapisovatelem; přílohou zápisu je seznam přítomných.
+>
+> (3) V zápisu se jmenovitě uvedou členové správní rady, kteří hlasovali proti jednotlivým rozhodnutím nebo se zdrželi hlasování; u neuvedených členů správní rady se má za to, že hlasovali pro přijetí rozhodnutí.
+
+**§ 462** — *[text nenalezen]*
+
+**§ 463** — *[text nenalezen]*
+
+</details>
 
 **§ 460 — substituce a kooptace**: Analog § 443—444 pro představenstvo + § 453—454 pro DR.
 

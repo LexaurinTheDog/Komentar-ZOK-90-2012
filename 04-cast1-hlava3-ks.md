@@ -30,6 +30,14 @@ Tato dualita umožňuje **kombinovat výhody osobní účasti s ochranou kapitá
 
 ### § 118 — Definice k.s.
 
+<details><summary>📜 <b>Text § 118</b></summary>
+
+> (1) Komanditní společnost je společnost, v níž alespoň jeden společník ručí za její dluhy omezeně (dále jen „komanditista“) a alespoň jeden společník neomezeně (dále jen „komplementář“).
+>
+> (2) Firma obsahuje označení „komanditní společnost“, které může být nahrazeno zkratkou „kom. spol.“ nebo „k. s.“. Komanditista, jehož jméno je uvedeno ve firmě, ručí za dluhy společnosti jako komplementář. Ustanovení § 95 odst. 3 se na postavení komanditistů nepoužije, ledaže společenská smlouva určí jinak.
+
+</details>
+
 **Výklad:**
 
 **§ 118 odst. 1 — definiční znaky**:
@@ -58,7 +66,11 @@ Důvod: kogentní ochrana věřitelů — pokud je jméno komanditisty ve firmě
 
 ### § 119 — Subsidiární aplikace pravidel o v.o.s.
 
+<details><summary>📜 <b>Text § 119</b></summary>
+
 > Pokud ze společných ustanovení části druhé a této hlavy zákona neplyne něco jiného, použijí se na komanditní společnost přiměřeně ustanovení o veřejné obchodní společnosti.
+
+</details>
 
 **Výklad:**
 
@@ -77,6 +89,14 @@ Tj. např. zákaz konkurence (§ 109 ZOK) se na komplementáře aplikuje plně; 
 
 ### § 120 — Podíly komanditistů
 
+<details><summary>📜 <b>Text § 120</b></summary>
+
+> (1) Podíly komanditistů se určují podle poměru jejich vkladů.
+>
+> (2) Výše vypořádacího podílu komanditisty se určí podle pravidel stanovených tímto zákonem pro vypořádací podíl ve společnosti s ručením omezeným.
+
+</details>
+
 **Výklad:**
 
 **§ 120 odst. 1**: Podíly komanditistů se určují **podle poměru jejich vkladů**. (Na rozdíl od v.o.s., kde jsou podíly defaultně rovné — § 97 odst. 2 ZOK.)
@@ -87,6 +107,14 @@ Tj. např. zákaz konkurence (§ 109 ZOK) se na komplementáře aplikuje plně; 
 
 ### § 121 — Vkladová povinnost komanditisty
 
+<details><summary>📜 <b>Text § 121</b></summary>
+
+> (1) Komanditista splní vkladovou povinnost ve výši a způsobem určeným ve společenské smlouvě, jinak v penězích a bez zbytečného odkladu po vzniku své účasti ve společnosti.
+>
+> (2) Ustanovení [[#§ 103|§ 103]] se na postavení komanditistů nepoužije, ledaže společenská smlouva určí jinak.
+
+</details>
+
 **Výklad:**
 
 **§ 121 odst. 1**: Komanditista splní vkladovou povinnost **ve výši a způsobem podle SS**; jinak **v penězích bez zbytečného odkladu** po vzniku účasti.
@@ -95,7 +123,11 @@ Tj. např. zákaz konkurence (§ 109 ZOK) se na komplementáře aplikuje plně; 
 
 ### § 122 — Ručení komanditisty
 
-> Za dluhy společnosti ručí komanditista s ostatními společníky společně a nerozdílně do výše svého **nesplaceného vkladu podle stavu zápisu v obchodním rejstříku**.
+<details><summary>📜 <b>Text § 122</b></summary>
+
+> Za dluhy společnosti ručí komanditista s ostatními společníky společně a nerozdílně do výše svého nesplaceného vkladu podle stavu zápisu v obchodním rejstříku.
+
+</details>
 
 **Výklad:**
 
@@ -110,7 +142,11 @@ Tj. např. zákaz konkurence (§ 109 ZOK) se na komplementáře aplikuje plně; 
 
 ### § 123 — Převoditelnost podílu komanditisty
 
+<details><summary>📜 <b>Text § 123</b></summary>
+
 > Ustanovení o převoditelnosti podílu ve společnosti s ručením omezeným se použijí přiměřeně.
+
+</details>
 
 **Výklad:**
 
@@ -127,6 +163,16 @@ Tj. např. zákaz konkurence (§ 109 ZOK) se na komplementáře aplikuje plně; 
 
 ### § 124 — Obsah SS k.s.
 
+<details><summary>📜 <b>Text § 124</b></summary>
+
+> Společenská smlouva obsahuje také
+>
+> - a) určení, který ze společníků je komplementář a který komanditista,
+>
+> - b) výši vkladu každého komanditisty.
+
+</details>
+
 **Výklad:**
 
 Vedle obecných náležitostí (§ 98 ZOK pro v.o.s. + § 8 ZOK obecně), SS k.s. musí obsahovat:
@@ -141,6 +187,14 @@ Vedle obecných náležitostí (§ 98 ZOK pro v.o.s. + § 8 ZOK obecně), SS k.s
 ## Rozhodování a obchodní vedení (§ 125)
 
 ### § 125 — Statutární orgán a hlasování
+
+<details><summary>📜 <b>Text § 125</b></summary>
+
+> (1) Statutárním orgánem společnosti jsou všichni komplementáři, kteří splňují požadavky stanovené v [[#§ 46|§ 46]]. Společenská smlouva může určit, že statutárním orgánem společnosti jsou pouze někteří z komplementářů, kteří splňují požadavky stanovené v [[#§ 46|§ 46]], nebo jeden z nich.
+>
+> (2) Neurčí-li společenská smlouva jinak, rozhodují ve věcech, které nepřísluší statutárnímu orgánu, všichni společníci, přičemž zvlášť hlasují komplementáři a zvlášť komanditisté.
+
+</details>
 
 **Výklad:**
 
@@ -167,6 +221,18 @@ Vedle obecných náležitostí (§ 98 ZOK pro v.o.s. + § 8 ZOK obecně), SS k.s
 ## Podíl na zisku a ztrátě (§ 126)
 
 ### § 126 — Rozdělení zisku
+
+<details><summary>📜 <b>Text § 126</b></summary>
+
+> (1) Zisk a ztráta se dělí mezi společnost a komplementáře. Neurčí-li společenská smlouva jiné dělení, dělí se zisk a ztráta mezi společnost a komplementáře na polovinu.
+>
+> (2) Komplementáři si část zisku a ztráty rozdělí podle [[#§ 112|§ 112]].
+>
+> (3) Část zisku, která připadla společnosti, se po zdanění rozdělí mezi komanditisty v poměru jejich podílů. Ztrátu komanditisté nenesou.
+>
+> (4) Odstavce 2 a [[#§ 3|3]] se použijí, neurčí-li společenská smlouva nebo rozhodnutí všech společníků jinak.
+
+</details>
 
 **Výklad:**
 
@@ -197,6 +263,30 @@ V praxi: pro daňovou optimalizaci se často nastavuje **vyšší podíl pro kom
 
 ### § 127 — Důvody zániku účasti komanditisty (ne zrušení společnosti)
 
+<details><summary>📜 <b>Text § 127</b></summary>
+
+> (1) Důvodem pro zrušení společnosti není
+>
+> - a) nastoupení účinků prohlášení konkursu na majetek komanditisty,
+>
+> - b) nastoupení účinků schválení oddlužení zpeněžením majetkové podstaty komanditisty,
+>
+> - c) pravomocné nařízení výkonu rozhodnutí postižením podílu komanditisty, nebo právní moc exekučního příkazu k postižení podílu komanditisty po uplynutí lhůty uvedené ve výzvě ke splnění vymáhané povinnosti podle zvláštního právního předpisu a, byl-li v této lhůtě podán návrh na zastavení exekuce, právní moc rozhodnutí, kterým bylo řízení o zastavení exekuce zastaveno, nebo kterým byl návrh na zastavení exekuce odmítnut nebo zamítnut, není-li podíl komanditisty převoditelný,
+>
+> - d) smrt nebo zánik komanditisty,
+>
+> - e) výpověď komanditisty podle § 113 odst. 1 písm. a), nebo
+>
+> - f) vyloučení komanditisty podle § 115 odst. 2.
+>
+> (2) Důvody podle odstavce 1 způsobují zánik účasti komanditisty ve společnosti.
+>
+> (3) Ke zrušení komanditní společnosti postačí, že požadavky [[#§ 46|§ 46]] nesplňuje žádný z komplementářů.
+>
+> (4) Účast komanditisty zaniká i doručením vyrozumění o neúspěšné opakované dražbě v řízení o výkonu rozhodnutí nebo v exekuci.
+
+</details>
+
 **Výklad:**
 
 **Klíčový rozdíl od v.o.s.**: U v.o.s. **smrt/konkurs/oddlužení společníka zrušuje celou společnost** (§ 113 ZOK). U k.s. **smrt komanditisty zrušuje pouze jeho účast**, nikoli celou společnost (§ 127 odst. 2).
@@ -221,11 +311,47 @@ V praxi: pro daňovou optimalizaci se často nastavuje **vyšší podíl pro kom
 
 ### § 128 — Obnovení účasti komanditisty
 
+<details><summary>📜 <b>Text § 128</b></summary>
+
+> (1) Jestliže je zrušen konkurs na majetek komanditisty z jiných důvodů než pro splnění rozvrhového usnesení nebo proto, že komanditistův majetek byl zcela nepostačující, účast komanditisty ve společnosti se obnoví dnem, kdy je společnosti doručen projev vůle komanditisty účast obnovit; nestane-li se tak do 4 měsíců od právní moci takového rozhodnutí, toto právo zaniká. Vyplatila-li společnost vypořádací podíl, komanditista ho nahradí společnosti spolu s projevem vůle účast obnovit, jinak se mu účast ve společnosti neobnoví.
+>
+> (2) Odstavec 1 se použije obdobně i v případě, kdy byl skončen výkon rozhodnutí, nebo zanikly účinky exekučního příkazu k postižení podílu, ledaže byla vymáhaná povinnost alespoň zčásti splněna z prostředků získaných postižením podílu.
+>
+> (3) Projev vůle podle odstavce 1 musí mít písemnou formu s úředně ověřeným podpisem.
+
+</details>
+
 **Výklad:**
 
 Analogická úprava jako § 114 ZOK pro v.o.s. — pokud byl **konkurs na majetek komanditisty zrušen** z jiných důvodů než vyčerpáním majetku, komanditista může obnovit účast (4měsíční prekluzivní lhůta).
 
 ### § 129—131 — Komanditní suma
+
+<details><summary>📜 <b>Text §§ 129—131</b></summary>
+
+**§ 129**
+
+> (1) Pokud společenská smlouva určí, že komanditisté ručí za dluhy společnosti do výše určené částky (dále jen „komanditní suma“), uvede se tato částka ve společenské smlouvě. Nelze sjednat nižší komanditní sumu, než kolik činí vklad komanditisty.
+>
+> (2) Postupuje-li společnost podle odstavce 1, uplatní se tyto výjimky z úpravy komanditní společnosti
+>
+> - a) část zisku, která připadla společnosti, se po zdanění rozdělí mezi komanditisty v poměru jejich podílů a komanditních sum,
+>
+> - b) ztrátu uhradí komanditista s ostatními společníky podle svého podílu, avšak jen do výše své komanditní sumy,
+>
+> - c) za dluhy společnosti ručí komanditista s ostatními společníky společně a nerozdílně do výše jeho komanditní sumy zapsané v obchodním rejstříku v době, kdy je věřitel vyzval k plnění.
+
+**§ 130**
+
+> Komanditní suma se snižuje v rozsahu, ve kterém komanditista splnil svou vkladovou povinnost.
+
+**§ 131**
+
+> (1) Změny komanditní sumy jsou účinné jejich zápisem do obchodního rejstříku.
+>
+> (2) Pokud komanditista nebo společnost s jeho souhlasem uveřejnili zvýšení jeho komanditní sumy anebo to věřitelům jinak oznámili, ručí komanditista podle § 129 odst. 2 písm. c) do výše zvýšené komanditní sumy.
+
+</details>
 
 **Výklad:**
 

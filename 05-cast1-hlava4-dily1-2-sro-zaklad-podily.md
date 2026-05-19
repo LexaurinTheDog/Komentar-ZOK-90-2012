@@ -44,6 +44,14 @@ Hlava IV ZOK je rozdělena do **6 dílů**:
 
 ### § 132 — Definice a firma s.r.o.
 
+<details><summary>📜 <b>Text § 132</b></summary>
+
+> (1) Společnost s ručením omezeným je společnost, za jejíž dluhy ručí společníci společně a nerozdílně do výše, v jaké nesplnili vkladové povinnosti podle stavu zapsaného v obchodním rejstříku v době, kdy byli věřitelem vyzváni k plnění.
+>
+> (2) Firma obsahuje označení „společnost s ručením omezeným“, které může být nahrazeno zkratkou „spol. s r.o.“ nebo „s.r.o.“.
+
+</details>
+
 **Výklad:**
 
 **§ 132 odst. 1 — definiční znak**: **ručení společníků za dluhy společnosti**:
@@ -69,7 +77,11 @@ V praxi se používá zkratka **s.r.o.** (zpravidla i v právních dokumentech),
 
 ### § 133 — Velikost podílu
 
-> Podíl společníka ve společnosti s ručením omezeným se určuje **podle poměru jeho vkladu na tento podíl připadající k výši základního kapitálu**, ledaže společenská smlouva určí jinak.
+<details><summary>📜 <b>Text § 133</b></summary>
+
+> Podíl společníka ve společnosti s ručením omezeným se určuje podle poměru jeho vkladu na tento podíl připadající k výši základního kapitálu, ledaže společenská smlouva určí jinak.
+
+</details>
 
 **Výklad:**
 
@@ -85,6 +97,14 @@ V praxi se používá zkratka **s.r.o.** (zpravidla i v právních dokumentech),
 
 ### § 134 — Regresní právo společníka po plnění z titulu ručení
 
+<details><summary>📜 <b>Text § 134</b></summary>
+
+> (1) Plnění věřiteli poskytnuté společníkem z důvodu jeho ručení podle § 132 odst. 1 se započítává na splnění jeho nejdříve splatné vkladové povinnosti.
+>
+> (2) V případě, že započtení není možné, poskytne společníkovi náhradu za jeho plnění společnost. Nedosáhne-li společník náhrady plnění od společnosti, poskytnou mu náhradu za jeho plnění společníci v poměru, v jakém nesplnili svou vkladovou povinnost podle stavu zapsaného v obchodním rejstříku ke dni, v němž byl společník vyzván k plnění.
+
+</details>
+
 **Výklad:**
 
 **§ 134 odst. 1**: Pokud společník zaplatí věřiteli z titulu svého ručení (§ 132 odst. 1 ZOK), plnění se započítává na splnění jeho **nejdříve splatné vkladové povinnosti**. Tj. společník neplatí "navíc" — splácí svůj vlastní vklad.
@@ -98,6 +118,24 @@ Pokud započtení není možné (např. společník již vklad zcela splatil a p
 **Praktický význam**: Toto pravidlo má smysl pro situace, kdy jeden ze společníků doplatí ručení (typicky vyšší jistinný věřitel), ale ostatní mají také nesplacené vklady — solidární mechanismus regresu mezi spoluručiteli.
 
 ### § 135—136 — Druhy podílů
+
+<details><summary>📜 <b>Text §§ 135—136</b></summary>
+
+**§ 135**
+
+> (1) Společenská smlouva může připustit vznik různých druhů podílů. Podíly, se kterými jsou spojena stejná práva a povinnosti, tvoří jeden druh. Podíl, se kterým nejsou spojena žádná zvláštní práva a povinnosti, je podíl základní.
+>
+> (2) Určí-li tak společenská smlouva, může společník vlastnit více podílů, a to i různého druhu.
+>
+> (3) Upraví-li společenská smlouva podíly, se kterými není spojeno hlasovací právo, není tím dotčeno ustanovení § 171 odst. 2.
+>
+> (4) Ve společnosti musí být alespoň jeden podíl, se kterým je spojeno hlasovací právo.
+
+**§ 136**
+
+> Různé druhy podílů a jejich obsah se určí ve společenské smlouvě.
+
+</details>
 
 **Výklad:**
 
@@ -135,6 +173,38 @@ Pokud započtení není možné (např. společník již vklad zcela splatil a p
 
 ### § 137—138 — Kmenový list
 
+<details><summary>📜 <b>Text §§ 137—138</b></summary>
+
+**§ 137**
+
+> (1) Určí-li tak společenská smlouva, může být podíl společníka představován kmenovým listem. Je-li podle společenské smlouvy dovolen vznik více podílů pro jednoho společníka, může společnost vydat kmenový list pro každý podíl.
+>
+> (2) Kmenový list lze vydat pouze k podílu, jehož převoditelnost není omezena nebo podmíněna.
+>
+> (3) Kmenový list je cenný papír na řad. Kmenový list nelze vydat jako zaknihovaný cenný papír.
+>
+> (4) Kmenový list nemůže být veřejně nabízen nebo přijat k obchodování na evropském regulovaném trhu ani na jiném veřejném trhu.
+
+**§ 138**
+
+> (1) Kmenový list obsahuje
+>
+> - a) označení, že se jedná o kmenový list,
+>
+> - b) jednoznačnou identifikaci společnosti,
+>
+> - c) výši vkladu připadající na podíl,
+>
+> - d) jednoznačnou identifikaci společníka,
+>
+> - e) název druhu podílu, k němuž je kmenový list vydán, upravuje-li společenská smlouva více druhů podílů, a označení podílu, k němuž je kmenový list vydán, a
+>
+> - f) číslo kmenového listu a podpis jednatele nebo jednatelů. Podpis může být nahrazen jeho otiskem, pokud jsou na listině současně použity ochranné prvky proti jejímu padělání nebo pozměnění.
+>
+> (2) Byl-li vydán hromadný kmenový list, obsahuje také údaj o tom, kolik kmenových listů nahrazuje, a označení podílů, které nahrazuje.
+
+</details>
+
 **Výklad:**
 
 **§ 137 — kmenový list jako cenný papír**:
@@ -171,6 +241,30 @@ Povinné údaje:
 
 ### § 139—141 — Seznam společníků
 
+<details><summary>📜 <b>Text §§ 139—141</b></summary>
+
+**§ 139**
+
+> (1) Společníci se zapisují do seznamu společníků, který vede společnost.
+>
+> (2) Do seznamu společníků se zapisuje jméno a bydliště nebo sídlo společníka, případně jiná společníkem určená adresa pro doručování, výše jeho podílu, jemu odpovídající výše vkladu, počet hlasů náležející k podílu, povinnost přispět na vytvoření vlastního kapitálu peněžitými prostředky nad společníkův vklad (dále jen „příplatek“) spojenou s podílem, bude-li určena, den zápisu do seznamu společníků a označení podílu, může-li společník vlastnit více podílů. Pokud společník vlastní více podílů, uvede se jejich výše a jim odpovídající výše vkladu u každého podílu. Upravuje-li společenská smlouva více druhů podílů, uvede se i jejich název.
+>
+> (3) Vydala-li společnost kmenové listy, zapisuje se o tom poznámka u podílu, ke kterému byl kmenový list vydán, a číslo kmenového listu.
+>
+> (4) Společnost provede zápis zapisované skutečnosti bez zbytečného odkladu poté, co jí bude změna prokázána.
+
+**§ 140**
+
+> Společnost vydá každému svému společníkovi na jeho písemnou žádost a za úhradu nákladů opis nebo výpis údajů, které se ho týkají, a to nejpozději do 7 dnů od doručení žádosti.
+
+**§ 141**
+
+> (1) Údaje zapsané v seznamu společníků nesmí společnost používat jinak než pro své potřeby ve vztahu ke společníkům. Za jiným účelem může tyto údaje společnost použít jen se souhlasem společníků, kterých se údaje týkají.
+>
+> (2) Přestane-li společník být společníkem, společnost jej ze seznamu společníků bez zbytečného odkladu vymaže.
+
+</details>
+
 **Výklad:**
 
 **§ 139 — povinnost vést seznam**: Společnost **vede seznam společníků**. **Povinný obsah**:
@@ -194,6 +288,32 @@ Povinné údaje:
 **Vztah k OR**: Seznam společníků je **interní evidence**; OR vede **veřejný rejstřík** společníků (§ 48 zákona č. 304/2013 Sb.). Údaje v obou evidencích musí být **konzistentní** — výchozí evidence je seznam společníků, OR jen reflektuje.
 
 ### § 142—144 — Vklad
+
+<details><summary>📜 <b>Text §§ 142—144</b></summary>
+
+**§ 142**
+
+> (1) Minimální výše vkladu je 1 Kč, ledaže společenská smlouva určí, že výše vkladu je vyšší.
+>
+> (2) Výše vkladu může být pro jednotlivé podíly stanovena rozdílně.
+
+**§ 143**
+
+> (1) Nepeněžitý vklad ocení znalec vybraný ze seznamu znalců vedeného podle jiného právního předpisu. Odměna znalci za zpracování znaleckého posudku se určí dohodou a hradí ji společnost. Vedle odměny náleží znalci náhrada za účelně vynaložené náklady spojené s vypracováním znaleckého posudku. V případě, že společnost nevznikne, hradí odměnu společně a nerozdílně zakladatelé.
+>
+> (2) Znalce podle odstavce 1 vybírají při zakládání společnosti zakladatelé, jinak jednatel.
+>
+> (3) Posudek znalce obsahuje alespoň popis nepeněžitého vkladu, použité metody ocenění nebo metodu ocenění, částku, na kterou se nepeněžitý vklad oceňuje, a odůvodnění, jak znalec k tomu ocenění došel.
+>
+> (4) Ustanovení § 468 až 473 se použijí obdobně; případné nové ocenění se provede podle odstavců 1 a [[#§ 2|2.]]
+
+**§ 144**
+
+> (1) Ve společenské smlouvě, v prohlášení o zvýšení vkladu nebo v prohlášení o převzetí vkladové povinnosti se uvede i popis nepeněžitého vkladu, jeho ocenění a částka, která se započítává na emisní kurs. Částka, která se započítává na emisní kurs, nesmí být vyšší než ocenění uvedené v posudku znalce nebo ocenění podle [[#§ 468|§ 468]] nebo [[#§ 469|469]].
+>
+> (2) Rozdíl mezi cenou nepeněžitého vkladu určenou posudkem znalce nebo podle [[#§ 468|§ 468]] nebo [[#§ 469|469]] a výší vkladu společníka tvoří vkladové ážio, ledaže společenská smlouva nebo rozhodnutí valné hromady určí, že se tento rozdíl nebo jeho část vrací vkladateli nebo se použije se souhlasem společníka na tvorbu rezervního fondu.
+
+</details>
 
 **Výklad:**
 
@@ -237,7 +357,11 @@ Povinné údaje:
 
 ### § 145 — Rozdělení podílu
 
+<details><summary>📜 <b>Text § 145</b></summary>
+
 > Vznikne-li rozdělením podílu ve společnosti nový podíl, musí být zachována nejnižší výše vkladu požadovaná tímto zákonem nebo společenskou smlouvou; k rozdělení podílu v rozporu s tím se nepřihlíží.
+
+</details>
 
 **Výklad:**
 
@@ -246,6 +370,40 @@ Při rozdělení podílu (§ 43 ZOK) musí být zachován **min. 1 Kč** na kaž
 **§ 145 in fine — "nepřihlíží se"**: Rozdělení v rozporu = **zdánlivé právní jednání** (právní jednání není). Sankce silnější než neplatnost.
 
 ### § 146 — Obsah společenské smlouvy
+
+<details><summary>📜 <b>Text § 146</b></summary>
+
+> (1) Společenská smlouva obsahuje také
+>
+> - a) firmu společnosti,
+>
+> - b) předmět podnikání nebo činnosti společnosti,
+>
+> - c) určení společníků uvedením jména a bydliště nebo sídla,
+>
+> - d) označení podílů, může-li společník vlastnit více podílů, a název druhu podílu a práva a povinnosti s ním spojené, upravuje-li společenská smlouva více druhů podílů,
+>
+> - e) výši vkladu nebo vkladů připadajících na podíl nebo podíly,
+>
+> - f) výši základního kapitálu a
+>
+> - g) počet jednatelů a způsob jejich jednání za společnost.
+>
+> (2) Společenská smlouva při založení společnosti obsahuje také
+>
+> - a) vkladovou povinnost zakladatelů, včetně lhůty pro její splnění,
+>
+> - b) údaj o tom, koho zakladatelé určují jednatelem nebo jednateli, popřípadě členy jiných volených orgánů společnosti,
+>
+> - c) určení správce vkladů a
+>
+> - d) u nepeněžitého vkladu jeho popis, jeho ocenění, částku, kterou se započítává na emisní kurs, a určení osoby znalce, který provedl ocenění nepeněžitého vkladu.
+>
+> (3) Údaje podle odstavce 2 lze po vzniku společnosti a po splnění vkladové povinnosti ze společenské smlouvy vypustit; společenská smlouva může svěřit toto rozhodnutí do působnosti jednatele. Rozhodnutí podle tohoto odstavce se nepovažuje za rozhodnutí o změně společenské smlouvy.
+>
+> (4) Ministerstvo spravedlnosti uveřejní na svých internetových stránkách vzor společenské smlouvy, který lze využít k založení společnosti.
+
+</details>
 
 **Výklad:**
 
@@ -270,6 +428,16 @@ Při rozdělení podílu (§ 43 ZOK) musí být zachován **min. 1 Kč** na kaž
 
 ### § 147 — Změna společenské smlouvy
 
+<details><summary>📜 <b>Text § 147</b></summary>
+
+> (1) Společenská smlouva může být měněna dohodou všech společníků; pro tuto dohodu se vyžaduje veřejná listina. Stanoví-li tak společenská smlouva, může být měněna i rozhodnutím valné hromady.
+>
+> (2) Rozhodnutí valné hromady, jehož důsledkem je změna společenské smlouvy, nahrazuje rozhodnutí o změně společenské smlouvy. Takové rozhodnutí valné hromady se osvědčuje veřejnou listinou.
+>
+> (3) Neplyne-li z rozhodnutí valné hromady, jakým způsobem se společenská smlouva mění, změní její obsah jednatel v souladu s rozhodnutím valné hromady. Rozhodnutí jednatele o změně obsahu společenské smlouvy má formu veřejné listiny; tvoří-li více jednatelů kolektivní orgán, osvědčuje se rozhodnutí veřejnou listinou.
+
+</details>
+
 **Výklad:**
 
 **Dvě cesty změny SS**:
@@ -283,7 +451,11 @@ Při rozdělení podílu (§ 43 ZOK) musí být zachován **min. 1 Kč** na kaž
 
 ### § 148 — Splacení vkladů před zápisem
 
+<details><summary>📜 <b>Text § 148</b></summary>
+
 > Před podáním návrhu na zápis společnosti do obchodního rejstříku se splatí celé vkladové ážio a na každý peněžitý vklad nejméně jeho 30 %.
+
+</details>
 
 **Výklad:**
 
@@ -298,6 +470,22 @@ Při rozdělení podílu (§ 43 ZOK) musí být zachován **min. 1 Kč** na kaž
 - 30 % z 1 Kč = 0,3 Kč → fakticky se vždy zaplatí celá 1 Kč (lze v hotovosti správci vkladů, § 23 odst. 2 ZOK — souhrn do 20 000 Kč).
 
 ### § 149 — Vlastní podíl
+
+<details><summary>📜 <b>Text § 149</b></summary>
+
+> (1) Společnost může nabýt svůj podíl, nejde-li o jeho nabytí smlouvou o převodu podílu.
+>
+> (2) Společnost, která nabude svůj podíl, nevykonává s tímto podílem hlasovací práva.
+>
+> (3) Právo na podíl na zisku nebo jiných vlastních zdrojích spojené s vlastním podílem v majetku společnosti zaniká jeho splatností. Nevyplacený zisk nebo jiné vlastní zdroje společnost zaúčtuje ve prospěch účtu, proti kterému byl původně zaúčtován, a není-li to již možné, tak ve prospěch účtu nerozděleného zisku minulých let.
+>
+> (4) V případě, že společnost nabude všechny své podíly, převede je nebo některý z nich jednatel do 3 měsíců od nabytí posledního z nich na třetí osobu, jinak soud společnost i bez návrhu zruší. Hodnota podílů se určí na základě znaleckého posudku; [[#§ 143|§ 143]] se použije obdobně.
+>
+> (5) Převádí-li společnost vlastní podíl, mají k němu společníci předkupní právo. Využije-li předkupní právo více společníků, rozdělí se převáděný podíl mezi tyto společníky podle poměru jejich podílů.
+>
+> (6) Odstavce 1, [[#§ 2|2]] a [[#§ 4|4]] se použijí obdobně pro nabytí podílu společnosti jí ovládanou osobou nebo osobou jednající svým jménem na účet této ovládané osoby.
+
+</details>
 
 **Výklad:**
 
@@ -325,6 +513,24 @@ Při rozdělení podílu (§ 43 ZOK) musí být zachován **min. 1 Kč** na kaž
 
 ### § 150—151 — Vkladová povinnost
 
+<details><summary>📜 <b>Text §§ 150—151</b></summary>
+
+**§ 150**
+
+> (1) Společník splní vkladovou povinnost ve lhůtě určené společenskou smlouvou, nejpozději však do 5 let ode dne vzniku společnosti nebo od převzetí vkladové povinnosti za trvání společnosti.
+>
+> (2) Vkladové povinnosti nemůže být společník zproštěn, ledaže jde o snížení základního kapitálu.
+
+**§ 151**
+
+> (1) Společník, který je v prodlení se splacením peněžitého vkladu, uhradí společnosti úrok z prodlení ve výši dvojnásobku sazby úroku z prodlení stanovené jiným právním předpisem z dlužné částky, ledaže společenská smlouva určí jinak.
+>
+> (2) Společníka, který je v prodlení se splněním vkladové povinnosti, ačkoliv byl k jejímu plnění vyzván a na možnost vyloučení upozorněn, může ze společnosti valná hromada vyloučit. Má-li společník více podílů, týká se vyloučení jen toho podílu, ohledně něhož je společník v prodlení s plněním vkladové povinnosti, ačkoliv byl k jejímu plnění vyzván a na možnost vyloučení upozorněn, ledaže společenská smlouva určí jinak.
+>
+> (3) Současně s vyloučením vyzve společnost písemně vyloučeného společníka, aby jí odevzdal bez zbytečného odkladu kmenový list, byl-li vydán.
+
+</details>
+
 **Výklad:**
 
 **§ 150 odst. 1 — lhůta splacení**:
@@ -347,6 +553,36 @@ Pokud má společník **více podílů**, vyloučení se týká **jen toho podí
 
 ### § 152—154 — Kmenový list — povinnost odevzdání a neplatnost
 
+<details><summary>📜 <b>Text §§ 152—154</b></summary>
+
+**§ 152**
+
+> (1) Stanoví-li tak zákon, odevzdá společník bez zbytečného odkladu kmenový list společnosti.
+>
+> (2) V případě prodlení společníků s odevzdáním kmenových listů stahovaných společností na základě zákona z oběhu za účelem jejich výměny, vyznačení nové výše vkladu nebo zničení, vyzve jednatel společníky způsobem stanoveným zákonem a společenskou smlouvou pro svolání valné hromady, aby tak učinili v přiměřené lhůtě, kterou jim k tomu určí, s upozorněním, že jinak budou nepředložené nebo nevrácené kmenové listy prohlášeny za neplatné.
+>
+> (3) Kmenové listy, které nebyly přes výzvu v dodatečné lhůtě odevzdány, jednatel prohlásí za neplatné a prohlášení bez zbytečného odkladu oznámí společníkům, jejichž kmenových listů se neplatnost dotýká, na adresu uvedenou v seznamu společníků a současně ho zveřejní.
+
+**§ 153**
+
+> (1) Kmenové listy, které mají být vydány místo kmenových listů prohlášených za neplatné, společnost prodá za přiměřenou cenu. Na prodej kmenových listů společnosti se použije přiměřeně ustanovení § 213 odst. 1.
+>
+> (2) Zprávu o chystaném prodeji oznámí společnost společníkům, jejichž kmenové listy byly prohlášeny za neplatné.
+>
+> (3) Společnost má právo na náhradu nákladů, které jí vzniknou prohlášením kmenových listů za neplatné a vydáním nových kmenových listů.
+
+**§ 154**
+
+> (1) Společnost může proti pohledávce společníka, jehož kmenový list byl prohlášen za neplatný, na zaplacení vypořádacího podílu započíst pohledávky, které proti němu vznikly v souvislosti s prohlášením kmenového listu za neplatný a vydáním nových kmenových listů.
+>
+> (2) Rozdíl společnost vyplatí bývalému společníkovi, jehož kmenový list byl prohlášen za neplatný, bez zbytečného odkladu po započtení, jinak po jeho prodeji podle [[#§ 153|§ 153]].
+>
+> (3) Kmenový list odevzdaný za účelem jeho výměny nebo zničení společnost zničí bez zbytečného odkladu po účinnosti snížení základního kapitálu nebo jiného důvodu, pro nějž byl kmenový list odevzdán.
+>
+> (4) Ustanovení [[#§ 542|§ 542]] a [[#§ 543|543]] se použijí obdobně.
+
+</details>
+
 **Výklad:**
 
 Detailní úprava postupu při povinném odevzdání kmenového listu (vyloučení, snížení ZK, výměna, zničení):
@@ -357,6 +593,26 @@ Detailní úprava postupu při povinném odevzdání kmenového listu (vyloučen
 4. **Vypořádání vůči bývalému společníkovi** — výnos z prodeje minus náklady, započtení proti vypořádacímu podílu (§ 154).
 
 ### § 155—156 — Právo na informace
+
+<details><summary>📜 <b>Text §§ 155—156</b></summary>
+
+**§ 155**
+
+> Společník má právo na valné hromadě i mimo ni požadovat od jednatelů informace o společnosti, nahlížet do dokladů společnosti, kontrolovat údaje obsažené v předložených dokladech a další práva na informace určená společenskou smlouvou; to platí obdobně pro společníkova zástupce, bude-li zavázán alespoň ke stejné mlčenlivosti jako společník a společnosti tuto skutečnost doloží.
+
+**§ 156**
+
+> (1) Jednatelé mohou poskytnutí informace podle [[#§ 155|§ 155]] zcela nebo zčásti odmítnout jen tehdy, pokud
+>
+> - a) jde o utajovanou informaci podle jiného právního předpisu,
+>
+> - b) je požadovaná informace veřejně dostupná.
+>
+> (2) V případě sporu rozhodne na návrh společníka o tom, zda je společnost povinna informaci poskytnout, soud; k právu uplatněnému po uplynutí 1 měsíce ode dne oznámení o odmítnutí poskytnutí informace se nepřihlíží.
+>
+> (3) Po dobu řízení podle odstavce 2 neběží promlčecí lhůta pro uplatnění práv, která jsou na požadovaných vysvětleních závislá.
+
+</details>
 
 **Výklad:**
 
@@ -379,6 +635,38 @@ Detailní úprava postupu při povinném odevzdání kmenového listu (vyloučen
 - **Po dobu řízení neběží promlčecí lhůta** pro práva závisející na informacích (§ 156 odst. 3) — typicky pro žalobu na neplatnost usnesení VH (§ 191 ZOK).
 
 ### § 157—160 — Společnická žaloba (derivative action)
+
+<details><summary>📜 <b>Text §§ 157—160</b></summary>
+
+**§ 157**
+
+> (1) Každý společník je oprávněn domáhat se za společnost náhrady újmy proti jednateli nebo splnění jeho případné povinnosti plynoucí z dohody podle § 53 odst. 3 a v těchto řízeních společnost zastupovat; to platí obdobně pro následný výkon rozhodnutí.
+>
+> (2) Společnickou žalobu lze podat také,
+>
+> - a) způsobí-li společnosti újmu člen dozorčí rady, byla-li zřízena,
+>
+> - b) způsobí-li společnosti újmu vlivná osoba,
+>
+> - c) pro uplatnění práva společníka domáhat se za společnost splnění vkladové povinnosti proti společníkovi, který je v prodlení s jejím plněním, nebo
+>
+> - d) pro uplatnění práva společnosti na vyloučení společníka ze společnosti soudem podle [[#§ 204|§ 204]].
+>
+> (3) Jednatelem, členem dozorčí rady nebo vlivnou osobou se pro potřeby společnické žaloby rozumí také ten, kdo v takovéto pozici již není, ale byl v ní v době vzniku újmy, jejíž náhrada je po něm společností zastoupenou společníkem požadována.
+
+**§ 158**
+
+> Před uplatněním práva podle [[#§ 157|§ 157]] vůči jednateli informuje společník písemně o svém záměru dozorčí radu, byla-li zřízena; směřuje-li uplatnění práva vůči jiné osobě než jednateli, informuje společník písemně o svém záměru všechny jednatele.
+
+**§ 159**
+
+> Pokud informovaný orgán neuplatní u soudu právo, které za společnost hodlá uplatnit společník, bez zbytečného odkladu po doručení informace podle [[#§ 158|§ 158]], může společník toto právo uplatnit za společnost sám.
+
+**§ 160**
+
+> Přestane-li být společník, který společnickou žalobu podal, společníkem, zastupuje v řízení společnost jeho právní nástupce. Zanikne-li společníkovi účast bez právního nástupce, společnost nadále zastupuje, má-li tento společník na vydání rozhodnutí právní zájem. Nemá-li na vydání rozhodnutí právní zájem, soud řízení zastaví, pokud ve lhůtě 3 měsíců od vyvěšení rozhodnutí soudu na úřední desce soudu, v němž soud společníky poučí, že mohou společnost v řízení zastoupit, nezastoupí společnost jiný společník.
+
+</details>
 
 **Výklad:**
 
@@ -408,6 +696,16 @@ Detailní úprava postupu při povinném odevzdání kmenového listu (vyloučen
 
 ### § 161 — Podíl na zisku
 
+<details><summary>📜 <b>Text § 161</b></summary>
+
+> (1) Společníci se podílejí na zisku a na jiných vlastních zdrojích určených valnou hromadou k rozdělení mezi společníky v poměru svých podílů, ledaže společenská smlouva určí jinak. Neurčí-li společenská smlouva jinak, vyplácí se podíl na zisku a na jiných vlastních zdrojích v penězích.
+>
+> (2) Společnost vyplatí podíl na zisku a na jiných vlastních zdrojích na své náklady a nebezpečí na adresu společníka nebo bezhotovostním převodem na jeho účet, ledaže společenská smlouva nebo usnesení valné hromady určí jinak.
+>
+> (3) U podílů, se kterými je spojen pevný podíl na zisku, se usnesení valné hromady o rozdělení podílu na zisku nevyžaduje. Nestanoví-li společenská smlouva jinak, pevný podíl na zisku je splatný do 3 měsíců od schválení účetní závěrky, z níž právo na podíl na zisku vyplývá.
+
+</details>
+
 **Výklad:**
 
 **§ 161 odst. 1 — způsob rozdělení**: Společníci se podílejí na zisku **v poměru svých podílů**, ledaže SS určí jinak.
@@ -433,6 +731,48 @@ Klíčový rozdíl od standardního podílu na zisku: nezávisí na hlasování 
 - **Family office** — zajištění příjmu starší generaci.
 
 ### § 162—166 — Příplatky
+
+<details><summary>📜 <b>Text §§ 162—166</b></summary>
+
+**§ 162**
+
+> (1) Společenská smlouva může určit, že společnost může usnesením valné hromady společníkům uložit povinnost poskytnout peněžitý příplatek (dále jen „příplatková povinnost“).
+>
+> (2) Společenská smlouva určí, jakou výši nesmí příplatky ve svém souhrnu překročit, jinak se k usnesení valné hromady o příplatkové povinnosti nepřihlíží. Společenská smlouva také určí, zda a s jakými podíly je příplatek spojen.
+>
+> (3) Příplatky poskytují společníci podle poměru svých podílů, ledaže společenská smlouva určí jinak.
+
+**§ 163**
+
+> (1) Společník může se souhlasem jednatele společnosti poskytnout příplatek i tehdy, pokud tak nestanoví společenská smlouva.
+>
+> (2) Příplatek podle odstavce 1 je možné poskytnout i jako nepeněžitý; ustanovení [[#§ 143|§ 143]] se použije obdobně.
+
+**§ 164**
+
+> (1) Společník, který pro příplatkovou povinnost nehlasoval, může společnosti písemně oznámit, že vystupuje ze společnosti ohledně podílu, na který je příplatková povinnost vázána. Účinností vystoupení příplatková povinnost zaniká.
+>
+> (2) Vystoupit ze společnosti lze do 1 měsíce ode dne rozhodnutí valné hromady o příplatkové povinnosti nebo ode dne, kdy mu bylo oznámeno, že bylo přijato rozhodnutí o příplatkové povinnosti mimo valnou hromadu podle [[#§ 177|§ 177]], jinak se k vystoupení nepřihlíží.
+>
+> (3) Právo vystoupit ze společnosti může uplatnit pouze společník, který zcela splnil svoji vkladovou povinnost spojenou s podílem, na který byla příplatková povinnost vázána.
+>
+> (4) Vystoupení společníka je účinné posledním dnem měsíce, ve kterém došlo písemné oznámení podle odstavce 1 společnosti.
+>
+> (5) Odstavce 1 až 4 se nepoužijí, určí-li společenská smlouva jinak.
+>
+> (6) Současně s oznámením o vystoupení ze společnosti odevzdá společník společnosti kmenový list, byl-li vydán, jinak je vystoupení neúčinné.
+
+**§ 165**
+
+> Poruší-li společník příplatkovou povinnost, použije se obdobně [[#§ 151|§ 151]], ledaže společník vystoupil ze společnosti podle [[#§ 164|§ 164]].
+
+**§ 166**
+
+> (1) Valná hromada může rozhodnout, že poskytnutý příplatek bude v rozsahu, v jakém převyšuje ztrátu společnosti, vrácen společníkovi.
+>
+> (2) Nerozhodne-li valná hromada jinak, vrací se příplatek společníkovi poměrně podle výše, v jakém jej poskytl; nejdříve se vrací příplatek poskytnutý společníkem podle § 162 odst. 1.
+
+</details>
 
 **Výklad:**
 

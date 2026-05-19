@@ -26,9 +26,9 @@ Začněte v [INDEX.md](INDEX.md), který obsahuje úplný obsah, mapu pojmů a p
 ## Rozsah
 
 - **14 souborů** komentáře + INDEX
-- **6 900+ řádků** textu
 - Pokrývá **§ 1—786 ZOK**
 - Všechny formy obchodních korporací: v.o.s., k.s., s.r.o., a.s. (dualistická i monistická), družstvo, bytové družstvo, sociální družstvo
+- **U každého komentovaného paragrafu je vloženo přesné aktuální znění** zákona (rozbalovací blok `<details>📜 Text § N`) — celkem 255 citačních bloků napříč kapitolami
 
 ## Metoda
 
