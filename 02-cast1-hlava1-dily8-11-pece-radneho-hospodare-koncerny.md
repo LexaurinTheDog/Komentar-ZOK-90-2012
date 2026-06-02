@@ -59,6 +59,11 @@ Tyto paragrafy zakládají **dva pilíře corporate governance**:
 - Připomínka loajality jako overriding limit (před novelou 2021 byla loajalita podřazena dobré víře);
 - Zákaz **smluvního omezení odpovědnosti** podle § 53 odst. 2.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 59/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0417430EA49833CC12588BC0017DD09?openDocument) — 30. 6. 2022, kat. A
+  > „Podmínkou vzniku ručení podle § 159 odst. 3 o. z. není splatnost pohledávky na náhradu škody, kterou člen voleného orgánu způsobil právnické osobě, ale její splnitelnost"
+
 ### § 52 — Posouzení péče řádného hospodáře
 
 <details><summary>📜 <b>Text § 52</b></summary>
@@ -88,6 +93,11 @@ Tyto paragrafy zakládají **dva pilíře corporate governance**:
 - Vést **detailní zápisy** ze zasedání orgánu, dokumentující informace, na jejichž základě bylo rozhodnuto;
 - Vyžadovat **právní a odborné stanoviska** (typicky advokát, daňový poradce, finanční expert);
 - Zaznamenat **nesouhlasné stanovisko** (dissent) v případě nesouhlasu — zákon §54 odst. 1 ukládá informovat orgán; pasivita ke kontroverznímu rozhodnutí téměř vždy znamená porušení péče řádného hospodáře.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 59/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0417430EA49833CC12588BC0017DD09?openDocument) — 30. 6. 2022, kat. A
+  > „Podmínkou vzniku ručení podle § 159 odst. 3 o. z. není splatnost pohledávky na náhradu škody, kterou člen voleného orgánu způsobil právnické osobě, ale její splnitelnost"
 
 ### § 53 — Důsledky porušení péče řádného hospodáře
 
@@ -175,6 +185,13 @@ Praktický význam: nástroj **smírného urovnání sporů** — typicky při o
 
 **Sankce za porušení**: Porušení informační povinnosti **samotné** sice nemá automatický důsledek pro platnost právního jednání, ale zakládá **porušení péče řádného hospodáře** (§ 51 ZOK) a tedy odpovědnost za škodu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — 5. 10. 2022, kat. A
+  > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2. Není-li třetí osoba v dobré víře, není zastoupený jednáním zástupce vázán může je však v souladu s § 440 o. z. dodatečně schválit (ratihabovat). 3. Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí"
+- *NS* [29 Cdo 4384/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_4384_2015.txt) — 8. 12. 2015, kat. A
+  > „Jmenování opatrovníka dle § 165 odst. 2 o. z. představuje zásah soudu do vnitřních poměrů právnické osoby, který je krajním řešením (ultima ratio), k němuž je na místě přikročit až tehdy, není-li možné důsledky rozporu mezi zájmy člena statutárního orgánu a právnické osoby překlenout jinak. Má-li právnická osoba jiného člena orgánu, který je oprávněn za ni jednat (člena statutárního orgánu či likvidátora), nebo byl-li právnické osobě jmenován opatrovník (který je oprávněn za ni jednat) z jiného důvodu, nelze jmenovat opatrovníka podle § 165 odst. 2 o. z"
+
 ### § 55 — Smlouva mezi korporací a členem orgánu
 
 <details><summary>📜 <b>Text § 55</b></summary>
@@ -199,6 +216,11 @@ Praktický význam: nástroj **smírného urovnání sporů** — typicky při o
 
 **§ 55 odst. 2** — smlouva mezi korporací a **osobou vlivnou, ovládající** nebo **sesterskou** v koncernu — totéž oznámení. **Výjimka**: pokud jde o **řídící osobu** nebo jinou osobu z téhož koncernu, oznámení se nevyžaduje (logika: v koncernu se předpokládá jednotné řízení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — 5. 10. 2022, kat. A
+  > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2. Není-li třetí osoba v dobré víře, není zastoupený jednáním zástupce vázán může je však v souladu s § 440 o. z. dodatečně schválit (ratihabovat). 3. Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí"
+
 ### § 56 — Zajištění a spoludlužnictví
 
 <details><summary>📜 <b>Text § 56</b></summary>
@@ -214,6 +236,11 @@ Praktický význam: nástroj **smírného urovnání sporů** — typicky při o
 **§ 56 odst. 2 — zákaz uzavření smlouvy nejvyšším/kontrolním orgánem**: Pokud uzavření smlouvy **není v zájmu korporace**, **může je nejvyšší nebo kontrolní orgán zakázat**.
 
 **§ 57 — výjimka pro běžný obchodní styk**: § 55—56 se nepoužijí pro smlouvy uzavírané **v rámci běžného obchodního styku** za obvyklých podmínek. Logika: nepřiměřená administrativní zátěž pro běžné transakce (nákup kancelářských potřeb, opravy, atd.).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — 5. 10. 2022, kat. A
+  > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2. Není-li třetí osoba v dobré víře, není zastoupený jednáním zástupce vázán může je však v souladu s § 440 o. z. dodatečně schválit (ratihabovat). 3. Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí"
 
 ### § 58 — Odstoupení z funkce
 
@@ -414,6 +441,11 @@ Pro **kótované a.s.** se doplňuje implementací **směrnice 2017/828/EU** (SR
 
 **§ 65 — porušení zákazu**: Osoba, která porušuje zákaz, **ručí za dluhy korporace** vzniklé v době faktického výkonu funkce. **Opakovaná diskvalifikace až na 10 let**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2227/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC578C3B2CF927E0C1258283003127D7?openDocument) — 21. 2. 2018, kat. A
+  > „Obchodní korporace, členem jejíhož statutárního orgánu je osoba, která má být rozhodnutím soudu vyloučena z výkonu funkce člena statutárního orgánu obchodní korporace podle § 63 a násl. z. o. k., má důležitý zájem na vydání rozhodnutí o vyloučení ve smyslu tohoto ustanovení"
+
 ### § 66—68 — Ručení při úpadku (wrongful trading)
 
 <details><summary>📜 <b>Text §§ 66—68</b></summary>
@@ -458,6 +490,11 @@ Pro **kótované a.s.** se doplňuje implementací **směrnice 2017/828/EU** (SR
 **§ 69 — společná ustanovení**:
 - Pokud je členem statutárního orgánu **PO**, použijí se § 63—66 i na **FO, která PO zastupuje**;
 - § 63—66 se použijí i na **bývalé členy** a na **faktické členy** (§ 62 ZOK).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2227/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC578C3B2CF927E0C1258283003127D7?openDocument) — 21. 2. 2018, kat. A
+  > „Obchodní korporace, členem jejíhož statutárního orgánu je osoba, která má být rozhodnutím soudu vyloučena z výkonu funkce člena statutárního orgánu obchodní korporace podle § 63 a násl. z. o. k., má důležitý zájem na vydání rozhodnutí o vyloučení ve smyslu tohoto ustanovení"
 
 ### § 70—70e — Evidence vyloučených osob
 
@@ -696,6 +733,15 @@ To je **business judgment rule pro vlivnou osobu** — analogie § 51 ZOK apliko
 
 Klíčové pro: **akviziční transakce**, **povinné nabídky převzetí** (§ 35 zákona č. 104/2008 Sb.), **squeeze-out**, **omezení účasti**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — 31. 3. 2025, kat. A
+  > „Skutečnost, že společnost s ručením omezeným ovládá fyzická osoba, jež je osobou blízkou (sourozencem) fyzické osoby, která ovládá akciovou společnost, nečiní ze společnosti s ručením omezeným toho, kdo akciovou společnost podstatně ovlivňuje na právní jednání mezi akciovou společností a společností s ručením omezeným nelze jen proto pohlížet jako na právní jednání mezi osobami blízkými (§ 22 odst. 2 o. z.)"
+- *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
+  > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
+- *NS* [29 NSCR 178/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2020%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2020&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_NSCR_178_2017.txt) — 31. 10. 2019, kat. A
+  > „Důležitými důvody, pro které může insolvenční soud odvolat člena věřitelského výboru postupem podle § 63 odst. 3 insolvenčního zákona, mohou být i skutečnosti, pro něž tato osoba nebyla způsobilá k volbě do věřitelského výboru, obsažené v § 59 odst. 2 insolvenčního zákona"
+
 ### § 79—81 — Koncern
 
 <details><summary>📜 <b>Text §§ 79—81</b></summary>
@@ -739,6 +785,13 @@ Klíčové pro: **akviziční transakce**, **povinné nabídky převzetí** (§ 
 - Člen voleného orgánu řízené osoby **není zbaven péče řádného hospodáře**, ale **zprostí se odpovědnosti**, prokáže-li, že mohl rozumně předpokládat splnění podmínek § 72.
 
 **Komparativně**: Něco podobného existuje v německém koncernovém právu (§ 308 AktG — *Beherrschungsvertrag*), francouzském (*l'intérêt du groupe*), v ČR pak v § 71—91 ZOK.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 43/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/924187C70E17A265C12585830045463A?openDocument) — 30. 4. 2020, kat. A
+  > „Učinil-li dlužník coby obchodní korporace ovládaná jediným společníkem zvýhodňující právní jednání ve prospěch jiné obchodní korporace ovládané stejným jediným společníkem, jenž byl současně jediným jednatelem obou obchodních korporací, pak šlo ve smyslu ustanovení § 22 odst. 2 o. z. a § 241 odst. 2 insolvenčního zákona o právní jednání ve prospěch osoby dlužníku blízké. Pravidlo obsažené v ustanovení § 13 z. o. k. se nepoužije na smlouvy uzavřené mezi dvěma jednočlennými společnostmi zastoupenými stejným jediným společníkem"
+- *NS* [29 NSCR 178/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2020%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2020&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_NSCR_178_2017.txt) — 31. 10. 2019, kat. A
+  > „Důležitými důvody, pro které může insolvenční soud odvolat člena věřitelského výboru postupem podle § 63 odst. 3 insolvenčního zákona, mohou být i skutečnosti, pro něž tato osoba nebyla způsobilá k volbě do věřitelského výboru, obsažené v § 59 odst. 2 insolvenčního zákona"
 
 ### § 82—88 — Zpráva o vztazích
 

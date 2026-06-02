@@ -148,6 +148,11 @@ Klíčový princip: členství a nájem družstevního bytu jsou **neodděliteln
 
 **§ 735 — omezení členství PO**: Stanovy mohou **omezit nebo vyloučit** členství PO. Změna nemá vliv na **stávající PO-členy**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4215/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0C2264EFB192A48C125826700312854?openDocument) — 30. 1. 2018, kat. A
+  > „Není-li ve smlouvě o převodu družstevního podílu stanoveno jinak, stávají se závazky ze smlouvy účinné dnem, kdy byla smlouva uzavřena, a k tomuto dni se stává nabyvatel vlastníkem družstevního podílu. Vůči družstvu však nastávají právní účinky převodu družstevního podílu teprve dnem, ve kterém je družstvu doručena účinná smlouva o převodu družstevního podílu (ledaže smlouva určí účinky k pozdějšímu datu), nebo dnem, kdy je družstvu doručeno prohlášení převodce a nabyvatele o uzavření takové smlouvy. Teprve k tomuto dni se nabyvatel družstevního podílu stává členem družstva"
+
 ### § 736 — Převod družstevního podílu
 
 <details><summary>📜 <b>Text § 736</b></summary>
@@ -175,6 +180,11 @@ Klíčový princip: členství a nájem družstevního bytu jsou **neodděliteln
 Tj. **se podílem přechází** i **dluhy a pohledávky** spojené s nájmem (typicky nedoplatky na nájemném, přeplatky za služby).
 
 **Praktický význam**: Klíčový pro **trh s družstevními byty** — likvidita podílů srovnatelná s vlastnictvím bytu, i když právně to není převod nemovitosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4215/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0C2264EFB192A48C125826700312854?openDocument) — 30. 1. 2018, kat. A
+  > „Není-li ve smlouvě o převodu družstevního podílu stanoveno jinak, stávají se závazky ze smlouvy účinné dnem, kdy byla smlouva uzavřena, a k tomuto dni se stává nabyvatel vlastníkem družstevního podílu. Vůči družstvu však nastávají právní účinky převodu družstevního podílu teprve dnem, ve kterém je družstvu doručena účinná smlouva o převodu družstevního podílu (ledaže smlouva určí účinky k pozdějšímu datu), nebo dnem, kdy je družstvu doručeno prohlášení převodce a nabyvatele o uzavření takové smlouvy. Teprve k tomuto dni se nabyvatel družstevního podílu stává členem družstva"
 
 ### § 737—738 — Přechod a rozdělení podílu
 
@@ -333,6 +343,11 @@ Klíčový rozdíl od obecného družstva (§ 623 ZOK), kde se vypořádací pod
 | Bývalý nájemce, byt nevyklizen | **3 měsíce** poté, co byla zjištěna výše (později) |
 | Nebydlící člen | **3 měsíce** od zjištění výše |
 | Vyloučený člen | Až po **marném uplynutí** lhůty na soudní přezkum / pravomocné rozhodnutí |
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1173/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE34266353519763C125895E001E038B?openDocument) — 22. 11. 2022, kat. A
+  > „Pro výši vypořádacího podílu člena bytového družstva, který ke dni zániku svého členství v družstvu zcela nesplnil svou vkladovou povinnost, je rozhodná skutečná hodnota jeho družstevního podílu ke dni zániku členství v družstvu s přihlédnutím k tomu, že obsahem tohoto družstevního podílu byla též povinnost splácet další členský vklad ve splátkách a platit pravidelné příspěvky do úvěrového fondu (srov. § 595 odst. 1 z. o. k.). Stanovy bytového družstva mohou v souladu s § 748 odst. 3 z. o. k. určit jiný způsob výplaty vypořádacího podílu než v penězích. Nelze vyloučit ani takové ujednání stanov, podle něhož družstvo vypořádací podíl svému bývalému členovi vyplatí tak, že na něj převede vlastnické právo k družstevnímu bytu, jehož byl nájemcem. Vždy je však nutné mít na zřeteli, že právní úprava vypořádání mezi členem bytového družstva, jehož účast zanikla bez právního nástupce, a…"
 
 ### § 750—752 — Omezení hospodaření
 

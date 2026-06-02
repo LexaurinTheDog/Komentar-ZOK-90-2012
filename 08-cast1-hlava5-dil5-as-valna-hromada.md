@@ -242,6 +242,11 @@ Souvisí s **§ 98 IZ** (povinnost statutára podat insolvenční návrh při hr
 - **Úplný návrh** na **internetových stránkách**;
 - **Bezplatné nahlížení** v sídle společnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — 27. 3. 2019, kat. A
+  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem. S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů)…"
+
 ### § 408—411 — Místo, časové parametry, odvolání
 
 <details><summary>📜 <b>Text §§ 408—411</b></summary>
@@ -650,6 +655,11 @@ Akcionář může požádat o **kopii zápisu** (nebo jeho části) **po celou d
 - **§ 428 odst. 2** — rozpor s **dobrými mravy**.
 
 Aplikuje se **OZ § 258—261** o neplatnosti rozhodnutí orgánu spolku (recepce skrze § 3 odst. 1 ZOK).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — 27. 3. 2019, kat. A
+  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem. S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů)…"
 
 ### § 429 — Lhůty a konkluzivnost
 

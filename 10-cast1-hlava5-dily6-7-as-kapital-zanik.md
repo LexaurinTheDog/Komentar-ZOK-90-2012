@@ -342,6 +342,11 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 - **ZK nesmí klesnout pod 2 mil. Kč / 80 000 EUR** (§ 246 — minimum);
 - **Vklady akcionářů** nesmí klesnout pod hodnoty určené zákonem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1175/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9134B26ACCB23403C1258308003B80C7?openDocument) — 17. 7. 2018, kat. A
+  > „Ustanovení § 350 odst. 1 z. o. k. nelze použít na snížení základního kapitálu. Při výkladu § 516 odst. 1 písm. a) z. o. k. není na místě rozlišovat mezi účelem a důvody snížení základního kapitálu postačí, je-li v usnesení valné hromady uveden jím sledovaný účel. Tím může být například prominutí nesplacené části emisního kursu akcií (§ 524 z. o. k.), úhrada ztráty, převod do rezervního fondu a úhrada budoucí ztráty (§ 544 odst. 1 z. o. k.), splnění povinnosti uložené v § 306 odst. 2 či § 308 odst. 2 z. o. k. nebo snížení přebytku vlastních zdrojů"
+
 ### § 518—533 — Ochrana věřitelů
 
 <details><summary>📜 <b>Text § 518</b></summary>
@@ -356,7 +361,6 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 
 </details>
 
-
 <details><summary>📜 <b>Texty §§ 518—533</b> (krajní paragrafy)</summary>
 
 **§ 518**
@@ -369,9 +373,7 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 >
 > (4) Nedojde-li mezi věřiteli a společností k dohodě o způsobu zajištění pohledávky nebo má-li věřitel za to, že se zhoršila dobytnost jeho pohledávek, rozhodne o dostatečném zajištění soud s ohledem na druh a výši pohledávky.
 
-
 *[…paragrafy mezi tím — viz výklad níže…]*
-
 
 **§ 533**
 
@@ -382,7 +384,6 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 > (3) Je-li akcionář v prodlení s předložením akcií braných z oběhu v určené lhůtě, uplatní představenstvo nebo správní rada postup podle § 537 až 541.
 
 </details>
-
 
 **Klíčové ochranné mechanismy** (analog § 236—238 pro s.r.o.):
 
@@ -575,6 +576,13 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - **Vydá nové akcie** namísto neplatných a prodá je;
 - Vyrovnání: výtěžek − splacená část emisního kursu − náklady = **doplatek nebo nedoplatek** vůči bývalému akcionáři.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — 27. 3. 2019, kat. A
+  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem. S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů)…"
+- *NS* [27 Cdo 1175/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9134B26ACCB23403C1258308003B80C7?openDocument) — 17. 7. 2018, kat. A
+  > „Ustanovení § 350 odst. 1 z. o. k. nelze použít na snížení základního kapitálu. Při výkladu § 516 odst. 1 písm. a) z. o. k. není na místě rozlišovat mezi účelem a důvody snížení základního kapitálu postačí, je-li v usnesení valné hromady uveden jím sledovaný účel. Tím může být například prominutí nesplacené části emisního kursu akcií (§ 524 z. o. k.), úhrada ztráty, převod do rezervního fondu a úhrada budoucí ztráty (§ 544 odst. 1 z. o. k.), splnění povinnosti uložené v § 306 odst. 2 či § 308 odst. 2 z. o. k. nebo snížení přebytku vlastních zdrojů"
+
 ### § 351—354 — Kvalifikovaný akcionář
 
 <details><summary>📜 <b>Text §§ 351—354</b></summary>
@@ -629,9 +637,7 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 >
 > - b) s nimiž je spojen alespoň 90% podíl na hlasovacích právech ve společnosti (dále jen „hlavní akcionář“).
 
-
 *[…paragrafy mezi tím — viz výklad níže…]*
-
 
 **§ 391**
 
@@ -644,7 +650,6 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 > (4) Účastníkem řízení před Českou národní bankou je jen hlavní akcionář.
 
 </details>
-
 
 <details><summary>📜 <b>Texty §§ 375—391</b> (krajní paragrafy)</summary>
 
@@ -656,9 +661,7 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 >
 > - b) s nimiž je spojen alespoň 90% podíl na hlasovacích právech ve společnosti (dále jen „hlavní akcionář“).
 
-
 *[…paragrafy mezi tím — viz výklad níže…]*
-
 
 **§ 391**
 
@@ -671,7 +674,6 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 > (4) Účastníkem řízení před Českou národní bankou je jen hlavní akcionář.
 
 </details>
-
 
 **Výklad:**
 
@@ -684,6 +686,13 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - **Předběžné informování** DR (resp. SR) — jako u s.r.o.;
 - **Subsidiarita** — žaloba akcionáře, až když orgán neuplatní;
 - **Náklady řízení**: hrazeno z majetku společnosti (pokud akcionář uspěje).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2345/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/747A849D30F2F3EEC1258AE70052A568?openDocument) — 27. 2. 2024, kat. A
+  > „Místem plnění sjednaným ve smlouvě může být i účet věřitele, vedený pro něj poskytovatelem platebních služeb. Je-li místo plnění významné pro určení místně příslušného soudu a je-li místem plnění bankovní účet, pak pro účely určení místní příslušnosti soudu je zapotřebí vycházet ze sídla pobočky příslušné banky (vedoucí sjednaný účet), a není-li zde takové pobočky, ze sídla banky"
+- *NS* [27 Cdo 2169/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FB687CC86FA37E4C12589CC0018118A?openDocument) — 28. 3. 2023, kat. A
+  > „Smyslem a účelem právní úpravy § 83 odst. 2 písm. c) o. s. ř. rozšiřující překážku věci zahájené není zamezit některému z vytěsněných vlastníků v podání (pozdější) žaloby, nýbrž pouze vyloučit existenci různých rozhodnutí ve věci samé majících rozšířený účinek závaznosti. Smysl a účel právní úpravy § 390 z. o. k. ve spojení s § 83 odst. 2 písm. c) a § 159a odst. 2 o. s. ř. vyžaduje, aby o všech žalobách podaných jednotlivými vytěsněnými vlastníky (o všech věcech) probíhalo (ze zákona) jediné společné řízení ústící v jedno konečné rozhodnutí o věci samé. Je úkolem soudu, aby v průběhu řízení až do vydání rozhodnutí o věci samé zkoumal okruh osob, jež podaly proti hlavnímu akcionáři žalobu o dorovnání, a aby tyto osoby (každou z nich) bez dalšího považoval za žalobce. Každý ze žalobců může ve společném řízení plně uplatnit svá procesní práva, včetně práva navrhovat důkazy a vyjádřit se…"
 
 ---
 

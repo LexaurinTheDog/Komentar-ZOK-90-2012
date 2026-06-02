@@ -222,6 +222,11 @@ Stanovy mohou určit jinak — typicky:
 
 **Sankce**: § 5 ZOK — **vydání prospěchu** + § 51—53 ZOK (péče řádného hospodáře).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 5943/2016](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_5943_2016.txt) — 21. 11. 2018, kat. A
+  > „Konkurenční doložka sjednaná mezi akciovou společností a členem jejího představenstva pro dobu po zániku funkce člena představenstva se řídí obecnou úpravou obsaženou v § 2975 o. z. Smluvní strany vyhoví požadavku ustanovení § 2975 odst. 1 o. z. tehdy, lze-li z ujednání o konkurenční doložce dovodit, jakou činnost a v jakém rozsahu nesmí zavázaná strana po určitou dobu vykonávat"
+
 #### § 443—445 — Zánik funkce, substituce, kooptace
 
 <details><summary>📜 <b>Text §§ 443—445</b></summary>
@@ -633,6 +638,11 @@ Dvojnásobná autonomie — i kontrola je nezávislá od VH (analogie § 446 ods
 **§ 460 — substituce a kooptace**: Analog § 443—444 pro představenstvo + § 453—454 pro DR.
 
 **§ 461 — rozhodování a zápis**: Analog § 440 / § 450.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — 9. 3. 2022, kat. A
+  > „Je-li poskytnutí zálohy ujednáno [ať už před uzavřením smlouvy (§ 1807 o. z.), jako součást uzavřené smlouvy (např. § 1864 či § 2260 o. z.) či bez souvislosti s jakoukoliv smlouvou], ukládá- li poskytnutí zálohy právní předpis (srov. např. § 1235, § 2960 či § 2970 o. z.) anebo je-li zde jiný právní důvod (zakládající závazek k poskytnutí zálohy), svědčí zavázané straně (dlužníku) povinnost zálohu poskytnout (dluh) a oprávněné straně (věřiteli) tomu odpovídající právo (pohledávka). Rozhodnutí příslušného orgánu akciové společnosti o poskytnutí zálohy na podíl na zisku představuje (jakožto právní jednání společnosti) právní důvod, na jehož základě vzniká závazek, jehož obsahem je právo akcionáře (coby věřitele) na poskytnutí zálohy (pohledávka) a povinnost společnosti (coby dlužníka) zálohu poskytnout (dluh). Ve smyslu ustanovení § 40 odst. 2 z. o. k. (ve znění účinném do 31. 12. 2020)…"
 
 ### Charakteristika monistického systému po novele 2021
 

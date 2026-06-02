@@ -75,6 +75,11 @@ Hlava IV ZOK je rozdělena do **6 dílů**:
 
 V praxi se používá zkratka **s.r.o.** (zpravidla i v právních dokumentech), méně často „spol. s r.o.". Plné znění je nezvyklé. Pravopisně se zkratka **s.r.o.** může psát i jako „s. r. o." (s mezerami) — obě verze jsou platné.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 5507/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BD3124CAA58B603C12584BB001E6A48?openDocument) — 28. 8. 2019, kat. A
+  > „I. Z ustanovení § 132 odst. 1 z. o. k. plyne, že pro určení výše, v jaké společník společnosti s ručením omezeným nesplnil vkladovou povinnost podle stavu zapsaného v obchodním rejstříku, je rozhodný stav tohoto zápisu v době, kdy věřitel vyzval společníka k plnění. II. Pro určení rozsahu, ve kterém společník ručí za dluhy společnosti s ručením omezeným, je rozhodující zásadně jen údaj o rozsahu splnění vkladové povinnosti [ve smyslu § 48 odst. 1 písm. b) z. v. r.], jak je zapsán v obchodním rejstříku. III. Je-li věřiteli v okamžiku výzvy k plnění známo, že některý ze společníků společnosti s ručením omezeným poskytl (jemu či jinému věřiteli) plnění z titulu ručení podle § 132 odst. 1 z. o. k., snižuje se vůči němu o toto plnění ručení takového společníka za dluhy společnosti bez zřetele ke stavu zápisu údaje o rozsahu splnění vkladové povinnosti v obchodním rejstříku"
+
 ### § 133 — Velikost podílu
 
 <details><summary>📜 <b>Text § 133</b></summary>
@@ -116,6 +121,11 @@ Pokud započtení není možné (např. společník již vklad zcela splatil a p
 2. **Subsidiárně ostatní společníci** — pokud nedosáhne náhrady od společnosti, společníci mu poskytnou náhradu **v poměru, v jakém nesplnili svou vkladovou povinnost** podle OR.
 
 **Praktický význam**: Toto pravidlo má smysl pro situace, kdy jeden ze společníků doplatí ručení (typicky vyšší jistinný věřitel), ale ostatní mají také nesplacené vklady — solidární mechanismus regresu mezi spoluručiteli.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 5507/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BD3124CAA58B603C12584BB001E6A48?openDocument) — 28. 8. 2019, kat. A
+  > „I. Z ustanovení § 132 odst. 1 z. o. k. plyne, že pro určení výše, v jaké společník společnosti s ručením omezeným nesplnil vkladovou povinnost podle stavu zapsaného v obchodním rejstříku, je rozhodný stav tohoto zápisu v době, kdy věřitel vyzval společníka k plnění. II. Pro určení rozsahu, ve kterém společník ručí za dluhy společnosti s ručením omezeným, je rozhodující zásadně jen údaj o rozsahu splnění vkladové povinnosti [ve smyslu § 48 odst. 1 písm. b) z. v. r.], jak je zapsán v obchodním rejstříku. III. Je-li věřiteli v okamžiku výzvy k plnění známo, že některý ze společníků společnosti s ručením omezeným poskytl (jemu či jinému věřiteli) plnění z titulu ručení podle § 132 odst. 1 z. o. k., snižuje se vůči němu o toto plnění ručení takového společníka za dluhy společnosti bez zřetele ke stavu zápisu údaje o rozsahu splnění vkladové povinnosti v obchodním rejstříku"
 
 ### § 135—136 — Druhy podílů
 
@@ -729,6 +739,11 @@ Klíčový rozdíl od standardního podílu na zisku: nezávisí na hlasování 
 **Praktické využití pevného podílu**: 
 - **Investiční s.r.o.** — pasivní investor dostává garantovaný výnos;
 - **Family office** — zajištění příjmu starší generaci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — 29. 11. 2023, kat. A
+  > „Valná hromada společnosti s ručením omezeným nemusí rozdělit zisk mezi společníky, i když pro to nemá důležité důvody. Usnesení valné hromady společnosti s ručením omezeným přijaté v rozporu se zákonnými pravidly o rozdělení zisku chránícími věřitele společnosti nemá právní účinky. Rozhodne-li proto valná hromada společnosti s ručením omezeným o rozdělení zisku, aniž má k dispozici řádně schválenou účetní závěrku za předchozí účetní období, nemá takové rozhodnutí právní účinky"
 
 ### § 162—166 — Příplatky
 

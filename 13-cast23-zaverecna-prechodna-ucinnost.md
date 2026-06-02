@@ -78,6 +78,11 @@ V praktické judikatuře (NS, ÚS, SDEU) se ZOK často interpretuje **eurokonfor
 - Korporace **musely upravit listiny do 6 měsíců** (do 1. 7. 2014) — § 777 odst. 2.
 - **Smlouvy o výkonu funkce + odměně** musely být uzpůsobeny **do 6 měsíců** — § 777 odst. 3; jinak **bezplatný výkon funkce** (fikce).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
+  > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
+
 ### § 776 — Definice pojmů přechodných ustanovení
 
 <details><summary>📜 <b>Text § 776</b></summary>
@@ -149,6 +154,11 @@ Obchodní korporace **musely** do **1. 7. 2014**:
 
 **Tvrdá sankce** — manažeři, kteří **neuzpůsobili smlouvy do 1. 7. 2014**, **přišli o nárok na odměnu**. Tato sankce vyvolala významnou judikaturní reakci NS (např. rozsudek 29 Cdo 3919/2014 — výklad §777 odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — 22. 2. 2017, kat. A
+  > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. III. Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014…"
+
 ### § 778—785 — Specifická přechodná ustanovení
 
 <details><summary>📜 <b>Text §§ 778—785</b></summary>
@@ -215,6 +225,11 @@ Opt-in mechanismus — pokud korporace neudělala explicitně opt-in, podléhala
 - **Akcie na majitele** (§ 781): musely být **imobilizovány nebo zaknihovány** do 30. 6. 2014 — jinak ZOK je prohlásil za **neplatné**.
 - **Družstva** (§ 783): aplikace ZOK na družstva založená podle zákona 90/1993 Sb.
 - **Smluvní pokuty, úroky a další**: specifická úprava.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
+  > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
 
 ---
 
