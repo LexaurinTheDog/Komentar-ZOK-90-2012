@@ -344,9 +344,7 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 
 ### § 518—533 — Ochrana věřitelů
 
-<details><summary>📜 <b>Texty §§ 518—533</b> (krajní paragrafy)</summary>
-
-**§ 518**
+<details><summary>📜 <b>Text § 518</b></summary>
 
 > (1) Do 30 dnů ode dne nabytí účinnosti rozhodnutí valné hromady o snížení základního kapitálu vůči třetím osobám oznámí představenstvo nebo správní rada rozhodnutí o snížení základního kapitálu písemně těm známým věřitelům, jejichž pohledávky vůči společnosti vznikly před okamžikem účinnosti rozhodnutí valné hromady o snížení základního kapitálu. Součástí oznámení je výzva, aby věřitelé přihlásili své pohledávky podle odstavce 3.
 >
@@ -355,18 +353,6 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 > (3) Věřitelé společnosti podle odstavce 1 mohou do 90 dnů ode dne, kdy obdrželi oznámení o snížení základního kapitálu, jinak do 90 dnů od druhého zveřejnění informace podle odstavce 2 požadovat, aby splnění jejich pohledávek, které nebyly v okamžiku nabytí účinnosti rozhodnutí valné hromady o snížení základního kapitálu splatné, bylo přiměřeným způsobem zajištěno nebo uspokojeno anebo byla uzavřena dohoda o jiném řešení; to neplatí, nezhorší-li se snížením základního kapitálu dobytnost pohledávek za společností.
 >
 > (4) Nedojde-li mezi věřiteli a společností k dohodě o způsobu zajištění pohledávky nebo má-li věřitel za to, že se zhoršila dobytnost jeho pohledávek, rozhodne o dostatečném zajištění soud s ohledem na druh a výši pohledávky.
-
-
-*[…paragrafy mezi tím — viz výklad níže…]*
-
-
-**§ 533**
-
-> (1) Kupní cena je splatná nejpozději do 3 měsíců od účinnosti snížení základního kapitálu. Lhůta splatnosti kupní ceny nesmí předcházet dni účinnosti snížení základního kapitálu.
->
-> (2) Akcionář nevykonává od účinnosti snížení základního kapitálu s akciemi branými z oběhu spojená akcionářská práva.
->
-> (3) Je-li akcionář v prodlení s předložením akcií braných z oběhu v určené lhůtě, uplatní představenstvo nebo správní rada postup podle § 537 až 541.
 
 </details>
 
