@@ -597,7 +597,7 @@ b) **Schválení valnou hromadou**.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-27_Cdo_1795_2018.txt) — 31. 10. 2018, kat. A
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
   > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
 
 #### § 264—268 — Seznam akcionářů

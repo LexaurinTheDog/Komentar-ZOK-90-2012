@@ -224,7 +224,7 @@ Stanovy mohou určit jinak — typicky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 5943/2016](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_5943_2016.txt) — 21. 11. 2018, kat. A
+- *NS* [29 Cdo 5943/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CDA289DD283E6206C12583840037CAF5?openDocument) — 21. 11. 2018, kat. A
   > „Konkurenční doložka sjednaná mezi akciovou společností a členem jejího představenstva pro dobu po zániku funkce člena představenstva se řídí obecnou úpravou obsaženou v § 2975 o. z. Smluvní strany vyhoví požadavku ustanovení § 2975 odst. 1 o. z. tehdy, lze-li z ujednání o konkurenční doložce dovodit, jakou činnost a v jakém rozsahu nesmí zavázaná strana po určitou dobu vykonávat"
 
 #### § 443—445 — Zánik funkce, substituce, kooptace
