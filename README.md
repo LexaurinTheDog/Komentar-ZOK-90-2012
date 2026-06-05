@@ -38,6 +38,10 @@ Komentář byl sestaven AI asistentem (Claude Opus 4.7) **výhradně z lokální
 
 Tento komentář **není autoritativním právním stanoviskem** ve smyslu § 4 odst. 1 OZ. Slouží jako orientační průvodce materií ZOK. Pro praktickou aplikaci je nutné ověřit aktuální znění a judikaturu a konzultovat advokáta specializovaného na obchodní právo.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
