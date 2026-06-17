@@ -667,6 +667,11 @@ b) **Schválení valnou hromadou**.
 
 **§ 267 — ochrana údajů**: Stejně jako u s.r.o. § 141 — interní použití; při zániku účasti — výmaz.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 Af 39/2019 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/701684) — 1. 6. 2022
+  > „§ 265 odst. 1 zákona o obchodních korporacích se uplatní pouze ve vztahu ke společnosti, nikoliv ke třetím osobám, jak správně uvádí žalobce. Vyvratitelná domněnka má totiž sloužit zejména k usnadnění fungování akciových společností. Toto ustanovení však nelze interpretovat způsobem, jak to činí žalobce, tedy že umožňuje společnosti vydat ke stejnému datu dva různé seznamy akcionářů, jeden odrážející skutečné akcionáře a druhý „z pohledu výkonu hlasovacího práva“…"
+
 #### § 269—273 — Akcie na jméno
 
 <details><summary>📜 <b>Text §§ 269—273</b></summary>

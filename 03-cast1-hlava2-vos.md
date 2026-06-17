@@ -56,6 +56,11 @@ Veřejná obchodní společnost (**v.o.s.**) je **nejstarší obchodní společn
 
 Sankce: porušení = **se společníkem nestane**, i kdyby společnost vznikla (kogentní). Důvod: ochrana věřitelů před zavedením již nesolventní osoby do struktury s neomezeným ručením.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 73/2020 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/657158) — 16. 12. 2020
+  > „Jak případně poukázal stěžovatel, veřejná obchodní společnost je osobní společností. Podle § 95 ZOK se společníci veřejné obchodní společnosti musí účastnit na podnikání či správě jejího majetku. Žalobce tak v žádném případě nemohl být pouhým investorem bez vlivu na chod společnosti, byť nebyl statutárním orgánem. Osobní povaha veřejné obchodní společnosti má ostatně zrcadlový odraz v daňovém právu"
+
 ### § 96 — Firma v.o.s.
 
 <details><summary>📜 <b>Text § 96</b></summary>
@@ -326,6 +331,11 @@ Klíčový **derivative action** v české úpravě — společník vystupuje **
 **§ 109 odst. 2 — dispozitivnost**: SS může zákaz upravit jinak (zmírnit/zpřísnit/úplně zrušit).
 
 **Sankce za porušení**: § 5 ZOK — **vydání prospěchu**, případně další odpovědnost dle § 51—53 (pokud byl porušující současně statutárem).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [57 A 34/2019 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/435028) — 26. 8. 2019
+  > „Především je nutno uvést, že zákaz konkurence dispozitivně upravený v § 109 zákona č. 90/2012 Sb., o obchodních korporacích, je regulací inter partes. Jinými slovy, jediným možným řešením nároků vzniklých z porušení zákazu konkurence je postup podle § 5 zákona č. 90/2012 Sb. Vně právního vztahu společníka a korporace však případné porušení zákazu konkurence nemá žádné právní následky"
 
 ### § 110—111 — Přistoupení, vystoupení
 

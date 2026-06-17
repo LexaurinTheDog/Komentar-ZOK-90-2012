@@ -87,7 +87,7 @@ Společník vykonává právo podílet se na řízení společnosti:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 649/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35C4C9A07288DE9BC1257EBC0046193A?openDocument) — 24. 6. 2015, kat. A
+- *NS* [29 Cdo 649/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35C4C9A07288DE9BC1257EBC0046193A?openDocument) — kat. A, 24. 6. 2015
   > „I v poměrech právní úpravy účinné od 1. 1. 2014 platí, že při posuzování způsobilosti valné hromady činit rozhodnutí se nepřihlíží k hlasům společníků, kteří nemohou vykonávat hlasovací právo, tak, že od celkového počtu hlasů, kterými společníci na valné hromadě disponují, se odečtou hlasy, s nimiž nemůže být vykonáváno hlasovací právo"
 
 #### § 171 — Kvalifikovaná většina
@@ -125,8 +125,8 @@ Klíčová ochrana **menšiny** — zásah do individuálních práv vyžaduje v
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — 22. 2. 2017, kat. A
-  > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. III. Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014…"
+- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — kat. A, 22. 2. 2017
+  > „… Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. … Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014 zásadně důvodem neplatnosti usnesení valné hromady, nikoliv vadou, pro kterou se na takové usnesení hledí, jako by nebylo přijato. …"
 
 #### § 172 — Veřejná listina
 
@@ -180,7 +180,7 @@ Obsah veřejné listiny: schválený text změny SS + **jmenovité uvedení spol
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 649/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35C4C9A07288DE9BC1257EBC0046193A?openDocument) — 24. 6. 2015, kat. A
+- *NS* [29 Cdo 649/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35C4C9A07288DE9BC1257EBC0046193A?openDocument) — kat. A, 24. 6. 2015
   > „I v poměrech právní úpravy účinné od 1. 1. 2014 platí, že při posuzování způsobilosti valné hromady činit rozhodnutí se nepřihlíží k hlasům společníků, kteří nemohou vykonávat hlasovací právo, tak, že od celkového počtu hlasů, kterými společníci na valné hromadě disponují, se odečtou hlasy, s nimiž nemůže být vykonáváno hlasovací právo"
 
 #### § 174 — Souhlas dotčeného společníka mimo VH
@@ -463,7 +463,7 @@ Navrhne VH **zrušení společnosti nebo jiné vhodné opatření**.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 2645/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD26A6995AD69E93C1258418002E7DBE?openDocument) — 29. 5. 2019, kat. A
+- *NS* [27 Cdo 2645/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD26A6995AD69E93C1258418002E7DBE?openDocument) — kat. A, 29. 5. 2019
   > „Částí závodu ve smyslu ustanovení § 190 odst. 2 písm. i) z. o. k. se rozumí samostatná organizační složka závodu (nikoliv jakákoliv materiálně významná složka závodu)"
 
 ### Neplatnost usnesení VH (§ 191—193)
@@ -503,10 +503,10 @@ Navrhne VH **zrušení společnosti nebo jiné vhodné opatření**.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — 29. 11. 2023, kat. A
+- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — kat. A, 29. 11. 2023
   > „Valná hromada společnosti s ručením omezeným nemusí rozdělit zisk mezi společníky, i když pro to nemá důležité důvody. Usnesení valné hromady společnosti s ručením omezeným přijaté v rozporu se zákonnými pravidly o rozdělení zisku chránícími věřitele společnosti nemá právní účinky. Rozhodne-li proto valná hromada společnosti s ručením omezeným o rozdělení zisku, aniž má k dispozici řádně schválenou účetní závěrku za předchozí účetní období, nemá takové rozhodnutí právní účinky"
-- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — 22. 2. 2017, kat. A
-  > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. III. Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014…"
+- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — kat. A, 22. 2. 2017
+  > „… Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014 zásadně důvodem neplatnosti usnesení valné hromady, nikoliv vadou, pro kterou se na takové usnesení hledí, jako by nebylo přijato. … S účinností od 1. ledna 2014 rejstříkovému soudu nepřísluší v rejstříkovém řízení posuzovat platnost usnesení valné hromady společnosti s ručením omezeným … K vadám, pro které se na usnesení valné hromady hledí, jako by nebylo přijato (srov. zejména § 45 odst. 1 a 2 z. o. k. a § 245 o. z.), však rejstříkový soud přihlédnout musí"
 
 #### § 192 — Konkluzivnost lhůty a podmínka protestu
 
@@ -673,7 +673,7 @@ Po novele 2021 (zákon č. 33/2020 Sb.) — **nový institut**: SS může určit
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1875/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19C4E2FD68110288C12583B00038785F?openDocument) — 29. 11. 2018, kat. A
+- *NS* [27 Cdo 1875/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19C4E2FD68110288C12583B00038785F?openDocument) — kat. A, 29. 11. 2018
   > „I. Řízení o jmenování jednatele společnosti s ručením omezeným podle § 198 odst. 3 z. o. k. je řízením ve statusové věci právnické osoby ve smyslu § 2 písm. e) z. ř. s., jež lze zahájit pouze na návrh okruh účastníků se určí podle § 6 odst. 1 z. ř. s. II. Další návrh na jmenování jednatele soudem, podaný osobou odlišnou od původního navrhovatele ohledně téže společnosti a téhož skutkového stavu před pravomocným skončením řízení o původním návrhu, je nutno považovat za přistoupení do řízení zahájeného tímto původním návrhem"
 
 #### § 200 — Finanční asistence v s.r.o.
@@ -936,7 +936,7 @@ Důvody **„nemožnosti setrvat"**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — 8. 1. 2025, kat. A
+- *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — kat. A, 8. 1. 2025
   > „Pro posouzení, zda smlouva o převodu podílu byla opatřena „úředním ověřením podpisu“ společníka ve smyslu § 209 odst. 2 z. o. k., respektive jej nahrazujícím prohlášením o pravosti podpisu podle § 25a zákona o advokacii, není významné, že advokát, jenž takto ověřil podpis zástupce společníka, byl současně zástupcem nabyvatele. Absence úředního ověření podpisu na smlouvě o převodu podílu nenarušuje veřejný pořádek a nezakládá tak její absolutní neplatnost"
 
 ### § 211 — Zrušení účasti dědice

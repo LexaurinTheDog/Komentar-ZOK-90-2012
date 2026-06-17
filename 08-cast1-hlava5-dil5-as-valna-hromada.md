@@ -244,8 +244,8 @@ Souvisí s **§ 98 IZ** (povinnost statutára podat insolvenční návrh při hr
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — 27. 3. 2019, kat. A
-  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem. S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů)…"
+- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — kat. A, 27. 3. 2019
+  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem"
 
 ### § 408—411 — Místo, časové parametry, odvolání
 
@@ -599,6 +599,11 @@ Do zvolení řídí VH **svolavatel** nebo jím určená osoba.
 - **Sporný protest** → domněnka podání (§ 424 odst. 2).
 
 **Praktická poznámka**: Protest musí být **odůvodněný** — nelze podat jen "protestuji" bez uvedení důvodu. Důvod se uvádí ve formě: „Protestuji proti přijetí tohoto usnesení, neboť porušuje § X ZOK / článek Y stanov, konkrétně tím, že...".
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 98/2019 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/421545) — 28. 1. 2020
+  > „Protest ve smyslu § 424 ZOK, jehož podání podmiňuje následnou možnost soudního přezkumu usnesení valné hromady akciové společnosti v civilním soudním řízení, je tedy institutem civilního práva. Je na žalobci, aby v rámci případného soudního řízení tvrdil (a prokázal), že na valné hromadě skutečně protesty podal, popř. aby se domáhal uplatnění domněnky podání protestu ve smyslu § 424 odst. 2 ZOK"
 
 ### § 425 — Právo akcionáře na kopii zápisu
 

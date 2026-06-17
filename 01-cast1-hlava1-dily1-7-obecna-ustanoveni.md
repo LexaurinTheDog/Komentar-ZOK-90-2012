@@ -193,7 +193,7 @@ PRÁVNICKÉ OSOBY (§ 20 OZ)
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — 27. 11. 2014, kat. A
+- *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — kat. A, 27. 11. 2014
   > „Plná moc udělená k právnímu jednání, pro které zákon vyžaduje formu notářského zápisu o právním jednání (§ 441 odst. 2 in fine o. z.), není neplatná pro nedostatek formy vyžadované zákonem, není- li pochyb o tom, kdo (která osoba) plnou moc udělil. Plná moc k založení obchodní korporace je právním jednáním týkajícím se založení obchodní korporace ve smyslu § 6 odst. 1 zákona č. 90/2012 Sb"
 
 ### § 7 — Údaje na obchodních listinách
@@ -263,7 +263,7 @@ PRÁVNICKÉ OSOBY (§ 20 OZ)
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — 27. 11. 2014, kat. A
+- *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — kat. A, 27. 11. 2014
   > „Plná moc udělená k právnímu jednání, pro které zákon vyžaduje formu notářského zápisu o právním jednání (§ 441 odst. 2 in fine o. z.), není neplatná pro nedostatek formy vyžadované zákonem, není- li pochyb o tom, kdo (která osoba) plnou moc udělil. Plná moc k založení obchodní korporace je právním jednáním týkajícím se založení obchodní korporace ve smyslu § 6 odst. 1 zákona č. 90/2012 Sb"
 
 ### § 9 — Lhůta k podání návrhu na zápis
@@ -348,9 +348,9 @@ Obecné pravidlo o **nestrannosti a nezávislosti znalce** při oceňování (ty
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 ICdo 36/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/156FB046621941A1C12585B4004245C6?openDocument) — 10. 6. 2020, kat. A
-  > „Výraz „zjevně“ užitý v § 588 o. z. nevyjadřuje požadavek na určitý stupeň intenzity narušení veřejného pořádku posuzovaným právním jednáním, nýbrž toliko zdůrazňuje, že narušení veřejného pořádku musí být zřejmé, jednoznačné a nepochybné. Podle § 1 odst. 2 části věty před středníkem o. z. jsou zakázána (nepřípustná) pouze taková ujednání, která odporují smyslu a účelu určité právní normy, bez ohledu na to, zda tímto smyslem a účelem je ochrana veřejného pořádku, dobrých mravů, či jiných – v § 1 odst. 2 o. z. výslovně nezdůrazněných – hodnot. Proto je vždy třeba posuzovat, zda odchylné ujednání jde proti smyslu a účelu dané právní normy, či zda tento smysl a účel zachovává, byť tak činí prostřednictvím odchylné – autonomní – úpravy. Ustanovení § 13 z. o. k. patří mezi právní normy chránící veřejný pořádek. Je-li v důsledku nedodržení požadavku na písemnou formu právního jednání a…"
-- *NS* [29 ICdo 43/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/924187C70E17A265C12585830045463A?openDocument) — 30. 4. 2020, kat. A
+- *NS* [31 ICdo 36/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/156FB046621941A1C12585B4004245C6?openDocument) — kat. A, 10. 6. 2020
+  > „Podle § 1 odst. 2 části věty před středníkem o. z. jsou zakázána (nepřípustná) pouze taková ujednání, která odporují smyslu a účelu určité právní normy… Proto je vždy třeba posuzovat, zda odchylné ujednání jde proti smyslu a účelu dané právní normy, či zda tento smysl a účel zachovává… Ustanovení § 13 z. o. k. patří mezi právní normy chránící veřejný pořádek. Je-li v důsledku nedodržení požadavku na písemnou formu právního jednání a úřední ověření podpisu jednajícího společníka narušen veřejný pořádek, je toto jednání neplatné soud k neplatnosti přihlédne i bez návrhu (§ 588 o. z.)"
+- *NS* [29 ICdo 43/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/924187C70E17A265C12585830045463A?openDocument) — kat. A, 30. 4. 2020
   > „Učinil-li dlužník coby obchodní korporace ovládaná jediným společníkem zvýhodňující právní jednání ve prospěch jiné obchodní korporace ovládané stejným jediným společníkem, jenž byl současně jediným jednatelem obou obchodních korporací, pak šlo ve smyslu ustanovení § 22 odst. 2 o. z. a § 241 odst. 2 insolvenčního zákona o právní jednání ve prospěch osoby dlužníku blízké. Pravidlo obsažené v ustanovení § 13 z. o. k. se nepoužije na smlouvy uzavřené mezi dvěma jednočlennými společnostmi zastoupenými stejným jediným společníkem"
 
 ---
@@ -662,10 +662,10 @@ Rozhodnutí porušující tento limit **nemá právní účinky** (§ 34 odst. 2
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — 29. 11. 2023, kat. A
+- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — kat. A, 29. 11. 2023
   > „Valná hromada společnosti s ručením omezeným nemusí rozdělit zisk mezi společníky, i když pro to nemá důležité důvody. Usnesení valné hromady společnosti s ručením omezeným přijaté v rozporu se zákonnými pravidly o rozdělení zisku chránícími věřitele společnosti nemá právní účinky. Rozhodne-li proto valná hromada společnosti s ručením omezeným o rozdělení zisku, aniž má k dispozici řádně schválenou účetní závěrku za předchozí účetní období, nemá takové rozhodnutí právní účinky"
-- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — 27. 3. 2019, kat. A
-  > „Ze zdůvodnění návrhu usnesení valné hromady podle § 407 odst. 1 písm. f) z. o. k. by mělo být akcionářům bez vynaložení nepřiměřeného úsilí a času seznatelné, proč představenstvo (popř. jiná osoba svolávající valnou hromadu) navrhuje, aby valná hromada o dané záležitosti rozhodla, a proč se tak má stát navrhovaným způsobem. S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů)…"
+- *NS* [27 Cdo 3885/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30EE34B5B4EF766CC12583D9002E4ADB?openDocument) — kat. A, 27. 3. 2019
+  > „S účinností od 1. 1. 2014 může řádná účetní závěrka zpracovaná za předchozí účetní období sloužit jako podklad pro rozhodnutí valné hromady o rozdělení zisku akciové společnosti až do konce následujícího účetního období. S účinností od 1. 1. 2014 může valná hromada akciové společnosti rozdělit zisk i tak, že jeho část rozdělí (jako tantiému) členům volených orgánů akciové společnosti, aniž by (současně) rozdělila zisk (jeho část) i mezi akcionáře, a to za předpokladu, že rozdělení (části) zisku mezi členy volených orgánů (či jiné osoby odlišné od akcionářů) připouští stanovy společnosti (§ 34 odst. 1 in fine z. o. k.) a že pro nerozdělení (zbývající části) zisku mezi akcionáře jsou dány důležité důvody"
 
 ### § 36 — Vypořádací podíl
 
@@ -789,8 +789,8 @@ Výjimky (§ 40 odst. 5 a—d):
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — 9. 3. 2022, kat. A
-  > „Je-li poskytnutí zálohy ujednáno [ať už před uzavřením smlouvy (§ 1807 o. z.), jako součást uzavřené smlouvy (např. § 1864 či § 2260 o. z.) či bez souvislosti s jakoukoliv smlouvou], ukládá- li poskytnutí zálohy právní předpis (srov. např. § 1235, § 2960 či § 2970 o. z.) anebo je-li zde jiný právní důvod (zakládající závazek k poskytnutí zálohy), svědčí zavázané straně (dlužníku) povinnost zálohu poskytnout (dluh) a oprávněné straně (věřiteli) tomu odpovídající právo (pohledávka). Rozhodnutí příslušného orgánu akciové společnosti o poskytnutí zálohy na podíl na zisku představuje (jakožto právní jednání společnosti) právní důvod, na jehož základě vzniká závazek, jehož obsahem je právo akcionáře (coby věřitele) na poskytnutí zálohy (pohledávka) a povinnost společnosti (coby dlužníka) zálohu poskytnout (dluh). Ve smyslu ustanovení § 40 odst. 2 z. o. k. (ve znění účinném do 31. 12. 2020)…"
+- *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — kat. A, 9. 3. 2022
+  > „Rozhodnutí příslušného orgánu akciové společnosti o poskytnutí zálohy na podíl na zisku představuje (jakožto právní jednání společnosti) právní důvod, na jehož základě vzniká závazek, jehož obsahem je právo akcionáře (coby věřitele) na poskytnutí zálohy (pohledávka) a povinnost společnosti (coby dlužníka) zálohu poskytnout (dluh). Ve smyslu ustanovení § 40 odst. 2 z. o. k. (ve znění účinném do 31. 12. 2020) se „prostředky“ rozumějí „zdroje“. Neurčují-li stanovy akciové společnosti jinak, spadá rozhodnutí o poskytnutí (vyplacení) zálohy na podíl na zisku do působnosti představenstva, resp. správní rady (§ 163 o. z.)"
 
 ### § 41 — Finanční asistence
 

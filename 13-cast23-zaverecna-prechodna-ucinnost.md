@@ -156,8 +156,8 @@ Obchodní korporace **musely** do **1. 7. 2014**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — 22. 2. 2017, kat. A
-  > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. III. Nedostatek usnášeníschopnosti valné hromady společnosti s ručením omezeným či nedostatečný počet hlasů, odevzdaných pro přijetí usnesení valné hromady, je i v poměrech právní úpravy účinné od 1. ledna 2014…"
+- *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — kat. A, 22. 2. 2017
+  > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. …"
 
 ### § 778—785 — Specifická přechodná ustanovení
 

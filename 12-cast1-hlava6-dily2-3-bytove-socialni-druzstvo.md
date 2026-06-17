@@ -69,6 +69,11 @@ Oba typy jsou **specializace obecné družstevní úpravy** — aplikují se pra
 
 Tento odst. zahrnuje **historické bytové fondy** — typicky byty postavené v 60.—80. letech v rámci tzv. **družstevní bytové výstavby** s podporou státu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 10/2016 - 18](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639781) — 14. 9. 2016
+  > „Družstevním bytem je dle § 729 odst. 1 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích), byt nebo nebytový prostor, který je v budově ve vlastnictví nebo ve spoluvlastnictví bytového družstva, nebo který je ve vlastnictví nebo ve spoluvlastnictví bytového družstva, a bytové družstvo jej poskytlo do nájmu členovi bytového družstva, který se sám nebo jeho právní předchůdce na jeho pořízení podílel členským vkladem. … bytovým družstvem je každé družstvo, které zajišťuje bytové potřeby svých členů, a to zejména tím, že svým členům pronajímá nebo jiným způsobem dává do užívání byty nebo jiné místnosti, nebytové prostory"
+
 ### § 731 — Stanovy bytového družstva
 
 <details><summary>📜 <b>Text § 731</b></summary>
@@ -183,7 +188,7 @@ Tj. **se podílem přechází** i **dluhy a pohledávky** spojené s nájmem (ty
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 4215/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0C2264EFB192A48C125826700312854?openDocument) — 30. 1. 2018, kat. A
+- *NS* [29 Cdo 4215/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0C2264EFB192A48C125826700312854?openDocument) — kat. A, 30. 1. 2018
   > „Není-li ve smlouvě o převodu družstevního podílu stanoveno jinak, stávají se závazky ze smlouvy účinné dnem, kdy byla smlouva uzavřena, a k tomuto dni se stává nabyvatel vlastníkem družstevního podílu. Vůči družstvu však nastávají právní účinky převodu družstevního podílu teprve dnem, ve kterém je družstvu doručena účinná smlouva o převodu družstevního podílu (ledaže smlouva určí účinky k pozdějšímu datu), nebo dnem, kdy je družstvu doručeno prohlášení převodce a nabyvatele o uzavření takové smlouvy. Teprve k tomuto dni se nabyvatel družstevního podílu stává členem družstva"
 
 ### § 737—738 — Přechod a rozdělení podílu
@@ -346,8 +351,8 @@ Klíčový rozdíl od obecného družstva (§ 623 ZOK), kde se vypořádací pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1173/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE34266353519763C125895E001E038B?openDocument) — 22. 11. 2022, kat. A
-  > „Pro výši vypořádacího podílu člena bytového družstva, který ke dni zániku svého členství v družstvu zcela nesplnil svou vkladovou povinnost, je rozhodná skutečná hodnota jeho družstevního podílu ke dni zániku členství v družstvu s přihlédnutím k tomu, že obsahem tohoto družstevního podílu byla též povinnost splácet další členský vklad ve splátkách a platit pravidelné příspěvky do úvěrového fondu (srov. § 595 odst. 1 z. o. k.). Stanovy bytového družstva mohou v souladu s § 748 odst. 3 z. o. k. určit jiný způsob výplaty vypořádacího podílu než v penězích. Nelze vyloučit ani takové ujednání stanov, podle něhož družstvo vypořádací podíl svému bývalému členovi vyplatí tak, že na něj převede vlastnické právo k družstevnímu bytu, jehož byl nájemcem. Vždy je však nutné mít na zřeteli, že právní úprava vypořádání mezi členem bytového družstva, jehož účast zanikla bez právního nástupce, a…"
+- *NS* [27 Cdo 1173/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE34266353519763C125895E001E038B?openDocument) — kat. A, 22. 11. 2022
+  > „Pro výši vypořádacího podílu člena bytového družstva, který ke dni zániku svého členství v družstvu zcela nesplnil svou vkladovou povinnost, je rozhodná skutečná hodnota jeho družstevního podílu ke dni zániku členství v družstvu … Vždy je však nutné mít na zřeteli, že právní úprava vypořádání mezi členem bytového družstva, jehož účast zanikla bez právního nástupce, a bytovým družstvem je založena na principu zvýšené ochrany člena bytového družstva. Účelem (smyslem) právní úpravy práva na vypořádání (vypořádacího podílu) člena bytového družstva je nahradit členovi, jehož účast v bytovém družstvu za jeho trvání zanikla bez právního nástupce, majetkovou hodnotu (družstevní podíl), o niž přišel v důsledku ztráty členství"
 
 ### § 750—752 — Omezení hospodaření
 

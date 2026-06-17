@@ -187,9 +187,9 @@ Praktický význam: nástroj **smírného urovnání sporů** — typicky při o
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — 5. 10. 2022, kat. A
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — kat. A, 5. 10. 2022
   > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2. Není-li třetí osoba v dobré víře, není zastoupený jednáním zástupce vázán může je však v souladu s § 440 o. z. dodatečně schválit (ratihabovat). 3. Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí"
-- *NS* [29 Cdo 4384/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B04A58FFB230A451C1257F73002B8489?openDocument) — 8. 12. 2015, kat. A
+- *NS* [29 Cdo 4384/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B04A58FFB230A451C1257F73002B8489?openDocument) — kat. A, 8. 12. 2015
   > „Jmenování opatrovníka dle § 165 odst. 2 o. z. představuje zásah soudu do vnitřních poměrů právnické osoby, který je krajním řešením (ultima ratio), k němuž je na místě přikročit až tehdy, není-li možné důsledky rozporu mezi zájmy člena statutárního orgánu a právnické osoby překlenout jinak. Má-li právnická osoba jiného člena orgánu, který je oprávněn za ni jednat (člena statutárního orgánu či likvidátora), nebo byl-li právnické osobě jmenován opatrovník (který je oprávněn za ni jednat) z jiného důvodu, nelze jmenovat opatrovníka podle § 165 odst. 2 o. z"
 
 ### § 55 — Smlouva mezi korporací a členem orgánu
@@ -218,7 +218,7 @@ Praktický význam: nástroj **smírného urovnání sporů** — typicky při o
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — 5. 10. 2022, kat. A
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — kat. A, 5. 10. 2022
   > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2. Není-li třetí osoba v dobré víře, není zastoupený jednáním zástupce vázán může je však v souladu s § 440 o. z. dodatečně schválit (ratihabovat). 3. Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí"
 
 ### § 56 — Zajištění a spoludlužnictví
@@ -443,7 +443,7 @@ Pro **kótované a.s.** se doplňuje implementací **směrnice 2017/828/EU** (SR
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 2227/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC578C3B2CF927E0C1258283003127D7?openDocument) — 21. 2. 2018, kat. A
+- *NS* [29 Cdo 2227/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC578C3B2CF927E0C1258283003127D7?openDocument) — kat. A, 21. 2. 2018
   > „Obchodní korporace, členem jejíhož statutárního orgánu je osoba, která má být rozhodnutím soudu vyloučena z výkonu funkce člena statutárního orgánu obchodní korporace podle § 63 a násl. z. o. k., má důležitý zájem na vydání rozhodnutí o vyloučení ve smyslu tohoto ustanovení"
 
 ### § 66—68 — Ručení při úpadku (wrongful trading)
@@ -735,12 +735,10 @@ Klíčové pro: **akviziční transakce**, **povinné nabídky převzetí** (§ 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — 31. 3. 2025, kat. A
-  > „Skutečnost, že společnost s ručením omezeným ovládá fyzická osoba, jež je osobou blízkou (sourozencem) fyzické osoby, která ovládá akciovou společnost, nečiní ze společnosti s ručením omezeným toho, kdo akciovou společnost podstatně ovlivňuje na právní jednání mezi akciovou společností a společností s ručením omezeným nelze jen proto pohlížet jako na právní jednání mezi osobami blízkými (§ 22 odst. 2 o. z.)"
-- *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
+- *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — kat. A, 28. 3. 2024
   > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
-- *NS* [29 NSCR 178/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/486F4614BF5D35D7C1258509001E525F?openDocument) — 31. 10. 2019, kat. A
-  > „Důležitými důvody, pro které může insolvenční soud odvolat člena věřitelského výboru postupem podle § 63 odst. 3 insolvenčního zákona, mohou být i skutečnosti, pro něž tato osoba nebyla způsobilá k volbě do věřitelského výboru, obsažené v § 59 odst. 2 insolvenčního zákona"
+- *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — kat. A, 31. 3. 2025
+  > „Skutečnost, že společnost s ručením omezeným ovládá fyzická osoba, jež je osobou blízkou (sourozencem) fyzické osoby, která ovládá akciovou společnost, nečiní ze společnosti s ručením omezeným toho, kdo akciovou společnost podstatně ovlivňuje na právní jednání mezi akciovou společností a společností s ručením omezeným nelze jen proto pohlížet jako na právní jednání mezi osobami blízkými (§ 22 odst. 2 o. z.)"
 
 ### § 79—81 — Koncern
 
