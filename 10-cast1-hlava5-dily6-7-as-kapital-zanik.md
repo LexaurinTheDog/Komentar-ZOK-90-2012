@@ -47,6 +47,42 @@ Vzhledem k obrovskému rozsahu této materie (necelých 90 paragrafů) tato kapi
 - **Dříve než jsou upsány** akcie;
 - **Později než zápis** do OR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nekótovaná a.s. ALFA s ZK 5 mil. Kč rozhodla na VH dne 1. 3. o zvýšení ZK o 3 mil. Kč upsáním nových akcií. Upisovatel BETA upsal akcie a 20. 3. splatil emisní kurs na účet u banky. Návrh na zápis nové výše ZK do OR byl podán 25. 3.; rejstříkový soud zapsal novou výši ZK 10. 4. Mezitím (1. 4.) chce BETA vykonávat hlasovací práva z nově upsaných akcií na mimořádné VH a tvrdí, že je již akcionářem v rozsahu zvýšení. Důkazy: usnesení VH s notářským zápisem, listina upisovatelů, výpis z bankovního účtu o splacení, výpis z OR s datem zápisu.
+
+**2. Právní otázka.** K jakému okamžiku nabývá u nekótované a.s. zvýšení ZK účinnosti a od kdy je upisovatel akcionářem s plnými právy z nově upsaných akcií?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 464 — účinky zvýšení ZK nastávají u nekótované a.s. **okamžikem zápisu nové výše ZK do OR** (odst. 1), u kótované a.s. dříve (odst. 2).
+- *Související ustanovení téhož zákona:* § 465 (splnění povinností i při neplatnosti usnesení po zápisu), § 477 (návrh na zápis usnesení a nové výše ZK), § 344 (lhůta splacení), § 246 (minimální ZK).
+- *Související předpisy:* zákon o veřejných rejstřících č. 304/2013 Sb. (konstitutivní zápis); o. z. § 25 a násl. (vznik práv zápisem).
+- *Judikatura:* k povaze konstitutivního zápisu změny ZK do OR a k tomu, že práva z nově emitovaných akcií vznikají až účinností zvýšení; nosný závěr — do zápisu (u nekótované a.s.) upisovatel ještě není akcionářem ve vztahu k upsaným akciím.
+
+**4. Subsumpce.** ALFA je nekótovaná → aplikuje se § 464 odst. 1. Akcie byly upsány (1.—20. 3.) a emisní kurs splacen (20. 3.), avšak rozhodný znak normy — **zápis nové výše ZK do OR** — nastal teprve 10. 4. K 1. 4. tedy účinky zvýšení ještě nenastaly; BETA k tomuto dni nebyla akcionářem ohledně nově upsaných akcií.
+
+**5. Řešení.** BETA nemohla 1. 4. vykonávat hlasovací práva z nově upsaných akcií — ta vznikla až 10. 4. Správný postup: počkat na zápis do OR; do té doby BETA disponuje pouze pohledávkovou pozicí upisovatele (a povinností splatit), nikoli akcionářskými právy z nového zvýšení. Procesní krok: ověřit datum zápisu ve výpisu z OR; práva vykonávat až od něj. Riziko: kdyby společnost umožnila výkon práv předčasně, usnesení VH konaná s těmito hlasy by byla napadnutelná.
+
+**6. Varianty.** (a) Kdyby šlo o **kótovanou** a.s. (akcie na evropském regulovaném trhu), účinky by podle odst. 2 nastaly již upsáním a splacením určené části — BETA by byla akcionářem dříve. (b) Kdyby zápis do OR byl zamítnut, nastoupil by režim § 465 odst. 2 a vkladová povinnost by zanikla.
+
+#### G. Protiargumenty a rizika
+
+- *„Splacením kurzu se stávám akcionářem."* — Nikoli u nekótované a.s.; § 464 odst. 1 váže účinky výlučně na zápis do OR, splacení je jen jednou z podmínek zápisu. Neutralizace: doslovné znění odst. 1.
+- *„Účinky lze dohodou posunout dopředu."* — Pouze u kótovaných a.s. (odst. 2) a ani tam ne dříve než po upsání a ne později než zápis do OR. U nekótované a.s. je okamžik kogentní.
+- Slabé místo: hraniční určení, zda je a.s. „kótovaná" — rozhoduje faktický status přijetí akcií k obchodování na evropském regulovaném trhu ke dni rozhodování, nikoli pouhý záměr IPO.
+
+#### H. Praktický závěr
+
+U nekótované a.s. je zvýšení ZK účinné až zápisem nové výše do OR; do té doby upisovatel nemá akcionářská práva z nového zvýšení. U kótované a.s. nastupují účinky dříve (upsání + splacení určené části), nejdříve po upsání a nejpozději zápisem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o kótovanou (odst. 2) či nekótovanou (odst. 1) a.s.
+- [ ] U nekótované: vázat výkon práv z nových akcií až na datum zápisu do OR.
+- [ ] U kótované: ověřit, jakou část kurzu váže usnesení/stanovy na nástup účinků.
+- [ ] Podat návrh na zápis nové výše ZK bez zbytečného odkladu (§ 477).
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis usnesení VH, listina upisovatelů, doklad o splacení emisního kursu, výpis z OR s datem zápisu nové výše ZK.
+
 ### § 465—466 — Účinnost zápisu navzdory neplatnosti
 
 <details><summary>📜 <b>Text §§ 465—466</b></summary>
@@ -87,6 +123,42 @@ Vzhledem k obrovskému rozsahu této materie (necelých 90 paragrafů) tato kapi
 - c) **2 měsíce od odmítnutí** návrhu bez opravy.
 
 **§ 466 — vrácení emisních kurzů**: Pokud usnesení zrušeno → společnost **vrátí splacené emisní kursy** + obvyklý úrok. Zveřejní soudní rozhodnutí + **výzva věřitelům** vzniklým po účinnosti zvýšení (90 dnů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. GAMA zapsala 1. 6. zvýšení ZK upsáním akcií do OR; upisovatel DELTA splatil emisní kurs 800 tis. Kč. Menšinový akcionář EPSILON následně podal žalobu na neplatnost usnesení VH o zvýšení (vada svolání). Současně vyšlo najevo, že návrh na zápis nové výše ZK byl sice podán včas, ale jiné související usnesení nebylo do 2 měsíců po splnění předpokladů předloženo k zápisu. Důkazy: výpis z OR, žaloba a rozhodnutí soudu o (ne)platnosti, doklady o splacení, doklad o dni splnění předpokladů zápisu.
+
+**2. Právní otázka.** Zůstává splacení emisního kursu platným plněním, je-li napadena platnost usnesení VH, a za jakých podmínek se usnesení o zvýšení ruší ex lege podle § 465 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 465 (po zápisu upisovatel splní povinnosti i při neplatnosti usnesení, ledaže neplatnost vysloví soud; odst. 2 — důvody zrušení usnesení a zániku vkladové povinnosti), § 466 (vrácení emisních kursů s obvyklým úrokem, výzva věřitelům, vrácení/výměna akcií).
+- *Související ustanovení téhož zákona:* § 464 (účinky zvýšení), § 518 (ochrana věřitelů — přiměřeně), § 537—541 (postup při neodevzdání akcií — přiměřeně), § 428 a násl. (řízení o neplatnosti usnesení VH).
+- *Související předpisy:* o. z. (neplatnost právních jednání, bezdůvodné obohacení); z. o veřejných rejstřících č. 304/2013 Sb.
+- *Judikatura:* k principu ochrany právní jistoty třetích osob při zápisu zvýšení ZK do OR; nosný závěr — zápis do OR „zhojuje" pro běžné účely vady upisování, dokud soud nevysloví neplatnost usnesení VH.
+
+**4. Subsumpce.** Zvýšení bylo zapsáno do OR (1. 6.) → aktivuje se § 465 odst. 1: DELTA splnil povinnosti i přes podanou žalobu, dokud soud neplatnost nevysloví. Současně se zkoumá odst. 2: nepodání návrhu / zamítnutí / marné uplynutí lhůt by vedlo k zrušení usnesení a zániku vkladové povinnosti.
+
+**5. Řešení.** Dokud soud o neplatnosti pravomocně nerozhodne, je splacení DELTY platné a zvýšení účinné. Vysloví-li soud neplatnost (nebo nastane některý důvod podle § 465 odst. 2), usnesení se zruší, vkladová povinnost zaniká a společnost podle § 466 vrátí DELTĚ splacený emisní kurs s obvyklým úrokem, zveřejní rozhodnutí a vyzve dotčené věřitele (90 dnů); vydané akcie se vrátí/vymění (§ 537—541 přiměřeně). Procesní kroky: sledovat běh dvouměsíčních lhůt, zajistit zveřejnění a výzvu věřitelům.
+
+**6. Varianty.** (a) Kdyby návrh na zápis nebyl podán do 2 měsíců po splnění předpokladů, usnesení by se zrušilo automaticky [§ 465 odst. 2 písm. a)] bez soudního výroku. (b) Kdyby již byly vydány zaknihované akcie, společnost dá příkaz k jejich zrušení/snížení jmenovité hodnoty (§ 466 odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *„Neplatné usnesení znamená neplatné splacení."* — Nikoli; § 465 odst. 1 chrání zápis do OR, splacení je po zápisu platné, ledaže neplatnost vysloví soud. Neutralizace: ochrana třetích osob a právní jistoty.
+- *„Vrácení kurzu lze odložit."* — § 466 odst. 1 ukládá vrátit bez zbytečného odkladu a s obvyklým úrokem; prodlení zakládá odpovědnost.
+- Riziko: opomenutí výzvy věřitelům podle § 466 odst. 2 u zvýšení, jež již nabylo účinků — věřitelé vzniklí po účinnosti mají zvláštní ochranu (analogicky § 518).
+
+#### H. Praktický závěr
+
+Zápis zvýšení do OR stabilizuje splacení upisovatelů; vady usnesení VH se prosadí jen soudním výrokem o neplatnosti nebo naplněním ex lege důvodů podle § 465 odst. 2. Po zrušení následuje vrácení kurzů s úrokem, zveřejnění a ochrana věřitelů (§ 466).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byl podán návrh na zápis do 2 měsíců po splnění předpokladů.
+- [ ] Sledovat řízení o neplatnosti usnesení VH a jeho pravomocné rozhodnutí.
+- [ ] Při zrušení: vrátit emisní kursy s obvyklým úrokem bez zbytečného odkladu.
+- [ ] Zveřejnit rozhodnutí a vyzvat věřitele vzniklé po účinnosti zvýšení (90 dnů).
+
+**Typicky rozhodné důkazy / podklady:** výpis z OR (datum zápisu), rozhodnutí soudu o (ne)platnosti, doklady o splacení a dni splnění předpokladů zápisu, doklad o zveřejnění výzvy věřitelům.
 
 ---
 
@@ -176,6 +248,42 @@ Vzhledem k obrovskému rozsahu této materie (necelých 90 paragrafů) tato kapi
 | Lhůty pro upisování | Min. 2 týdny pro přednostní právo |
 | **Údaje o nepeněžitém vkladu** | Pokud relevantní |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. OMEGA chce zvýšit ZK o 10 mil. Kč. Akcionáři dosud nesplatili 4 % dříve upsaných akcií. Představenstvo zařadilo na program VH zvýšení a navrhlo, že část nových akcií bude upsána nepeněžitým vkladem (nemovitost) určeného zájemce; znalecký posudek ocenil nemovitost na 6 mil. Kč. Zprávu představenstva podle § 474 odst. 2 představenstvo zpřístupnilo na webu 5 dní před VH. Důkazy: pozvánka a program VH, návrh usnesení, zpráva představenstva, znalecký posudek, doklad o stavu splacení dříve upsaných akcií, screenshot webu s datem uveřejnění.
+
+**2. Právní otázka.** Je zvýšení ZK upsáním nových akcií přípustné, nejsou-li plně splaceny dříve upsané akcie, a splňuje usnesení VH a zpráva představenstva náležitosti § 474—477?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 474 (zákaz zvýšení při nesplacení dříve upsaných akcií s výjimkou zanedbatelné části a výjimkou pro výhradně nepeněžité vklady; zpráva představenstva a její uveřejnění min. 7 dní předem), § 475 (obligatorní obsah usnesení), § 476 (veřejná nabídka), § 477 (návrh na zápis usnesení do OR).
+- *Související ustanovení téhož zákona:* § 484—488 (přednostní právo), § 468—469 (ocenění nepeněžitého vkladu), § 464—465 (účinky a jejich zvrat).
+- *Související předpisy:* z. o veřejných rejstřících č. 304/2013 Sb.; z. o auditorech (u souvisejících operací); o. z. (oceňování, znalecký posudek).
+- *Judikatura:* k formálním náležitostem usnesení VH o zvýšení ZK a k důsledkům jejich absence (neplatnost/zápisná překážka); nosný závěr — chybějící obligatorní údaje § 475 jsou vadou usnesení.
+
+**4. Subsumpce.** Nesplaceno je 4 % — sporné, zda je „zanedbatelné" ve vztahu k ZK (§ 474 odst. 1); pokud ne, peněžitá část zvýšení by byla nepřípustná, ledaže VH vysloví souhlas s postupem při zanedbatelné části. Pro nepeněžitou část (nemovitost) zákaz neplatí (odst. 2), je-li předložena a uveřejněna zpráva představenstva — ta byla uveřejněna jen 5 dní předem, tj. **méně než zákonných 7 dní** (odst. 3) → vada.
+
+**5. Řešení.** Část zvýšení nepeněžitým vkladem je principiálně přípustná i bez plného splacení dříve upsaných akcií, avšak procesní vada (uveřejnění zprávy 5 < 7 dní) ohrožuje platnost usnesení a zápis. Správný postup: odložit VH nebo znovu uveřejnit zprávu s dodržením 7denní lhůty; do usnesení doplnit všechny údaje § 475 (zejm. údaje o nepeněžitém vkladu, ocenění, vydávané akcie). U peněžité části vyřešit nesplacení (doplatit, nebo nechat VH posoudit zanedbatelnost). Procesní krok: po VH bez zbytečného odkladu návrh na zápis usnesení (§ 477).
+
+**6. Varianty.** (a) Kdyby šlo výhradně o nepeněžité vklady a zpráva byla uveřejněna včas, zvýšení by bylo přípustné bez ohledu na nesplacení (§ 474 odst. 2). (b) Kdyby nesplacená část byla skutečně zanedbatelná a VH to schválila, peněžité zvýšení by bylo přípustné i bez doplacení.
+
+#### G. Protiargumenty a rizika
+
+- *„Nesplacení dříve upsaných akcií vždy brání zvýšení."* — Neplatí pro výhradně nepeněžité vklady (odst. 2) ani při zanedbatelné nesplacené části se souhlasem VH (odst. 1). Neutralizace: rozlišení peněžité a nepeněžité formy.
+- *„7denní lhůta uveřejnění je pořádková."* — Je to zákonný předpoklad transparentnosti; její nedodržení zakládá vadu napadnutelného usnesení. Neutralizace: dodržet/zopakovat uveřejnění.
+- Slabé místo: posouzení „zanedbatelnosti" nesplacené části je neurčitý pojem — bez výslovného souhlasu VH s tímto postupem hrozí spor.
+
+#### H. Praktický závěr
+
+Před zvýšením ZK upsáním nových akcií ověřte splacení dříve upsaných akcií (výjimky: nepeněžité vklady, zanedbatelná část se souhlasem VH), zajistěte úplný obsah usnesení podle § 475 a včasné (≥ 7 dní) uveřejnění zprávy představenstva u nepeněžitých vkladů. Po VH bez odkladu podejte návrh na zápis usnesení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit stav splacení dříve upsaných akcií a aplikaci výjimek § 474.
+- [ ] Zkontrolovat úplnost obligatorních údajů usnesení podle § 475 (a § 476 u veřejné nabídky).
+- [ ] U nepeněžitého vkladu zajistit zprávu představenstva a její uveřejnění ≥ 7 dní předem.
+- [ ] Po VH podat návrh na zápis usnesení do OR (§ 477).
+
+**Typicky rozhodné důkazy / podklady:** usnesení VH, zpráva představenstva s datem uveřejnění, znalecký posudek k nepeněžitému vkladu, doklad o stavu splacení dříve upsaných akcií, pozvánka a program VH.
+
 ### § 484—488 — Přednostní právo akcionářů
 
 <details><summary>📜 <b>Text §§ 484—488</b></summary>
@@ -243,6 +351,42 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 
 - *ÚS* [III.ÚS 77/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-77-24_1) — usnesení, 7. 2. 2024
   > „Nejvyšší soud se zabýval výkladem § 488 zákona o obchodních korporacích, který umožňuje omezit nebo vyloučit přednostní právo akcionáře pouze v případě, kdy důležitý zájem společnosti takový postup ospravedlňuje. V této souvislosti Nejvyšší soud dovodil, že kapitalizace pohledávek nebyla způsobilá ospravedlnit vyloučení přednostního práva akcionářů z pohledu § 488 zákona o obchodních korporacích"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. SIGMA má dva akcionáře: většinového M (80 %) a menšinového N (20 %). M je současně věřitelem společnosti z půjčky 16 mil. Kč. M prosadil na VH zvýšení ZK o 20 mil. Kč s vyloučením přednostního práva všech akcionářů a s tím, že nové akcie upíše M a emisní kurs splatí započtením své pohledávky (kapitalizace). N hlasoval proti a namítá, že vyloučení přednostního práva mu zředí podíl z 20 % na cca 9 %. Důkazy: usnesení VH, zpráva představenstva podle § 488 odst. 4, smlouva o úvěru/pohledávce M, návrh smlouvy o započtení, listina přítomných a výsledek hlasování.
+
+**2. Právní otázka.** Je vyloučení přednostního práva akcionářů odůvodněno „důležitým zájmem společnosti" podle § 488 odst. 1, je-li jediným účelem kapitalizace pohledávky většinového akcionáře?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 484 (přednostní právo v poměru podílu), § 485 (oznámení a lhůta ≥ 2 týdny), § 486 (samostatná převoditelnost), § 487 (nelze vyloučit/omezit stanovami), § 488 (VH může omezit/vyloučit jen v důležitém zájmu společnosti, ve stejném rozsahu pro všechny, zpráva představenstva do sbírky listin).
+- *Související ustanovení téhož zákona:* § 474—477 (usnesení o zvýšení), § 417 odst. 3 (3/4 většina pro vyloučení přednostního práva), § 244 (rovné zacházení).
+- *Související předpisy:* o. z. § 212 (loajalita, zákaz zneužití většiny); z. o veřejných rejstřících (sbírka listin).
+- *Judikatura:* ÚS/NS III.ÚS 77/24 (z tohoto komentáře) — kapitalizace pohledávek sama o sobě neospravedlňuje vyloučení přednostního práva podle § 488; vyloučení vyžaduje skutečný důležitý zájem společnosti, nikoli zájem ovládajícího akcionáře.
+
+**4. Subsumpce.** Přednostní právo náleží oběma akcionářům podle podílů (§ 484). Stanovami je nelze vyloučit (§ 487); VH je může vyloučit jen při „důležitém zájmu společnosti" (§ 488 odst. 1) a ve stejném rozsahu pro všechny (odst. 2). Účelem zde je výhradně kapitalizace pohledávky M → podle nosného závěru judikatury to **není** důležitý zájem společnosti způsobilý ospravedlnit vyloučení; jde fakticky o nástroj zředění N.
+
+**5. Řešení.** Usnesení o vyloučení přednostního práva je napadnutelné pro rozpor s § 488 (a se zákazem zneužití většiny). N může podat návrh na vyslovení neplatnosti usnesení VH a domáhat se zachování přednostního práva, případně náhrady újmy ze zředění. Správný postup společnosti: buď zachovat přednostní právo (N může upsat poměrnou část a započíst, je-li mu to umožněno), nebo prokázat samostatný důležitý zájem společnosti (např. záchrana před úpadkem, kde kapitalizace je jediným reálným řešením) a doložit jej ve zprávě podle § 488 odst. 4. Procesní kroky: zpráva představenstva s konkrétním odůvodněním, uložení do sbírky listin, dodržení 3/4 většiny.
+
+**6. Varianty.** (a) Kdyby společnost byla v hrozícím úpadku a kapitalizace dluhu byla jediným způsobem ozdravení nabídnutým všem akcionářům rovně, mohl by být důležitý zájem dán. (b) Kdyby N dostal možnost upsat svou poměrnou část (přednostní právo zachováno) a započíst vlastní pohledávku, k zředění proti jeho vůli by nedošlo.
+
+#### G. Protiargumenty a rizika
+
+- *„Kapitalizace dluhu je vždy v zájmu společnosti (oddlužení)."* — Judikatura (III.ÚS 77/24) výslovně odmítla, že by kapitalizace pohledávek sama o sobě ospravedlnila vyloučení přednostního práva. Neutralizace: vyžadovat konkrétní, společnosti vlastní důležitý zájem.
+- *„Stanovy mohou přednostní právo upravit."* — Vyloučit/omezit je lze jen usnesením VH při důležitém zájmu, nikoli předem stanovami (§ 487). 
+- Slabé místo: hranice mezi legitimním ozdravným zájmem a účelovým zředěním minority je skutková; rozhodne odůvodnění zprávy a kontext (solventnost, alternativy).
+
+#### H. Praktický závěr
+
+Přednostní právo je silně chráněné: stanovami je nelze vyloučit (§ 487), VH jen výjimečně v důležitém zájmu společnosti a rovně pro všechny (§ 488), s odůvodněnou zprávou do sbírky listin a 3/4 většinou. Kapitalizace pohledávky většinového akcionáře sama o sobě vyloučení neospravedlní (III.ÚS 77/24).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda je vyloučení/omezení odůvodněno skutečným důležitým zájmem společnosti (ne ovládajícího akcionáře).
+- [ ] Zkontrolovat rovnost rozsahu pro všechny akcionáře (§ 488 odst. 2) a 3/4 většinu.
+- [ ] Vyžádat zprávu představenstva podle § 488 odst. 4 a její uložení do sbírky listin.
+- [ ] U menšinového akcionáře zvážit návrh na neplatnost usnesení a náhradu újmy ze zředění.
+
+**Typicky rozhodné důkazy / podklady:** usnesení VH s vyloučením přednostního práva, zpráva představenstva (§ 488 odst. 4), doklady o solventnosti a alternativách, smlouva o započtené pohledávce, listina přítomných a výsledky hlasování.
 
 ---
 
@@ -352,6 +496,42 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 - *NS* [27 Cdo 1175/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9134B26ACCB23403C1258308003B80C7?openDocument) — kat. A, 17. 7. 2018
   > „Při výkladu § 516 odst. 1 písm. a) z. o. k. není na místě rozlišovat mezi účelem a důvody snížení základního kapitálu postačí, je-li v usnesení valné hromady uveden jím sledovaný účel. Tím může být například prominutí nesplacené části emisního kursu akcií (§ 524 z. o. k.), úhrada ztráty, převod do rezervního fondu a úhrada budoucí ztráty (§ 544 odst. 1 z. o. k.), splnění povinnosti uložené v § 306 odst. 2 či § 308 odst. 2 z. o. k. nebo snížení přebytku vlastních zdrojů"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. TAU s ZK 12 mil. Kč rozhodla snížit ZK o 4 mil. Kč. Usnesení VH uvádí, že účelem je „snížení přebytku vlastních zdrojů a výplata akcionářům", způsob provedení snížením jmenovité hodnoty každé akcie a lhůtu pro předložení listinných akcií. Po snížení by ZK činil 8 mil. Kč. Věřitel V (nesplatná pohledávka 5 mil. Kč) namítá, že se zhorší dobytnost jeho pohledávky. Důkazy: usnesení VH, účetní závěrka, znalecké posouzení dobytnosti, přehled pohledávek věřitelů.
+
+**2. Právní otázka.** Splňuje usnesení VH náležitosti § 516 (zejm. uvedení účelu) a neporušuje § 517 (minimální výše ZK; zákaz zhoršení dobytnosti pohledávek)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 516 [obligatorní obsah usnesení — písm. a) účel, b) rozsah a způsob, c) naložení s částkou, d)—f) losování/smlouva/lhůty], § 517 (ZK nesmí klesnout pod zákonné minimum; nesmí se zhoršit dobytnost pohledávek věřitelů), § 519 (návrh na zápis usnesení do OR).
+- *Související ustanovení téhož zákona:* § 246 (minimální ZK 2 mil. Kč / 80 000 EUR), § 518 a § 520 (ochrana věřitelů), § 524 (prominutí nesplacené části), § 544—545 (bilanční snížení a zákaz plnění).
+- *Související předpisy:* z. o veřejných rejstřících č. 304/2013 Sb.; z. o účetnictví č. 563/1991 Sb.
+- *Judikatura:* NS 27 Cdo 1175/2017 (z tohoto komentáře) — při výkladu § 516 odst. 1 písm. a) postačí uvedení sledovaného účelu (úhrada ztráty, převod do rezervního fondu, prominutí kurzu, snížení přebytku zdrojů aj.); není třeba rozlišovat účel a důvody.
+
+**4. Subsumpce.** Usnesení uvádí účel („snížení přebytku vlastních zdrojů a výplata") — podle judikatury postačující (§ 516 odst. 1 písm. a). Po snížení ZK = 8 mil. Kč > 2 mil. Kč → § 517 odst. 1 splněn. Sporný je § 517 odst. 2 — zda výplata akcionářům zhorší dobytnost pohledávky V; to aktivuje ochranu věřitelů (§ 518, § 520).
+
+**5. Řešení.** Usnesení je z hlediska § 516 v pořádku (účel je uveden). Snížení s výplatou akcionářům však spadá pod plný režim ochrany věřitelů: nelze plnit akcionářům, dokud nebudou přihlášené nesplatné pohledávky zajištěny/uspokojeny (§ 520) a dokud snížení není zapsáno do OR. V může v 90denní lhůtě požadovat zajištění; nedohodnou-li se, rozhodne soud. Procesní kroky: zápis usnesení (§ 519), zveřejnění a výzva věřitelům (§ 518), výplata akcionářům až po splnění ochrany.
+
+**6. Varianty.** (a) Kdyby účelem byla **úhrada ztráty** (a splněny podmínky § 544), uplatnila by se výjimka z ochrany věřitelů a současně by podle § 545 nebylo možné akcionářům poskytnout jakékoli plnění. (b) Kdyby snížení mělo ZK srazit pod 2 mil. Kč, bylo by v rozporu s § 517 odst. 1 a nezapsatelné.
+
+#### G. Protiargumenty a rizika
+
+- *„Stačí uvést částku a způsob, účel je formalita."* — Účel je obligatorní náležitost § 516 odst. 1 písm. a); jeho absence je vadou usnesení. Neutralizace: vždy formulovat sledovaný účel (NS 27 Cdo 1175/2017).
+- *„Snížení nad minimum je vždy v pořádku."* — I při dodržení minima platí zákaz zhoršení dobytnosti pohledávek (§ 517 odst. 2) a režim ochrany věřitelů. 
+- Slabé místo: posouzení „zhoršení dobytnosti" je skutkové; bez analýzy solventnosti hrozí úspěšný požadavek věřitele na zajištění a blokace výplaty.
+
+#### H. Praktický závěr
+
+Usnesení VH o snížení ZK musí vždy obsahovat účel, rozsah, způsob a naložení s částkou (§ 516); ZK nesmí klesnout pod zákonné minimum a snížení nesmí zhoršit dobytnost pohledávek (§ 517). Uvedení sledovaného účelu postačí (NS 27 Cdo 1175/2017); výplatu akcionářům podmiňuje splnění ochrany věřitelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat, zda usnesení obsahuje všechny náležitosti § 516 (zejm. účel).
+- [ ] Ověřit, že ZK po snížení neklesne pod 2 mil. Kč (§ 517 odst. 1).
+- [ ] Posoudit dopad na dobytnost pohledávek věřitelů (§ 517 odst. 2).
+- [ ] Podat návrh na zápis usnesení do OR (§ 519) a spustit ochranu věřitelů.
+
+**Typicky rozhodné důkazy / podklady:** usnesení VH, účetní závěrka, analýza solventnosti/dobytnosti pohledávek, přehled věřitelů, doklad o zveřejnění a výzvě.
+
 ### § 518—533 — Ochrana věřitelů
 
 <details><summary>📜 <b>Text § 518</b></summary>
@@ -398,6 +578,42 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 4. **Zajištění nebo uspokojení** přihlášených pohledávek (§ 520);
 5. **Výjimka při úhradě ztráty** — § 545 (analog § 240a u s.r.o.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. RHO rozhodla o snížení ZK s výplatou akcionářům. Rozhodnutí VH nabylo účinnosti vůči třetím osobám (zápis) 1. 9. Představenstvo do 30 dnů písemně oznámilo snížení známému věřiteli K (nesplatná pohledávka 2 mil. Kč splatná 2027) a dvakrát s 30denním odstupem zveřejnilo usnesení v OR s výzvou věřitelům. K do 90 dnů od doručení oznámení požádal o zajištění pohledávky; společnost odmítla s tím, že je solventní. Důkazy: doklad o doručení oznámení K, doklady o obou zveřejněních s daty, žádost K o zajištění, účetní výkazy o solventnosti.
+
+**2. Právní otázka.** Vznikl věřiteli K nárok na přiměřené zajištění nesplatné pohledávky podle § 518, a kdo nese důkazní břemeno ohledně (ne)zhoršení dobytnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 518 (oznámení známým věřitelům do 30 dnů; 2× zveřejnění usnesení s 30denním odstupem; 90denní lhůta věřitelů k požadavku na zajištění/uspokojení/dohodu; výjimka, nezhorší-li se dobytnost; rozhodnutí soudu při neshodě), § 533 (splatnost kupní ceny do 3 měsíců, ztráta práv z akcií braných z oběhu).
+- *Související ustanovení téhož zákona:* § 517 (zákaz zhoršení dobytnosti), § 519 (zápis usnesení), § 520 (zajištění/uspokojení), § 537—541 (prodlení s předložením akcií), § 544—545 (výjimky).
+- *Související předpisy:* o. z. (zajištění závazků); insolvenční zákon č. 182/2006 Sb. (úpadkové souvislosti).
+- *Judikatura:* k tomu, že ochrana věřitelů při snížení ZK je založena na riziku zhoršení dobytnosti; nosný závěr — věřitel se může domáhat zajištění, prokáže-li (resp. tvrdí) zhoršení, a soud poměřuje druh a výši pohledávky.
+
+**4. Subsumpce.** K je známý věřitel s nesplatnou pohledávkou vzniklou před účinností → spadá pod § 518 odst. 1. Společnost splnila oznamovací a zveřejňovací povinnosti. K včas (do 90 dnů) požádal o zajištění (odst. 3). Sporné je, zda se dobytnost zhoršuje — pokud ne, nárok na zajištění nevzniká (výjimka v odst. 3 in fine); při neshodě rozhodne soud (odst. 4).
+
+**5. Řešení.** Odmítnutí zajištění není samo o sobě protiprávní, je-li snížení takové, že nezhoršuje dobytnost (společnost zůstává plně solventní a krytí pohledávky K se nezmenší). Nedohodnou-li se, K se obrátí na soud, který podle § 518 odst. 4 posoudí druh a výši pohledávky a rozhodne o dostatečném zajištění. Správný postup společnosti: doložit solventnost a nezhoršení krytí; výplatu akcionářům neprovést dříve, než je ochrana věřitelů vyřešena (jinak hrozí odpovědnost a vrácení plnění). Procesní kroky: vést evidenci přihlášených pohledávek, případně poskytnout přiměřené zajištění (zástava, ručení, jistota).
+
+**6. Varianty.** (a) Kdyby šlo o snížení za účelem **úhrady ztráty** (§ 544), ustanovení o ochraně věřitelů by se nepoužila a § 518 by se neaplikoval; akcionářům by však nebylo možné nic vyplatit (§ 545). (b) Kdyby pohledávka K vznikla až **po** účinnosti rozhodnutí, nepatřila by do chráněného okruhu § 518 odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *„Solventní společnost nemusí nic zajišťovat."* — Pravda jen tehdy, nezhorší-li se dobytnost; při sporu rozhoduje soud (§ 518 odst. 4), nikoli jednostranné posouzení společnosti. Neutralizace: doložit solventnost a krytí, případně nabídnout zajištění.
+- *„Zveřejnění jednou stačí."* — § 518 odst. 2 vyžaduje zveřejnění nejméně dvakrát s 30denním odstupem; opomenutí blokuje splnění podmínek pro výplatu i zápis dokončení.
+- Slabé místo: 90denní lhůta běží různě (od doručení oznámení vs. od druhého zveřejnění); chyba ve výpočtu lhůty ohrožuje řádné vypořádání věřitelů.
+
+#### H. Praktický závěr
+
+Při snížení ZK s dopadem na věřitele oznamte snížení známým věřitelům do 30 dnů, zveřejněte usnesení 2× s 30denním odstupem a respektujte 90denní lhůtu k požadavkům věřitelů. Zajištění náleží jen při zhoršení dobytnosti; při neshodě rozhoduje soud. Akcionářům neplňte dříve, než je ochrana věřitelů vyřešena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat známé věřitele s pohledávkami vzniklými před účinností a oznámit jim snížení do 30 dnů.
+- [ ] Zveřejnit usnesení 2× s 30denním odstupem a výzvou k přihlášení.
+- [ ] Hlídat 90denní lhůty a evidovat přihlášené pohledávky.
+- [ ] Posoudit zhoršení dobytnosti; nedohodnete-li se, předložit věc soudu (§ 518 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** doklady o doručení oznámení věřitelům, doklady o obou zveřejněních (data), přihlášky pohledávek, účetní výkazy/analýza solventnosti, případná dohoda o zajištění.
+
 ### § 543—545 — Zápis a účinnost
 
 <details><summary>📜 <b>Text §§ 543—545</b></summary>
@@ -437,6 +653,42 @@ Pokud VH **vylučuje/omezuje přednostní právo**, představenstvo musí předl
 - Soudní rozhodnutí o zajištění.
 
 **§ 544 — naložení s částkou**: Až **po zápisu** do OR. Při neplatnosti usnesení — obnovení vkladové povinnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. PSÍ vykázala ztrátu 6 mil. Kč. VH rozhodla snížit ZK z 10 na 4 mil. Kč výhradně za účelem úhrady ztráty (bilanční snížení). Společnost současně doložila rejstříkovému soudu splnění podmínek § 544 a navrhla zápis snížení i nové výše ZK. Jeden akcionář žádá, aby mu byla v souvislosti se snížením vyplacena „kompenzace" 200 tis. Kč. Důkazy: účetní závěrka prokazující ztrátu, usnesení VH s účelem úhrady ztráty, doklad rejstříkovému soudu o splnění podmínek § 544, návrh na zápis.
+
+**2. Právní otázka.** Lze při bilančním snížení ZK podle § 544 poskytnout akcionářům jakékoli plnění, a jaké podmínky platí pro zápis takového snížení do OR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 544 (výjimka z ochrany věřitelů při snížení za účelem úhrady ztráty nebo převodu do rezervního fondu ≤ 10 % sníženého ZK; doložení podmínek rejstříkovému soudu; zápis usnesení současně s novou výší ZK; vázanost rezervního fondu), § 545 (zákaz jakéhokoli plnění akcionářům při postupu podle § 544; vrácení plnění a ručení členů orgánu), § 543 (výměna poškozené akcie).
+- *Související ustanovení téhož zákona:* § 516 (účel snížení), § 517 (limity), § 518—520 (ochrana věřitelů — zde vyloučena), § 519 (zápis).
+- *Související předpisy:* z. o účetnictví č. 563/1991 Sb. (ztráta, rezervní fond); z. o veřejných rejstřících č. 304/2013 Sb.
+- *Judikatura:* NS 27 Cdo 1175/2017 (z tohoto komentáře) — úhrada ztráty a převod do rezervního fondu na úhradu budoucí ztráty (§ 544 odst. 1) jsou legitimní účely snížení; účel musí být v usnesení uveden.
+
+**4. Subsumpce.** Účelem je výhradně úhrada ztráty → naplněn § 544 odst. 1 písm. a). Tím se vylučuje režim ochrany věřitelů a zápis usnesení proběhne **současně** s novou výší ZK (odst. 2). Současně se však aktivuje § 545 odst. 1 — **nelze poskytnout akcionářům jakékoli plnění**. Požadavek akcionáře na „kompenzaci" 200 tis. Kč je proto nepřípustný.
+
+**5. Řešení.** Bilanční snížení je zapsatelné po doložení podmínek § 544 rejstříkovému soudu, bez zveřejňování a výzev věřitelům. Akcionáři nelze nic vyplatit; bylo-li by plnění poskytnuto, akcionář je vrátí a za splnění této povinnosti ručí členové představenstva/SR solečně a nerozdílně (§ 545 odst. 2). Správný postup: usnesení s účelem úhrady ztráty, doložení účetní závěrkou, návrh na zápis usnesení i nové výše ZK; žádost akcionáře o kompenzaci zamítnout. Naložení s částkou (snížení účetní ztráty) až po zápisu.
+
+**6. Varianty.** (a) Kdyby šlo o převod do rezervního fondu na úhradu budoucí ztráty a převáděná částka **nepřesáhla 10 %** sníženého ZK, výjimka by také platila; rezervní fond je vázán [§ 544 odst. 1 písm. b), odst. 3]. (b) Kdyby snížení mělo část částky vyplatit akcionářům, nešlo by o čistě bilanční snížení — uplatnil by se plný režim ochrany věřitelů (§ 518) a § 545 by se nepoužil.
+
+#### G. Protiargumenty a rizika
+
+- *„Při úhradě ztráty lze akcionářům něco vrátit jako kompenzaci."* — § 545 odst. 1 to výslovně zakazuje; jakékoli plnění je nepřípustné a podléhá vrácení s ručením orgánů. Neutralizace: oddělit bilanční snížení od jakékoli výplaty.
+- *„Bilanční snížení nepotřebuje žádné doložení."* — § 544 odst. 2 vyžaduje doložit splnění podmínek rejstříkovému soudu; jinak nelze využít zjednodušený zápis bez ochrany věřitelů.
+- Slabé místo: kombinace účelů (část na ztrátu, část k výplatě) ruší výjimku — nutno jednoznačně vymezit účel v usnesení.
+
+#### H. Praktický závěr
+
+Bilanční snížení ZK za účelem úhrady ztráty (případně převodu do rezervního fondu ≤ 10 %) je osvobozeno od ochrany věřitelů a zapisuje se současně s novou výší ZK po doložení podmínek soudu (§ 544); zároveň však zcela zakazuje jakékoli plnění akcionářům (§ 545). Naložení s částkou nastává až po zápisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit v usnesení účel jako úhradu ztráty / převod do rezervního fondu (§ 544 odst. 1).
+- [ ] Doložit splnění podmínek § 544 rejstříkovému soudu a navrhnout zápis usnesení i nové výše ZK.
+- [ ] Neposkytnout akcionářům žádné plnění (§ 545); evidovat vázanost rezervního fondu.
+- [ ] Naložit s částkou snížení až po zápisu do OR.
+
+**Typicky rozhodné důkazy / podklady:** účetní závěrka prokazující ztrátu, usnesení VH s účelem, doklad rejstříkovému soudu o splnění podmínek § 544, návrh na zápis.
 
 ---
 
@@ -588,6 +840,42 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - *NS* [27 Cdo 1175/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9134B26ACCB23403C1258308003B80C7?openDocument) — kat. A, 17. 7. 2018
   > „Ustanovení § 350 odst. 1 z. o. k. nelze použít na snížení základního kapitálu"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Upisovatel U upsal při založení a.s. KAPPA akcie o jmenovité hodnotě 1 mil. Kč a zavázal se splatit emisní kurs ve lhůtě dle stanov, nejpozději do 1 roku. U splatil pouze 40 % a po roce zůstává v prodlení. Představenstvo jej vyzvalo k doplacení v dodatečné lhůtě 60 dnů; U neuhradil. Představenstvo proto rozhodlo o vyloučení U pro nesplacené akcie a vyzvalo jej k odevzdání zatímního listu, který byl vydán. Důkazy: stanovy, listina upisovatelů, doklad o částečném splacení, výzva k doplacení s doručenkou, rozhodnutí o vyloučení, zatímní list.
+
+**2. Právní otázka.** Jaký je správný postup společnosti vůči akcionáři v prodlení se splacením emisního kursu a jaké jsou důsledky jeho vyloučení podle § 344—347?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 344 (lhůta splacení nejpozději 1 rok; úrok z prodlení ve výši dvojnásobku zákonné sazby; zákaz zproštění vkladové povinnosti vyjma snížení ZK), § 345 (výzva k doplacení v dodatečné lhůtě min. 60 dnů; vyloučení; ručení vyloučeného), § 346 (prohlášení zatímního listu za neplatný; prodej akcií / snížení ZK), § 347 (vypořádání výtěžku), § 348—349 (podíl na zisku; bezhotovostní výplata).
+- *Související ustanovení téhož zákona:* § 246 (minimální ZK), § 516 a násl. (snížení ZK při nemožnosti prodeje), § 35 (zálohy na podíl na zisku).
+- *Související předpisy:* nařízení vlády o výši úroků z prodlení; o. z. (prodlení dlužníka).
+- *Judikatura:* NS 27 Cdo 1175/2017 (z tohoto komentáře) — § 350 odst. 1 nelze použít na snížení ZK; NS 27 Cdo 3885/2017 (z tohoto komentáře) — k rozdělení zisku (tantiéma) jako kontext práva akcionáře na podíl (§ 348).
+
+**4. Subsumpce.** U je v prodlení po uplynutí roční lhůty (§ 344 odst. 1) → vzniká úrok z prodlení (odst. 2). Společnost provedla výzvu v dodatečné lhůtě ≥ 60 dnů (§ 345 odst. 1); po marném uplynutí byl U vyloučen pro nesplacené akcie (odst. 2). Vydaný zatímní list → postup podle § 346: po neodevzdání jej lze prohlásit za neplatný a akcie prodat schválenému zájemci, jinak snížit ZK.
+
+**5. Řešení.** Postup společnosti je správný. Po prohlášení zatímního listu za neplatnost (§ 346 odst. 1) společnost akcie prodá osobě schválené VH; z výtěžku se U vyplatí to, co odpovídá jím splacené části, po započtení pohledávek a účelných nákladů (§ 347). Nelze-li akcie prodat, sníží se ZK o jmenovitou hodnotu nesplacených akcií (§ 346 odst. 2) — při zachování minima (§ 246). U navíc ručí za splacení emisního kursu jím upsaných akcií (§ 345 odst. 3). Procesní kroky: zveřejnění rozhodnutí, evidence započtení, případně VH ke snížení ZK.
+
+**6. Varianty.** (a) Kdyby nebyl vydán zatímní list, nesplacená akcie by přešla na společnost přímo rozhodnutím o vyloučení (§ 345 odst. 2 in fine). (b) Kdyby U doplatil v dodatečné lhůtě, k vyloučení by nedošlo; trval by jen nárok na úrok z prodlení.
+
+#### G. Protiargumenty a rizika
+
+- *„Akcionáře lze zprostit vkladové povinnosti dohodou."* — § 344 odst. 3 to zakazuje, vyjma snížení ZK; jiné „prominutí" je neúčinné a zakládá odpovědnost orgánů.
+- *„Vyloučený akcionář už za nic neručí."* — Naopak ručí za splacení emisního kursu jím upsaných akcií (§ 345 odst. 3) až do jejich splacení nabyvatelem.
+- Slabé místo: dodržení formálních kroků (výzva ≥ 60 dnů s doručením, řádné rozhodnutí o vyloučení, zveřejnění) — vada procesu může vyloučení zneplatnit.
+
+#### H. Praktický závěr
+
+Akcionář splatí emisní kurs nejpozději do 1 roku; při prodlení hradí dvojnásobek zákonného úroku. Před vyloučením musí společnost vyzvat k doplacení v dodatečné lhůtě min. 60 dnů (§ 345); poté vyloučí akcionáře, naloží se zatímním listem/akcií (§ 346) a vypořádá výtěžek (§ 347). Vyloučený akcionář ručí za splacení; zproštění vkladové povinnosti je s výjimkou snížení ZK vyloučeno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit běh roční lhůty a vznik nároku na úrok z prodlení (§ 344).
+- [ ] Doručit výzvu k doplacení s dodatečnou lhůtou min. 60 dnů (§ 345 odst. 1).
+- [ ] Rozhodnout o vyloučení a naložit se zatímním listem/akcií (§ 346); zveřejnit.
+- [ ] Vypořádat výtěžek a započtení (§ 347); zvážit snížení ZK, nelze-li akcie prodat.
+
+**Typicky rozhodné důkazy / podklady:** stanovy a usnesení o zvýšení ZK, listina upisovatelů, doklady o splacení, výzva s doručenkou, rozhodnutí o vyloučení, zatímní list, doklad o prodeji akcií / snížení ZK.
+
 ### § 351—354 — Kvalifikovaný akcionář
 
 <details><summary>📜 <b>Text §§ 351—354</b></summary>
@@ -629,6 +917,42 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - **Žaloba derivativní** (§ 371) — analog § 157 ZOK pro s.r.o.;
 - **Žaloba na vyrovnání** (§ 90 ZOK — squeeze-out);
 - **Návrh na jmenování znalce** pro přezkum zprávy o vztazích (§ 85 ZOK).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. LAMBDA má ve stanovách omezení výkonu hlasovacího práva — nejvyšší počet hlasů jednoho akcionáře 1 000 (stejně pro každého a jím ovládané osoby). Akcionář X drží akcie odpovídající 1 500 hlasům a chce na VH hlasovat plným počtem. Současně X koupil od jiného akcionáře „samostatné" právo na podíl na zisku, o jehož rozdělení VH již rozhodla, a žádá výplatu na sebe. Stanovy neurčily jiný rozhodný den. Důkazy: stanovy (omezení hlasů, kumulativní hlasování), usnesení VH o rozdělení zisku, smlouva o převodu práva na podíl na zisku, seznam akcionářů k rozhodnému dni.
+
+**2. Právní otázka.** Je omezení nejvyššího počtu hlasů podle § 353 odst. 2 účinné vůči X a komu náleží výplata samostatně převedeného práva na podíl na zisku podle § 351—352?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 351 (rozhodný den pro podíl na zisku = rozhodný den k účasti na VH, neurčí-li stanovy jinak), § 352 (samostatná převoditelnost práva na podíl ode dne rozhodnutí VH; vázanost na kupón), § 353 (právo účastnit se VH a hlasovat; stanovy mohou omezit nejvyšší počet hlasů stejně pro každého), § 354 (kumulativní hlasování, určí-li stanovy).
+- *Související ustanovení téhož zákona:* § 348 (právo na podíl na zisku), § 417 (většiny na VH), § 244 (rovné zacházení), § 287 a násl. (kupóny).
+- *Související předpisy:* o. z. (postoupení pohledávky — analogicky pro samostatně převoditelné právo).
+- *Judikatura:* NS 27 Cdo 3885/2017 (z tohoto komentáře) — VH může za podmínek stanov a důležitých důvodů rozdělit zisk i členům orgánů (tantiéma), aniž rozdělí akcionářům; kontext rozsahu práva na podíl na zisku (§ 348, § 351).
+
+**4. Subsumpce.** Stanovy zavedly přípustné omezení hlasů „ve stejném rozsahu pro každého akcionáře" (§ 353 odst. 2) → vůči X je účinné; X může vykonat nejvýše 1 000 hlasů, nikoli 1 500. Právo na podíl na zisku je samostatně převoditelné ode dne rozhodnutí VH (§ 352 odst. 1) → převod na X je platný a výplata náleží X (pokud nebyly vydány kupóny vázající převod — § 352 odst. 2).
+
+**5. Řešení.** Společnost neumožní X hlasovat více než 1 000 hlasy; pokus o vyšší výkon je třeba odmítnout, jinak hrozí napadnutelnost usnesení. Naopak výplatu samostatně převedeného práva na podíl na zisku provede X jako nabyvateli (bezhotovostně, § 349), neexistují-li kupóny, jež by převod vázaly. Procesní kroky: ověřit znění stanov a rozhodný den (§ 351), zkontrolovat existenci kupónů, evidovat nabyvatele práva.
+
+**6. Varianty.** (a) Kdyby omezení hlasů bylo nastaveno **nerovně** (jen pro některé akcionáře), bylo by neúčinné pro rozpor s § 353 odst. 2 a § 244. (b) Kdyby k právu na podíl byly vydány kupóny, právo by bylo převoditelné jen s kupónem (§ 352 odst. 2) a výplata by náležela jeho předkladateli.
+
+#### G. Protiargumenty a rizika
+
+- *„Omezení počtu hlasů je nepřípustným zásahem do vlastnictví."* — § 353 odst. 2 je výslovně připouští, je-li stejné pro každého; jde o zákonem aprobovaný nástroj. Neutralizace: doložit rovnost rozsahu omezení.
+- *„Právo na podíl nelze převést bez akcie."* — Po rozhodnutí VH je samostatně převoditelné (§ 352 odst. 1); akcie a právo na konkrétní podíl se rozcházejí. 
+- Slabé místo: rozhodný den a vazba na kupóny — chyba určí nesprávného příjemce výplaty a vyvolá spor.
+
+#### H. Praktický závěr
+
+Stanovy mohou omezit nejvyšší počet hlasů jednoho akcionáře, avšak jen ve stejném rozsahu pro všechny (§ 353); kumulativní hlasování platí, jen určí-li je stanovy (§ 354). Právo na podíl na zisku je po rozhodnutí VH samostatně převoditelné (§ 352) a váže se k rozhodnému dni (§ 351); výplata se provádí bezhotovostně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda stanovy omezují počet hlasů a zda je omezení rovné pro všechny (§ 353 odst. 2).
+- [ ] Určit rozhodný den pro podíl na zisku (§ 351) a existenci kupónů (§ 352 odst. 2).
+- [ ] Při převodu práva na podíl identifikovat nabyvatele a vyplatit jemu (bezhotovostně, § 349).
+- [ ] Zkontrolovat, zda stanovy zavádějí kumulativní hlasování (§ 354).
+
+**Typicky rozhodné důkazy / podklady:** stanovy, usnesení VH o rozdělení zisku, smlouva o převodu práva na podíl na zisku, seznam akcionářů / evidence k rozhodnému dni, případné kupóny.
 
 ### § 375—391 — Společnická žaloba (derivative action)
 
@@ -697,6 +1021,42 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - *NS* [27 Cdo 2169/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FB687CC86FA37E4C12589CC0018118A?openDocument) — kat. A, 28. 3. 2023
   > „Smysl a účel právní úpravy § 390 z. o. k. ve spojení s § 83 odst. 2 písm. c) a § 159a odst. 2 o. s. ř. vyžaduje, aby o všech žalobách podaných jednotlivými vytěsněnými vlastníky (o všech věcech) probíhalo (ze zákona) jediné společné řízení ústící v jedno konečné rozhodnutí o věci samé. Je úkolem soudu, aby v průběhu řízení až do vydání rozhodnutí o věci samé zkoumal okruh osob, jež podaly proti hlavnímu akcionáři žalobu o dorovnání, a aby tyto osoby (každou z nich) bez dalšího považoval za žalobce…"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Hlavní akcionář H drží v kótované a.s. MÝ akcie odpovídající 92 % ZK a 92 % hlasovacích práv. H požádal představenstvo o svolání VH k přechodu všech ostatních účastnických cenných papírů na H (squeeze-out); výši protiplnění doložil znaleckým posudkem a získal souhlas ČNB. VH schválila přechod. Tři vytěsnění minoritní akcionáři A, B, C podali samostatně žaloby o dorovnání výše protiplnění u téhož soudu. Důkazy: doklad o podílu H (≥ 90 % / ≥ 90 %), znalecký posudek, rozhodnutí ČNB, usnesení VH, jednotlivé žaloby o dorovnání.
+
+**2. Právní otázka.** Jak má soud procesně naložit s několika samostatnými žalobami vytěsněných akcionářů o dorovnání protiplnění podle § 390 z. o. k.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 375 (právo hlavního akcionáře ≥ 90 % ZK a ≥ 90 % hlasů požadovat přechod ostatních cenných papírů), § 390 (právo na dorovnání protiplnění), § 391 (u kótované a.s. zdůvodnění protiplnění a předchozí souhlas ČNB; ČNB posuzuje jen zdůvodnění; lhůty; účastníkem jen hlavní akcionář).
+- *Související ustanovení téhož zákona:* § 376—389 (procedura squeeze-outu, protiplnění, znalecký posudek), § 71 (vlivná osoba — v kontextu derivativní žaloby), § 157—160 obdobně (společnická žaloba u s.r.o.).
+- *Související předpisy:* o. s. ř. § 83 odst. 2 písm. c) a § 159a odst. 2 (překážka věci zahájené/rozsouzené, závaznost); z. o nabídkách převzetí č. 104/2008 Sb.
+- *Judikatura:* NS 27 Cdo 2169/2022 (z tohoto komentáře) — o všech žalobách vytěsněných vlastníků o dorovnání probíhá ze zákona jediné společné řízení s jedním rozhodnutím; soud zkoumá okruh žalobců a každého bez dalšího považuje za žalobce.
+
+**4. Subsumpce.** H splňuje prahy § 375 (92 % ZK i hlasů). U kótované a.s. byly splněny podmínky § 391 (zdůvodnění protiplnění, souhlas ČNB). Žaloby A, B, C směřují k dorovnání (§ 390) → podle nosného závěru NS 27 Cdo 2169/2022 mají tvořit **jediné společné řízení** s jedním konečným rozhodnutím; soud sám sleduje okruh žalobců.
+
+**5. Řešení.** Soud nevede tři oddělená řízení, nýbrž jediné společné řízení o dorovnání; výsledek (případné zvýšení protiplnění) se vztáhne na všechny dotčené akcionáře. Squeeze-out sám tím není zvrácen — minorita je vytěsněna, ale má garantováno přiměřené protiplnění s možností soudního přezkumu jeho výše. Procesní kroky: soud zkoumá okruh osob, jež podaly žalobu o dorovnání, spojí je a rozhodne jednotně; ČNB do výše protiplnění nezasahuje (posuzuje jen zdůvodnění).
+
+**6. Varianty.** (a) Kdyby šlo o **nekótovanou** a.s., nevyžadoval by se souhlas ČNB podle § 391, postup by se řídil obecnými pravidly squeeze-outu. (b) Kdyby H nedosáhl prahů 90 %/90 %, nemohl by squeeze-out vůbec iniciovat (§ 375).
+
+#### G. Protiargumenty a rizika
+
+- *„Každý vytěsněný akcionář vede vlastní samostatný spor."* — NS 27 Cdo 2169/2022 to odmítá: ze zákona probíhá jediné společné řízení s jedním rozhodnutím. Neutralizace: spojit věci a zkoumat okruh žalobců.
+- *„ČNB může protiplnění přímo zvýšit."* — ČNB posuzuje pouze, zda navrhovatel řádně zdůvodnil výši (§ 391 odst. 2); přiměřenost přezkoumává soud v řízení o dorovnání.
+- Slabé místo: identifikace všech žalobců a vytěsněných vlastníků v průběhu řízení — opomenutí některého ohrožuje jednotnost a závaznost rozhodnutí (§ 159a odst. 2 o. s. ř.).
+
+#### H. Praktický závěr
+
+Hlavní akcionář (≥ 90 % ZK i hlasů) může vytěsnit minoritu (§ 375); u kótované a.s. je nutné zdůvodnění protiplnění a souhlas ČNB (§ 391), která posuzuje jen zdůvodnění. Spory o dorovnání (§ 390) probíhají jako jediné společné řízení s jedním rozhodnutím závazným pro všechny vytěsněné (NS 27 Cdo 2169/2022). Týmiž pravidly se řídí i derivativní žaloba kvalifikovaného akcionáře (analogicky s.r.o.).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit prahy hlavního akcionáře (≥ 90 % ZK a ≥ 90 % hlasů, § 375).
+- [ ] U kótované a.s. zajistit zdůvodnění protiplnění a souhlas ČNB (§ 391).
+- [ ] Žaloby o dorovnání vést jako jediné společné řízení a zkoumat okruh žalobců (NS 27 Cdo 2169/2022).
+- [ ] U derivativní žaloby ověřit subsidiaritu a předběžné informování DR/SR.
+
+**Typicky rozhodné důkazy / podklady:** doklady o podílu hlavního akcionáře, znalecký posudek k protiplnění, rozhodnutí ČNB, usnesení VH o přechodu, jednotlivé žaloby o dorovnání.
+
 ---
 
 ## Závěrečná ustanovení o a.s. (§ 546—551)
@@ -716,6 +1076,44 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 **§ 546 ZOK** — pravidlo pro **schválení smlouvy o tiché společnosti** v a.s.: **patří do působnosti VH** (§ 421 odst. 2 písm. o). 
 
 **Vztah k OZ § 2747—2755**: Obecná úprava tiché společnosti.
+
+> **Pozn. k textu § 546:** Vlastní normativní text § 546 ZOK upravuje **souběžné snížení a zvýšení základního kapitálu** — VH o něm může rozhodnout pouze tehdy, je-li ZK snižován za předpokladů § 536 nebo § 544 odst. 1. Následující kazuistika vychází z tohoto zákonného textu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. NÝ vykázala ztrátu a má současně zájem získat nový kapitál. VH chce na jednom zasedání rozhodnout o **souběžném** snížení ZK (k úhradě ztráty) a jeho zvýšení (upsáním nových akcií investorem). Snížení má proběhnout za předpokladů § 544 odst. 1 (úhrada ztráty). Představenstvo zvažuje, zda lze obě operace schválit najednou a kdy zahájit zvyšování. Důkazy: účetní závěrka se ztrátou, návrhy obou usnesení, doklad o splnění podmínek § 544, harmonogram zápisů do OR.
+
+**2. Právní otázka.** Za jakých podmínek může VH rozhodnout o souběžném snížení a zvýšení ZK podle § 546 a kdy lze zahájit zvyšování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 546 (souběžné snížení a zvýšení ZK je přípustné jen, je-li ZK snižován za předpokladů § 536 nebo § 544 odst. 1).
+- *Související ustanovení téhož zákona:* § 547 (zvyšování lze zahájit až po účinnosti snížení — obecné pravidlo), § 548 (výjimka pro přizpůsobení jmenovité hodnoty u kótovaných akcií — § 546 a 547 se nepoužijí), § 536 (snížení vzetím akcií z oběhu), § 544 (bilanční snížení), § 516—519 (obecná úprava snížení).
+- *Související předpisy:* z. o veřejných rejstřících č. 304/2013 Sb.; z. o účetnictví č. 563/1991 Sb.
+- *Judikatura:* k účelu souběžného snížení a zvýšení ZK jako nástroje „sanace" kapitálové struktury (úhrada ztráty + přísun nového kapitálu); nosný závěr — souběžnost je vázána na kvalifikované důvody snížení.
+
+**4. Subsumpce.** Snížení směřuje k úhradě ztráty → splněn předpoklad § 544 odst. 1, na který § 546 odkazuje. Souběžné rozhodnutí VH o snížení i zvýšení je tedy přípustné. Z hlediska § 547 však platí, že zvyšování ZK lze zahájit až poté, co je snížení účinné — ledaže by šlo o výjimku podle § 548 (přizpůsobení jmenovité hodnoty kótovaných akcií), což zde není.
+
+**5. Řešení.** VH může na jednom zasedání přijmout obě usnesení (§ 546), neboť snížení splňuje § 544 odst. 1. Realizačně se však nejprve provede snížení (k úhradě ztráty), a teprve po jeho účinnosti se zahájí zvyšování (§ 547). Pozor: při bilančním snížení nelze akcionářům nic vyplatit (§ 545). Procesní kroky: doložit podmínky § 544 rejstříkovému soudu, zajistit posloupnost zápisů (nejprve snížení, pak zvýšení), respektovat zákaz plnění akcionářům.
+
+**6. Varianty.** (a) Kdyby snížení směřovalo k vzetí akcií z oběhu za podmínek § 536, byla by souběžnost rovněž přípustná podle § 546. (b) Kdyby šlo o kótovanou a.s. a účelem bylo přizpůsobení jmenovité hodnoty akcií jejich tržní ceně (§ 548), neaplikovala by se pravidla § 546 a 547 a operace by mohly proběhnout pružněji.
+
+#### G. Protiargumenty a rizika
+
+- *„Souběžné snížení a zvýšení lze provést z jakéhokoli důvodu snížení."* — § 546 je váže výlučně na předpoklady § 536 nebo § 544 odst. 1; jiný účel souběžnost vylučuje. Neutralizace: doložit kvalifikovaný důvod snížení.
+- *„Zvyšování lze zahájit hned s rozhodnutím o snížení."* — § 547 vyžaduje účinnost snížení dříve, než se zvyšování zahájí (mimo výjimku § 548). 
+- Slabé místo: kombinace s bilančním snížením přináší zákaz plnění akcionářům (§ 545) — záměna s běžným snížením s výplatou by byla protiprávní.
+
+#### H. Praktický závěr
+
+Souběžné snížení a zvýšení ZK je přípustné jen tehdy, snižuje-li se ZK za předpokladů § 536 nebo § 544 odst. 1 (§ 546). Obě usnesení může VH přijmout najednou, zvyšování se však zahájí až po účinnosti snížení (§ 547), nejde-li o výjimku u kótovaných akcií (§ 548). Při bilančním snížení platí zákaz plnění akcionářům (§ 545).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že snížení splňuje předpoklady § 536 nebo § 544 odst. 1 (podmínka souběžnosti dle § 546).
+- [ ] Zajistit posloupnost: zvyšování zahájit až po účinnosti snížení (§ 547), není-li dán § 548.
+- [ ] Při bilančním snížení respektovat zákaz plnění akcionářům (§ 545).
+- [ ] Doložit podmínky rejstříkovému soudu a naplánovat zápisy do OR.
+
+**Typicky rozhodné důkazy / podklady:** účetní závěrka se ztrátou, návrhy usnesení o snížení a zvýšení, doklad o splnění podmínek § 544 (resp. § 536), harmonogram a doklady o zápisech do OR.
 
 ### § 547—551 — Zrušení a.s.
 
@@ -761,6 +1159,44 @@ Pokud akcionář **neplní** vkladovou povinnost ani po výzvě:
 - **§ 548 — likvidátor**: VH ho jmenuje a odvolává (default); stanovy mohou určit jinak;
 - **§ 549 — zveřejnění**: usnesení o zrušení **2× v OR** + výzva věřitelům (analog § 518 pro snížení ZK);
 - **§ 550—551 — rozdělení likvidačního zůstatku**: Po vyplacení věřitelů → mezi akcionáře **podle podílů** (default; stanovy mohou určit jinak).
+
+> **Pozn. k textu §§ 547—551:** Vlastní normativní text těchto paragrafů upravuje **zahájení zvyšování po účinnosti snížení** (§ 547), **souběžné snížení a zvýšení u kótovaných akcií** (§ 548) a **podíl na likvidačním zůstatku** a jeho vyplacení (§ 549—551, vč. zaknihovaných akcií). Následující kazuistika z tohoto textu vychází.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A.s. XÍ vstoupila do likvidace. Vydala dva druhy akcií — prioritní (s předností na likvidačním zůstatku) a kmenové. Likvidační zůstatek činí 30 mil. Kč, souhrn jmenovitých hodnot akcií je 40 mil. Kč (zůstatek tedy nestačí na úhradu jmenovité hodnoty všech akcií). Akcionář Y prodal své „samostatné" právo na podíl na likvidačním zůstatku nabyvateli Z poté, co společnost vstoupila do likvidace. Jeden akcionář na výzvu likvidátora neodevzdá listinné akcie. Část akcií je zaknihovaná. Důkazy: stanovy (druhy akcií, případná odchylka dle § 549 odst. 4), rozhodnutí o vstupu do likvidace, smlouva o převodu práva na likvidační zůstatek, evidence akcií.
+
+**2. Právní otázka.** Jak se rozdělí nedostatečný likvidační zůstatek mezi vlastníky prioritních a kmenových akcií a jaký je postup vyplacení při neodevzdání akcií a u zaknihovaných akcií (§ 549—551)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 549 (samostatná převoditelnost práva na likvidační zůstatek ode dne vstupu do likvidace; dělení nedostatečného zůstatku mezi prioritní a ostatní akcie; dělení mezi akcionáře podle splacené jmenovité hodnoty; možná odchylka stanov — odst. 4), § 550 (vyplacení po odevzdání akcie, zničení akcií; při neodevzdání postup dle § 537—538 přiměřeně), § 551 (u zaknihovaných akcií vznik práva ke dni zrušení akcií v evidenci na příkaz likvidátora).
+- *Související ustanovení téhož zákona:* § 547—548 (souběžné snížení/zvýšení — kontext závěrečných ustanovení), § 537—538 (prohlášení akcií za neplatné), § 93 (obecné zrušení a likvidace KO).
+- *Související předpisy:* o. z. § 187 a násl. (likvidace právnické osoby); zákon o podnikání na kapitálovém trhu (evidence zaknihovaných CP).
+- *Judikatura:* k pořadí uspokojení v likvidaci (nejprve věřitelé, poté akcionáři) a k přednosti prioritních akcií na likvidačním zůstatku; nosný závěr — práva akcionářů na zůstatek jsou podřízena uspokojení věřitelů a řídí se stanovami v mezích § 549.
+
+**4. Subsumpce.** Společnost je v likvidaci → právo na podíl na likvidačním zůstatku je samostatně převoditelné (§ 549 odst. 1), převod Y→Z je platný (neurčí-li stanovy jinak). Zůstatek (30 mil.) nestačí na jmenovité hodnoty (40 mil.) → aplikuje se § 549 odst. 2: nejprve část prioritním akcionářům, zbytek ostatním (v rozsahu dle stanov); mezi akcionáře téže skupiny dle splacené jmenovité hodnoty (odst. 3). Neodevzdané listinné akcie → § 550 odst. 2 (postup dle § 537—538 přiměřeně). Zaknihované akcie → § 551 (právo ke dni zrušení akcií v evidenci).
+
+**5. Řešení.** Likvidátor rozdělí zůstatek podle § 549: prioritní akcie mají přednost, kmenové dostanou zbytek; v rámci skupin se dělí podle splacené jmenovité hodnoty. Výplatu provede po odevzdání akcií, které zničí (§ 550 odst. 1); neodevzdá-li akcionář, likvidátor prohlásí akcie za neplatné (§ 537—538 přiměřeně) a vyplatí po prohlášení. U zaknihovaných akcií dá likvidátor příkaz ke zrušení akcií v evidenci a právo vznikne k tomuto dni (§ 551). Nabyvateli Z náleží podíl odpovídající převedenému právu. Procesní kroky: ověřit stanovy (odchylky § 549 odst. 4), výzva k odevzdání akcií, příkaz pro evidenci zaknihovaných CP.
+
+**6. Varianty.** (a) Kdyby stanovy podle § 549 odst. 4 vyloučily přednost prioritních akcií, dělil by se zůstatek bez tohoto zvýhodnění. (b) Kdyby zůstatek převyšoval jmenovité hodnoty, rozdělil by se nadbytek podle podílů (nikoli režimem nedostatečného zůstatku dle odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Právo na likvidační zůstatek nelze převést bez akcie."* — Ode dne vstupu do likvidace je samostatně převoditelné (§ 549 odst. 1), neurčí-li stanovy jinak. Neutralizace: odkaz na zákonný text a stanovy.
+- *„Při nedostatku zůstatku se vyplatí všem stejně."* — § 549 odst. 2 zakládá přednost prioritních akcií; rovnost platí jen v rámci téže skupiny podle splacené jmenovité hodnoty (odst. 3).
+- Slabé místo: u zaknihovaných akcií je rozhodný den vzniku práva navázán na zrušení akcií v evidenci (§ 551); chyba v příkazu likvidátora oddálí či zmaří výplatu.
+
+#### H. Praktický závěr
+
+Po uspokojení věřitelů likvidátor rozdělí likvidační zůstatek: prioritní akcie mají přednost, zbytek náleží ostatním, v rámci skupin podle splacené jmenovité hodnoty (§ 549), nestanoví-li stanovy jinak. Výplata následuje po odevzdání akcií (jejich zničení); při neodevzdání se akcie prohlásí za neplatné (§ 550, § 537—538), u zaknihovaných akcií právo vzniká ke dni jejich zrušení v evidenci (§ 551). Právo na zůstatek je po vstupu do likvidace samostatně převoditelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit druhy akcií a případné odchylky stanov dle § 549 odst. 4.
+- [ ] Rozdělit zůstatek dle § 549 (přednost prioritních; v rámci skupin podle splacené jmenovité hodnoty).
+- [ ] Vyplatit po odevzdání akcií; při neodevzdání prohlásit akcie za neplatné (§ 550, § 537—538).
+- [ ] U zaknihovaných akcií vydat příkaz ke zrušení v evidenci (§ 551) a určit den vzniku práva.
+
+**Typicky rozhodné důkazy / podklady:** stanovy (druhy akcií, odchylky), rozhodnutí o vstupu do likvidace, přehled likvidačního zůstatku a věřitelů, smlouva o převodu práva na likvidační zůstatek, evidence (listinných/zaknihovaných) akcií, příkaz likvidátora.
 
 ---
 

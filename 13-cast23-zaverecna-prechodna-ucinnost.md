@@ -57,6 +57,42 @@ V praktické judikatuře (NS, ÚS, SDEU) se ZOK často interpretuje **eurokonfor
 - **Snížení ZK** s ochranou věřitelů (§ 516—545) — čl. 73—82;
 - **Koncernové právo** (§ 71—91) — částečně směrnice o transparentnosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost ALFA, a.s., je kótovaná na regulovaném trhu BCPP. Při výplatě dividend a při svolávání valné hromady postupovala podle § 398—434 ZOK, ale formuláře pro distanční hlasování a identifikaci akcionářů nastavila čistě podle českého textu zákona, aniž zohlednila evropský základ úpravy (směrnice 2007/36/ES ve znění SRD II). Menšinový institucionální akcionář (penzijní fond) namítl, že mu byl upřen výkon hlasovacího práva prostřednictvím zprostředkovatele (custodiana), jak vyžaduje evropská úprava. Spor směřuje k tomu, zda český text ZOK lze vyložit ve prospěch akcionáře nad rámec jeho doslovného znění. Důkazy: stanovy a.s., pozvánka na VH, korespondence s custodianem, vnitrostátní i evropská úprava výkonu práv akcionářů.
+
+**2. Právní otázka.** Je soud při výkladu konkrétního ustanovení ZOK povinen upřednostnit výklad konformní s implementovanou směrnicí (zde 2007/36/ES) i tehdy, je-li český text gramaticky úžeji formulovaný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 774 ZOK — deklarace, že zákon zapracovává vyjmenované předpisy EU; sama o sobě nezakládá práva, ale určuje interpretační rámec.
+- *Související ustanovení téhož zákona:* § 398—434 (valná hromada a.s.), § 3 odst. 1 (subsidiarita OZ), § 11—14 (jednočlenná s.r.o. — směrnice 2009/102/ES), § 298—316 (vlastní akcie, finanční asistence — směrnice 2017/1132/EU).
+- *Související předpisy:* směrnice 2007/36/ES a 2017/828/EU (SRD II); čl. 288 SFEU (povaha směrnic); zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu.
+- *Judikatura:* doktrína eurokonformního výkladu vychází z rozhodnutí SDEU ve věci *Marleasing* (povinnost vykládat vnitrostátní právo ve světle znění a účelu směrnice až do hranice *contra legem*); v ČR ÚS a NS opakovaně potvrzují přednost eurokonformního výkladu kogentních institutů ZOK.
+
+**4. Subsumpce.** § 774 sám právo akcionáře nezakládá; zakládá je § 398 a násl. ZOK. Avšak protože § 774 výslovně označuje směrnici 2007/36/ES jako implementovanou, je naplněn znak „transpoziční normy“ a soud má povinnost vykládat § 398 a násl. tak, aby byl dosažen cíl směrnice (umožnění výkonu hlasovacích práv přes zprostředkovatele). Sporné je, zda doslovné znění českého ustanovení připouští takový výklad, nebo zda jde o mezeru řešitelnou jen novelou.
+
+**5. Řešení.** Soud upřednostní eurokonformní výklad: pokud text ZOK umožňuje výklad slučitelný se směrnicí, je tento výklad závazný (*Marleasing*). Akcionáři tedy zpravidla nelze upřít výkon práva prostřednictvím custodiana, je-li to ve směrnici garantováno. Procesně: a.s. by měla upravit interní postupy; akcionář se domáhá vyslovení neplatnosti usnesení VH (§ 428 ZOK), případně náhrady škody. Riziko: u kótovaných a.s. je část úpravy v zákoně č. 256/2004 Sb. a v nařízení MAR, takže ZOK není jediným pramenem.
+
+**6. Varianty.** (a) Kdyby šlo o nekótovanou a.s. mimo dosah směrnice 2007/36/ES, eurokonformní tlak by odpadl a rozhodoval by čistě český text. (b) Kdyby český text byl s cílem směrnice v přímém a neodstranitelném rozporu (*contra legem*), soud by eurokonformní výklad nemohl použít a akcionář by se musel domáhat odpovědnosti státu za vadnou transpozici.
+
+#### G. Protiargumenty a rizika
+
+- *„§ 774 je jen technický seznam bez normativního obsahu.“* — Formálně pravda, ale podceňuje jeho interpretační funkci: spolu s čl. 288 SFEU zakládá povinnost konformního výkladu transponujících ustanovení. Neutralizace: argumentovat účinkem směrnice, nikoli § 774 jako samostatným základem práva.
+- *Riziko nadužití eurokonformního výkladu.* Soud nesmí výkladem *contra legem* dotvářet právo proti jasnému českému textu; hranicí je doslovné znění a obecné zásady právní jistoty. Slabé místo: seznam v § 774 je statický a nemusí reflektovat poslední novely směrnic (např. SRD II) — je třeba ověřit aktuální konsolidované znění.
+- *Roztříštěnost pramenů.* U kótovaných a.s. se úprava práv akcionářů nachází i mimo ZOK (z. č. 256/2004 Sb., nařízení MAR), což oslabuje argument opřený výlučně o ZOK.
+
+#### H. Praktický závěr
+
+§ 774 je interpretační „kompas“: při sporu o výklad institutu ZOK, který má evropský původ, vždy ověř, zda existuje implementovaná směrnice, a výklad jí přizpůsob.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, zda sporný institut ZOK pochází z některé směrnice uvedené v § 774 (vlastní akcie, finanční asistence, práva akcionářů, jednočlenná s.r.o., účetní závěrky).
+- [ ] Dohledat aktuální konsolidované znění příslušné směrnice (zejm. 2017/1132/EU a SRD II).
+- [ ] Posoudit, zda český text připouští eurokonformní výklad, nebo zda by šlo o výklad *contra legem*.
+- [ ] Při nemožnosti konformního výkladu zvážit odpovědnost státu za vadnou transpozici.
+
+**Typicky rozhodné důkazy / podklady:** stanovy a interní předpisy korporace, text sporného ustanovení ZOK, znění a preambule implementované směrnice, judikatura SDEU a NS k eurokonformnímu výkladu.
+
 ---
 
 ## Část druhá, Hlava II — Přechodná ustanovení (§ 775—785)
@@ -83,6 +119,42 @@ V praktické judikatuře (NS, ÚS, SDEU) se ZOK často interpretuje **eurokonfor
 - *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
   > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společníci s.r.o. BETA uzavřeli v roce 2011 (za účinnosti obchodního zákoníku) dohodu o úpravě vzájemných práv, jejíž součástí byl i závazek převzít ručení za závazky společnosti nad rámec § 132 ZOK. V roce 2025 věřitel společnosti tvrdí, že posuzování tohoto závazku se má řídit ZOK, neboť k jeho „aktivaci“ (vzniku ručitelské povinnosti) došlo až po 1. 1. 2014. Společník naopak tvrdí, že práva a povinnosti z dohody vznikly před účinností ZOK, a řídí se proto obchodním zákoníkem. Důkazy: datovaná dohoda společníků, účetnictví, doklad o vzniku dluhu a o výzvě k plnění ručení.
+
+**2. Právní otázka.** Které právo (ObchZ vs. ZOK) se použije na práva a povinnosti, jejichž skutkový základ vznikl před 1. 1. 2014, ale jejichž realizace nastává po tomto datu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 775 ZOK — zákonem se řídí práva a povinnosti vzniklé ode dne jeho účinnosti (princip nepravé zpětné účinnosti / nepretroaktivity).
+- *Související ustanovení téhož zákona:* § 776 (definice pro hlavu o přechodných ustanoveních), § 777 odst. 1 a 4 (zrušení rozporných ujednání ex lege; domněnka pokračování úpravy ObchZ), § 778 (běh lhůt), § 786 (účinnost).
+- *Související předpisy:* obchodní zákoník č. 513/1991 Sb. (dosavadní úprava), § 3028 OZ (obecné intertemporální pravidlo rekodifikace).
+- *Judikatura:* NS 29 ICdo 142/2023 (28. 3. 2024, kat. A) — i pro jednání, pro něž ZOK definuje ovládající a ovládanou osobu (§ 73, § 74), platí přičitatelnost úmyslu ovládající osoby; smlouva uzavřená v úmyslu zkrátit věřitele je absolutně neplatná. Potvrzuje, že hodnocení jednání se může opřít o ZOK i u dříve založených vztahů, jde-li o jednání učiněné za účinnosti ZOK.
+
+**4. Subsumpce.** Klíčový je okamžik vzniku práva/povinnosti. Pokud ručitelská povinnost vznikla již samotnou dohodou v roce 2011, jde o „právo vzniklé před účinností“ a § 775 míří na ObchZ. Pokud naopak dohoda zakládala jen rámec a vlastní povinnost vznikla až dospělostí dluhu po 1. 1. 2014, je naplněn znak „práva vzniklé ode dne účinnosti“ a aplikuje se ZOK. Sporné je právě určení okamžiku vzniku povinnosti.
+
+**5. Řešení.** Rozhodující je intertemporální kvalifikace: práva a povinnosti vzniklé do 31. 12. 2013 se posuzují podle ObchZ; teprve nově vzniklé se řídí ZOK. Korektivem je § 777 odst. 1 (rozporná kogentní ujednání zanikla k 1. 1. 2014) a § 777 odst. 4 (dosavadní dispozitivní úprava ObchZ se „vtělila“ do společenské smlouvy). Pravděpodobný výsledek: ručení vzniklé před účinností se posoudí podle ObchZ, ledaže bylo rozporné s kogentním ZOK. Procesně je nutné prokázat datum vzniku povinnosti.
+
+**6. Varianty.** (a) Kdyby společnost provedla opt-in podle § 777 odst. 5 (podřízení ZOK jako celku), aplikoval by se na vztahy ZOK i v dispozitivní části od zveřejnění zápisu. (b) Kdyby šlo o lhůtu, která začala běžet před 1. 1. 2014, posuzovala by se až do skončení podle ObchZ (§ 778) bez ohledu na § 775.
+
+#### G. Protiargumenty a rizika
+
+- *„Vše po 1. 1. 2014 se řídí ZOK.“* — Zjednodušení; § 775 chrání práva vzniklá dříve. Neutralizace: přesně doložit okamžik vzniku práva/povinnosti, nikoli okamžik jeho uplatnění.
+- *Kolize s § 777 odst. 1.* I starý vztah může být zasažen, byl-li v rozporu s kogentním ZOK — tato ujednání zanikla ex lege. Slabé místo: hranice mezi „kogentním“ a „dispozitivním“ ustanovením ZOK není vždy jasná a je předmětem výkladu.
+- *Souběh s § 778.* U běžících lhůt má přednost speciální § 778; argument opřený jen o § 775 by byl neúplný.
+
+#### H. Praktický závěr
+
+§ 775 zakládá princip nepretroaktivity: ZOK dopadá na práva a povinnosti vzniklé od 1. 1. 2014; starší se v zásadě řídí ObchZ, s korektivy v § 777.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit přesné datum vzniku posuzovaného práva/povinnosti (před/po 1. 1. 2014).
+- [ ] Ověřit, zda nejde o ujednání zaniklé pro rozpor s kogentním ZOK (§ 777 odst. 1).
+- [ ] Ověřit, zda se neuplatní speciální přechodné pravidlo (§ 776—785), zejm. běh lhůt (§ 778).
+- [ ] Zjistit, zda korporace neprovedla opt-in dle § 777 odst. 5 (mění rozsah aplikace ZOK).
+
+**Typicky rozhodné důkazy / podklady:** datované smlouvy a společenské smlouvy, doklady o vzniku a dospělosti závazku, výpis z OR (zápis o podřízení ZOK), účetní evidence.
+
 ### § 776 — Definice pojmů přechodných ustanovení
 
 <details><summary>📜 <b>Text § 776</b></summary>
@@ -104,6 +176,42 @@ V praktické judikatuře (NS, ÚS, SDEU) se ZOK často interpretuje **eurokonfor
 **Klíčová definice**: Když ZOK mluví o "veřejné listině", má na mysli **notářský zápis** podle zákona č. 358/1992 Sb. (notářský řád).
 
 **§ 776 odst. 3**: V přechodných ustanoveních se "společenskou smlouvou" rozumí **i stanovy, zakladatelská listina, zakladatelská smlouva**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společník s.r.o. GAMA chce v roce 2025 změnit společenskou smlouvu, kde se nově zavádí omezení převoditelnosti podílu. Společenská smlouva má formu notářského zápisu z roku 2013, ale jeden ze společníků namítá, že ke změně postačí písemná dohoda s úředně ověřenými podpisy, protože ZOK na řadě míst hovoří o „veřejné listině“, a tu prý lze pořídit i u advokáta v rámci autorizované konverze. Spor se týká toho, co je „veřejnou listinou“ ve smyslu ZOK a zda zahrnuje i jiné dokumenty než notářský zápis. Důkazy: stávající společenská smlouva, návrh změny, plné moci společníků.
+
+**2. Právní otázka.** Co se rozumí „veřejnou listinou“ podle ZOK a vztahuje se přechodný pojmový režim § 776 odst. 3 (stanovy/zakladatelská listina = společenská smlouva) i na korporaci založenou před 1. 1. 2014?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 776 odst. 1 (zveřejnění v Obchodním věstníku), odst. 2 (veřejnou listinou se rozumí notářský zápis), odst. 3 (pojem „společenská smlouva“ zahrnuje stanovy, zakladatelskou listinu i smlouvu — pro potřeby hlavy o přechodných ustanoveních).
+- *Související ustanovení téhož zákona:* § 777 (adaptace společenských smluv — používá pojem definovaný v § 776 odst. 3), ustanovení vyžadující formu veřejné listiny (např. změny společenské smlouvy s.r.o. dle § 171 odst. 1 ZOK).
+- *Související předpisy:* notářský řád č. 358/1992 Sb. (forma a náležitosti notářského zápisu); zákon č. 300/2008 Sb. (autorizovaná konverze — netvoří veřejnou listinu ve smyslu ZOK); zákon o veřejných rejstřících č. 304/2013 Sb.
+- *Judikatura:* k formě veřejné listiny a notářského zápisu se konstantně vychází z toho, že tam, kde zákon vyžaduje veřejnou listinu, je nezbytný notářský zápis; jiný dokument (vč. listiny s ověřenými podpisy) tuto formu nenahrazuje.
+
+**4. Subsumpce.** § 776 odst. 2 je legální definice: „veřejná listina = notářský zápis“. Námitka společníka, že postačí ověřené podpisy nebo autorizovaná konverze, nenaplňuje znak „notářský zápis“, a je tedy neudržitelná. Pojem „společenská smlouva“ v § 776 odst. 3 zahrnuje i zakladatelskou listinu, takže přechodná pravidla § 777 se na korporaci GAMA vztahují bez ohledu na to, jak je její dokument nazván.
+
+**5. Řešení.** Změna společenské smlouvy s.r.o. vyžaduje formu veřejné listiny = notářský zápis (nestačí ověřené podpisy ani konverze). Pro potřeby přechodných ustanovení se stanovy/zakladatelská listina/smlouva posuzují jednotně jako „společenská smlouva“. Procesně: změnu osvědčí notář notářským zápisem, který se založí do sbírky listin. Riziko: opomenutí formy veřejné listiny činí změnu neplatnou a rejstříkový soud ji nezapíše.
+
+**6. Varianty.** (a) Šlo-li by jen o zveřejnění údaje (nikoli o změnu zakladatelského jednání), postačí dle § 776 odst. 1 zveřejnění v Obchodním věstníku. (b) Kdyby zákon u konkrétního úkonu výslovně připouštěl prostou písemnou formu (nikoli veřejnou listinu), § 776 odst. 2 by se neuplatnil a notářský zápis by nebyl nutný.
+
+#### G. Protiargumenty a rizika
+
+- *„Veřejnou listinu lze nahradit autorizovanou konverzí nebo ověřenými podpisy.“* — Nesprávné; § 776 odst. 2 ztotožňuje veřejnou listinu výlučně s notářským zápisem. Neutralizace: odkaz na legální definici a notářský řád.
+- *Omezený dosah definic.* § 776 odst. 3 je formulován „pro potřeby této hlavy“ (přechodná ustanovení); mimo ně může mít pojem „společenská smlouva“ jiný rozsah. Slabé místo: nelze jej automaticky generalizovat na celý ZOK.
+- *Vztah Obchodní věstník vs. obchodní rejstřík.* § 776 odst. 1 řeší jen zveřejnění; nenahrazuje konstitutivní zápisy do OR podle z. č. 304/2013 Sb.
+
+#### H. Praktický závěr
+
+§ 776 je výkladový aparát přechodných ustanovení: „veřejná listina“ = notářský zápis; „společenská smlouva“ pokrývá i stanovy a zakladatelskou listinu/smlouvu; zveřejnění lze splnit Obchodním věstníkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Tam, kde ZOK žádá veřejnou listinu, zajistit notářský zápis (nikoli ověřené podpisy/konverzi).
+- [ ] Posoudit přechodná pravidla bez ohledu na název dokumentu (stanovy = zakladatelská listina = společenská smlouva dle § 776 odst. 3).
+- [ ] Nezaměňovat zveřejnění v Obchodním věstníku s konstitutivním zápisem do OR.
+- [ ] Ověřit, zda se definice § 776 odst. 3 uplatní (jen pro hlavu o přechodných ustanoveních).
+
+**Typicky rozhodné důkazy / podklady:** zakladatelský dokument korporace, notářský zápis, doklad o zveřejnění v Obchodním věstníku, výpis z OR a sbírky listin.
 
 ### § 777 — Adaptace starých společenských smluv
 
@@ -158,6 +266,43 @@ Obchodní korporace **musely** do **1. 7. 2014**:
 
 - *NS* [29 Cdo 1104/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19583EE892C2529CC12580E90036807C?openDocument) — kat. A, 22. 2. 2017
   > „I. V důsledku podřízení obchodní korporace zákonu o obchodních korporacích postupem podle § 777 odst. 5 tohoto zákona se nadále (od účinnosti této změny zakladatelského právního jednání) neuplatní domněnka zakotvená (pro obchodní korporace vzniklé před 1. lednem 2014) v § 777 odst. 4 uvedeného zákona. II. Nedojde-li změnou společenské smlouvy společnosti s ručením omezeným podle § 777 odst. 5 z. o. k. k zásahu do práv a povinností všech společníků, což je nutné posuzovat v každé společnosti individuálně, v závislosti na obsahu společenské smlouvy, není k usnesení valné hromady o změně společenské smlouvy nezbytný souhlas všech společníků podle § 171 odst. 2 in fine z. o. k. …"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel rodinné s.r.o. DELTA vykonával funkci na základě smlouvy o výkonu funkce uzavřené v roce 2012, kde byla sjednána měsíční odměna. Společnost po 1. 1. 2014 smlouvu neuzpůsobila ZOK a nedoručila ji do sbírky listin; nová smlouva nebyla schválena valnou hromadou ani do 1. 7. 2014. V roce 2025 nově nastoupivší společník napadá výplaty odměn jednateli za roky 2015—2024 s tvrzením, že výkon funkce byl ze zákona bezplatný. Jednatel namítá, že odměna byla po celou dobu vyplácena se souhlasem valné hromady a fakticky aprobována. Důkazy: smlouva o výkonu funkce z 2012, zápisy z valných hromad, účetnictví, mzdové doklady, sbírka listin.
+
+**2. Právní otázka.** Stal se výkon funkce jednatele bezplatným podle § 777 odst. 3 ZOK proto, že smlouva o výkonu funkce nebyla do 6 měsíců (do 1. 7. 2014) uzpůsobena ZOK?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 777 odst. 3 ZOK — neuzpůsobení smlouvy o výkonu funkce a o odměně do 6 měsíců → fikce bezplatného výkonu funkce; dále odst. 1 (zánik rozporných ujednání ex lege), odst. 2 (úprava společenských smluv do 6 měsíců + sankce zrušení a likvidace), odst. 4 (domněnka pokračování úpravy ObchZ), odst. 5 (opt-in — podřízení ZOK jako celku).
+- *Související ustanovení téhož zákona:* § 59—62 (smlouva o výkonu funkce, schvalování odměny), § 60 (náležitosti), § 171 odst. 2 (změna společenské smlouvy a souhlas společníků).
+- *Související předpisy:* obchodní zákoník č. 513/1991 Sb. (dosavadní úprava odměňování); OZ č. 89/2012 Sb. (bezdůvodné obohacení při výplatě bez právního důvodu).
+- *Judikatura:* NS 29 Cdo 3919/2014 — výklad § 777 odst. 3 (důsledky neuzpůsobení smlouvy o výkonu funkce). NS 29 Cdo 1104/2016 (kat. A, 22. 2. 2017) — po opt-in dle § 777 odst. 5 se již neuplatní domněnka § 777 odst. 4; ke změně společenské smlouvy s.r.o. dle § 777 odst. 5 není nutný souhlas všech společníků, nedojde-li k zásahu do práv a povinností všech (posuzuje se individuálně).
+
+**4. Subsumpce.** Znak „smlouva o výkonu funkce a o odměně neuzpůsobená do 6 měsíců“ je naplněn (úprava neproběhla, smlouva nebyla doručena do sbírky listin). Tím nastupuje fikce bezplatnosti dle § 777 odst. 3. Sporné je, zda následné každoroční schvalování odměny valnou hromadou představuje konkludentní uzpůsobení/nové sjednání odměny podle § 59—60 ZOK, které by fikci bezplatnosti prolomilo do budoucna.
+
+**5. Řešení.** Za období, kdy nebyla odměna platně sjednána postupem dle ZOK, platí fikce bezplatného výkonu funkce; vyplacené částky mohou být bezdůvodným obohacením. Lze však argumentovat, že schválením odměny valnou hromadou (orgánem příslušným dle § 59 odst. 2 ZOK) došlo k platnému určení odměny pro futuro. Pravděpodobný výsledek: odměna za roky před platným schválením je sporná (riziko vrácení), za období po řádném schválení valnou hromadou je nárok obhajitelný. Procesní kroky: dohledat zápisy VH, ověřit, zda odměna byla schválena výslovně a určitě.
+
+**6. Varianty.** (a) Kdyby společnost smlouvu o výkonu funkce uzpůsobila a doručila do sbírky listin do 1. 7. 2014, fikce bezplatnosti by nenastala vůbec. (b) Kdyby společnost provedla opt-in dle § 777 odst. 5, posílilo by to aplikaci ZOK jako celku a zároveň by od účinnosti změny odpadla domněnka § 777 odst. 4 (NS 29 Cdo 1104/2016).
+
+#### G. Protiargumenty a rizika
+
+- *„Odměnu schvalovala valná hromada, fikce bezplatnosti tedy neplatí.“* — Sankce § 777 odst. 3 dopadá na samotné neuzpůsobení smlouvy ve lhůtě; pozdější schválení může založit nárok jen do budoucna a jen při splnění § 59—60 ZOK. Neutralizace: doložit výslovné, určité a včasné schválení odměny příslušným orgánem.
+- *„Společnost měla být zrušena podle § 777 odst. 2.“* — Sankce zrušení a likvidace dopadá na neúpravu společenských smluv (odst. 2), nikoli automaticky na smlouvu o výkonu funkce (odst. 3); navíc nastupuje až po marném uplynutí dodatečné lhůty stanovené rejstříkovým soudem. Slabé místo: rozlišení mezi odst. 2 a odst. 3 je v praxi často směšováno.
+- *Důkazní riziko.* Klíčové je individuální posouzení obsahu společenské smlouvy a zápisů VH (NS 29 Cdo 1104/2016); chybějící nebo neurčité zápisy oslabují nárok jednatele.
+
+#### H. Praktický závěr
+
+§ 777 je nejvýznamnější přechodné ustanovení: rozporná kogentní ujednání zanikla k 1. 1. 2014 (odst. 1), společenské smlouvy se musely upravit do 1. 7. 2014 pod sankcí zrušení a likvidace (odst. 2), smlouvy o výkonu funkce do 1. 7. 2014 jinak bezplatnost (odst. 3), jinak platila dosavadní úprava ObchZ (odst. 4) s možností opt-in do 1. 1. 2016 (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byla smlouva o výkonu funkce uzpůsobena ZOK a doručena do sbírky listin do 1. 7. 2014.
+- [ ] Při neúpravě posoudit fikci bezplatného výkonu funkce (odst. 3) a riziko bezdůvodného obohacení z vyplacených odměn.
+- [ ] Zjistit, zda byla odměna následně platně schválena příslušným orgánem (§ 59 odst. 2 ZOK) — vliv pro futuro.
+- [ ] Ověřit, zda korporace neprovedla opt-in dle § 777 odst. 5 (zánik domněnky odst. 4) a zda byla dodržena pravidla souhlasu společníků (§ 171 odst. 2, NS 29 Cdo 1104/2016).
+- [ ] U společenské smlouvy ověřit úpravu dle odst. 1 a 2 a případnou výzvu rejstříkového soudu.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o výkonu funkce a její dodatky, zápisy z valných hromad o schválení odměny, sbírka listin a výpis z OR, účetní a mzdové doklady, zápis o podřízení ZOK (opt-in).
 
 ### § 778—785 — Specifická přechodná ustanovení
 
@@ -231,6 +376,42 @@ Opt-in mechanismus — pokud korporace neudělala explicitně opt-in, podléhala
 - *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — 28. 3. 2024, kat. A
   > „Také tehdy, jde-li o právní úkony nebo o právní jednání, pro která definuje osobu ovládající a osobu ovládanou úprava obsažená v § 73 a v § 74 odst. 1 a 3 z. o. k., platí, že ovládaná osoba má při právním úkonu nebo při právním jednání, které činí, takový úmysl, jaký má osoba, která ji ovládá. Smlouva, kterou smluvní strany uzavřely v úmyslu zkrátit uspokojení věřitele jedné z nich, je absolutně neplatná"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Holdingová struktura: řídící osoba EPSILON, a.s., uzavřela v roce 2012 s ovládanou společností OMIKRON, s.r.o., ovládací smlouvu a smlouvu o převodu zisku podle obchodního zákoníku. Po 1. 1. 2014 strany smlouvy nepřevedly do režimu ZOK ani je nově neuzavřely. V roce 2025 věřitel ovládané společnosti tvrdí, že smlouva o převodu zisku platí dál a že na jejím základě byl protiprávně odčerpán zisk; ovládaná společnost naopak tvrdí, že účinnost smlouvy zanikla ze zákona podle přechodného ustanovení. Druhý spor: družstvo SIGMA, jehož členy jsou pouze dvě právnické osoby, řeší, zda musí doplnit počet členů na zákonné minimum. Důkazy: ovládací smlouva a smlouva o převodu zisku, účetní závěrky řídící osoby (vymezení účetního období), stanovy družstva, seznam členů.
+
+**2. Právní otázka.** (a) Kdy zanikla účinnost ovládací smlouvy a smlouvy o převodu zisku uzavřených před 1. 1. 2014? (b) Musí družstvo vzniklé před účinností ZOK, jehož členy jsou pouze právnické osoby, splnit minimální počet členů podle § 552 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 780 ZOK (zánik účinnosti ovládacích smluv a smluv o převodu zisku posledním dnem účetního období řídící osoby následujícího po uplynutí 6 měsíců od účinnosti; nedotčenost dříve vzniklých práv a povinností); § 781 (družstva pouze s právnickými osobami nemusí splňovat minimální počet členů dle § 552 odst. 2); § 778 (běh lhůt podle dosavadních předpisů); § 779 (dokončení zahájených řízení a procesů podle dosavadních předpisů; trvání překážky výkonu funkce dle § 38l ObchZ); § 782—785 (základní kapitál družstva, terminologie členského/družstevního podílu, výmaz nedělitelného fondu, přeměna na sociální družstvo).
+- *Související ustanovení téhož zákona:* § 71—91 (koncern, ovládání), § 552 odst. 2 (minimální počet členů družstva), § 650 odst. 2 (členské vztahy v družstvu), § 775—777 (obecná přechodná pravidla).
+- *Související předpisy:* obchodní zákoník č. 513/1991 Sb. (§ 38l — překážky výkonu funkce, ovládací smlouvy); zákon č. 42/1992 Sb. (nedělitelný fond, § 18 odst. 2 a 3); zákon o veřejných rejstřících č. 304/2013 Sb.
+- *Judikatura:* NS 29 ICdo 142/2023 (28. 3. 2024, kat. A) — přičitatelnost úmyslu ovládající osoby ovládané (§ 73, § 74 ZOK); smlouva uzavřená v úmyslu zkrátit věřitele je absolutně neplatná. Relevantní pro posouzení odčerpání zisku v koncernu.
+
+**4. Subsumpce.** (a) Pro ovládací smlouvu/smlouvu o převodu zisku je rozhodný § 780 odst. 1: účinnost zanikla posledním dnem účetního období řídící osoby, jež bezprostředně následovalo po uplynutí 6 měsíců od 1. 1. 2014 (tj. typicky koncem účetního období po 1. 7. 2014). Práva a povinnosti vzniklé z těchto smluv před zánikem účinnosti zůstávají dle § 780 odst. 2 nedotčena. (b) Pro družstvo SIGMA je naplněn znak „družstvo vzniklé před účinností, jehož členy jsou pouze právnické osoby“, takže dle § 781 odst. 1 nemusí doplňovat počet členů na minimum dle § 552 odst. 2.
+
+**5. Řešení.** (a) Účinnost ovládací smlouvy a smlouvy o převodu zisku zanikla ex lege podle § 780 odst. 1; odčerpání zisku po tomto datu již nemá oporu ve smlouvě a posuzuje se podle obecné úpravy koncernu (§ 71—91) a případně jako jednání zkracující věřitele (NS 29 ICdo 142/2023). Dříve vzniklá práva a povinnosti (např. vyrovnání, dorovnání) zůstávají zachována (§ 780 odst. 2). (b) Družstvo SIGMA nemusí doplňovat členy a může i nadále upravit způsob rozhodování a statutární orgán ve stanovách. Procesně: ověřit účetní období řídící osoby a datum zániku účinnosti; u družstva ověřit, že členy jsou výlučně právnické osoby.
+
+**6. Varianty.** (a) Kdyby strany ovládací smlouvu po 1. 1. 2014 nově uzavřely podle ZOK, řídila by se napříště ZOK a § 780 odst. 1 by se neuplatnil. (b) Kdyby do družstva SIGMA přistoupila fyzická osoba, výjimka § 781 odst. 1 by odpadla a muselo by být dosaženo zákonného minima členů.
+
+#### G. Protiargumenty a rizika
+
+- *„Stará ovládací smlouva platí, dokud ji strany nezruší.“* — Nesprávné; § 780 odst. 1 stanoví zánik účinnosti ex lege k danému dni. Neutralizace: přesně určit účetní období řídící osoby a navázaný okamžik zániku.
+- *„Po zániku účinnosti smlouvy zanikla i všechna práva z ní.“* — § 780 odst. 2 výslovně chrání práva a povinnosti vzniklé před zánikem účinnosti. Slabé místo: hranice mezi „již vzniklými“ a „budoucími“ nároky (např. dorovnání) je sporná a vyžaduje skutkové dokazování.
+- *Komplexita §§ 778—785.* Tato ustanovení jsou heterogenní (lhůty, řízení, družstva, terminologie) a komentář je zpracovává souhrnně; u konkrétního případu je nutné jít k přesnému textu daného odstavce a neopírat se o zjednodušený přehled. Pozor též na nepřesnosti přehledových formulací (např. opt-in a akcie na majitele jsou navázány na jiná ustanovení než § 778/§ 781).
+
+#### H. Praktický závěr
+
+§§ 778—785 obsahují speciální přechodná pravidla: běh lhůt a dokončení zahájených řízení podle dosavadních předpisů (§ 778, § 779), zánik účinnosti ovládacích smluv a smluv o převodu zisku ex lege (§ 780), výjimky a úpravy pro družstva (§ 781—785). Vždy je nutné aplikovat přesný text konkrétního odstavce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U ovládacích smluv a smluv o převodu zisku určit účetní období řídící osoby a okamžik zániku účinnosti dle § 780 odst. 1.
+- [ ] Posoudit, která práva a povinnosti vznikla před zánikem účinnosti a jsou dle § 780 odst. 2 zachována.
+- [ ] U lhůt a běžících řízení aplikovat dosavadní předpisy (§ 778, § 779) a ověřit trvání překážek výkonu funkce dle § 38l ObchZ (§ 779 odst. 3).
+- [ ] U družstev ověřit aplikaci výjimek (§ 781 — pouze právnické osoby), úpravu základního kapitálu (§ 782), terminologii podílů (§ 783), výmaz nedělitelného fondu (§ 784) a podmínky přeměny na sociální družstvo (§ 785).
+
+**Typicky rozhodné důkazy / podklady:** ovládací smlouva a smlouva o převodu zisku, účetní závěrky a vymezení účetního období řídící osoby, stanovy a seznam členů družstva, doklady k běhu lhůt a k zahájeným řízením, výpis z OR.
+
 ---
 
 ## Část třetí — Účinnost (§ 786)
@@ -267,6 +448,42 @@ Opt-in mechanismus — pokud korporace neudělala explicitně opt-in, podléhala
 - **Klaus, Václav** — prezident republiky;
 - **Nečas, Petr** — předseda vlády;
 - **Němcová, Miroslava** — předsedkyně Poslanecké sněmovny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost ZÉTA, s.r.o., byla zapsána do obchodního rejstříku dne 20. 12. 2013, tedy ještě za účinnosti obchodního zákoníku, ale její zakladatelské právní jednání (společenská smlouva ve formě notářského zápisu) bylo formulováno podle pravidel ZOK, který měl nabýt účinnosti za 12 dní. Rejstříkový soud návrh na zápis projednával na přelomu let 2013/2014. V roce 2025 jeden ze společníků zpochybňuje platnost původní společenské smlouvy s tím, že v době jejího pořízení (prosinec 2013) ZOK ještě nebyl účinný, a smlouva tedy měla odpovídat obchodnímu zákoníku. Důkazy: notářský zápis o společenské smlouvě, návrh na zápis a datum jeho podání, usnesení o zápisu, výpis z OR.
+
+**2. Právní otázka.** Lze zakladatelské právní jednání učiněné před 1. 1. 2014 (před účinností ZOK) považovat za platné, odpovídá-li ZOK, ačkoli odporuje dosavadním předpisům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 786 ZOK — zákon nabývá účinnosti dnem 1. ledna 2014 (určení počátku časové působnosti; ukončení dvouleté legisvakance od publikace 22. 3. 2012).
+- *Související ustanovení téhož zákona:* § 775 (nepretroaktivita — práva a povinnosti vzniklé ode dne účinnosti), § 779 odst. 1 (zahájené řízení o zápisu se dokončí podle dosavadních předpisů, ale zakladatelské jednání odporující dosavadním předpisům se považuje za platné, vyhovuje-li ZOK), § 774 (implementované směrnice).
+- *Související předpisy:* obchodní zákoník č. 513/1991 Sb.; zákon o veřejných rejstřících č. 304/2013 Sb. (rovněž účinný od 1. 1. 2014); OZ č. 89/2012 Sb. a ZMPS č. 91/2012 Sb. (společná účinnost rekodifikace); Sbírka zákonů (publikace ZOK, částka 34/2012).
+- *Judikatura:* k legisvakanci a určení účinnosti se vychází z ústavní zásady, že právní předpis nabývá účinnosti dnem v něm uvedeným a od tohoto dne zavazuje; soudy posuzují přechod podle přechodných ustanovení, nikoli zpětně.
+
+**4. Subsumpce.** § 786 určuje, že ZOK je účinný od 1. 1. 2014; jednání učiněné v prosinci 2013 spadá časově ještě před účinnost. Sám § 786 platnost takového jednání neřeší — řeší ji speciální § 779 odst. 1, podle něhož se zakladatelské jednání učiněné před účinností, byť odporuje dosavadním předpisům, považuje za platné, vyhovuje-li ZOK. Znak „zahájené řízení o zápisu před účinností“ je naplněn (návrh podán v prosinci 2013).
+
+**5. Řešení.** Námitka neplatnosti je neúspěšná: ačkoli § 786 staví účinnost ZOK až na 1. 1. 2014, § 779 odst. 1 výslovně „zachraňuje“ zakladatelské jednání odpovídající ZOK, i bylo-li učiněno dříve a odporovalo dosavadní úpravě. Řízení o zápisu se sice dokončilo podle dosavadních předpisů, ale platnost společenské smlouvy se posoudí vstřícně k ZOK. Procesně: doložit datum podání návrhu a obsah notářského zápisu; spoléhat na § 779 odst. 1 ve spojení s § 786.
+
+**6. Varianty.** (a) Kdyby zakladatelské jednání bylo učiněno až po 1. 1. 2014, aplikoval by se přímo ZOK na základě § 786 bez potřeby § 779 odst. 1. (b) Kdyby jednání odporovalo jak dosavadním předpisům, tak ZOK, „záchranné“ pravidlo § 779 odst. 1 by se neuplatnilo a jednání by mohlo být neplatné.
+
+#### G. Protiargumenty a rizika
+
+- *„Co bylo učiněno před 1. 1. 2014, musí odpovídat obchodnímu zákoníku.“* — Obecně ano, ale § 779 odst. 1 zakládá výjimku pro zakladatelská jednání vyhovující ZOK. Neutralizace: argumentovat speciálním přechodným ustanovením, nikoli jen § 786.
+- *Spoléhání jen na § 786.* § 786 je ryze technické (určuje datum) a samo neřeší kolize starého a nového práva; bez § 775 a § 779 je argumentace neúplná. Slabé místo: zaměňování „účinnosti“ a „platnosti“.
+- *Souběžnost rekodifikace.* Od 1. 1. 2014 nabyly účinnosti i OZ, ZMPS a zákon o veřejných rejstřících; posouzení korporátního jednání nelze izolovat jen na ZOK.
+
+#### H. Praktický závěr
+
+§ 786 určuje účinnost ZOK k 1. 1. 2014 (po dvouleté legisvakanci od publikace 22. 3. 2012). Pro intertemporální otázky je však třeba kombinovat § 786 s § 775 (nepretroaktivita) a zejména s § 779 (dokončení zahájených řízení a „záchrana“ zakladatelských jednání vyhovujících ZOK).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišovat účinnost (§ 786 — od 1. 1. 2014) od platnosti konkrétního jednání.
+- [ ] U jednání či řízení na přelomu 2013/2014 aplikovat § 779 (dokončení dle dosavadních předpisů; platnost zakladatelského jednání vyhovujícího ZOK).
+- [ ] Zohlednit společnou účinnost OZ, ZMPS a zákona o veřejných rejstřících od 1. 1. 2014.
+- [ ] Ověřit aktuální konsolidované znění ZOK (pozdější novely, zejm. 33/2020 Sb. s účinností od 1. 1. 2021).
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis o zakladatelském jednání, datum podání návrhu na zápis a usnesení rejstříkového soudu, výpis z OR, znění ZOK účinné v rozhodné době.
 
 ---
 
